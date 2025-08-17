@@ -1,0 +1,1219 @@
+--- Starting Diagnostic for: data/Anushtha Kushwaha_report.pdf ---
+
+--- RAW TEXT OUTPUT BEGIN ---
+Booking ID : 11542424533
+Sample Collection Date : 28/Aug/2024
+Anushtha Kushwaha
+Female, 30 Yrs
+A Comprehensive
+Health Analysis Report
+A I  B a s e d  P e r s o n a l i z e d  R e p o r t  f o r  Y o u
+ 
+INDIA’S FIRST & ONLY CREDIBILITY CHECK FOR YOUR LAB REPORT
+Check the authenticity of your lab report with machine data
+Scan the QR using any QR code scanner
+ 
+
+--- PAGE BREAK ---
+Smart Report 3.0
+HEALTH ANALYSIS
+Personalized Summary & Vital Parameters
+Anushtha Kushwaha
+Booking ID : 11542424533 | Sample Collection Date : 28/Aug/2024
+ 
+Vitamin B12
+Test not taken
+ Liver Function
+Alanine Aminotransferase
+(ALT/SGPT) : 31.1 U/L
+ Everything looks good
+ Calcium Total
+8.8 mg/dl
+ Everything looks good
+ 
+Iron studies
+Test not taken
+ Complete
+Hemogram
+Haemoglobin (HB) : 13.2 g/dL
+ Everything looks good
+Anushtha Kushwaha,
+Congratulations, We have successfully completed your health diagnosis. This is a big
+step towards staying on top of your health and identify potential to improve!
+10 Vital Health Parameters of a Human Body Ecosystem
+Below are the health parameters which require routine checkups for primary healthcare.
+The view also includes personalised information depending on the tests you have taken.
+ 
+Your Health Score
+86
+Out of 100
+*Calculated from test reports
+ 
+Thyroid Function
+Thyroid Stimulating Hormone
+(TSH)-Ultrasensitive : 1.84
+µIU/ml
+ Everything looks good
+ Cholesterol Total
+271.3 mg/dl
+ Concern
+ Kidney Function
+Serum Creatinine : 0.62 mg/dl
+ Everything looks good
+ 
+Vitamin D
+Test not taken
+ 
+HbA1c
+Test not taken
+ 
+ 
+
+--- PAGE BREAK ---
+Smart Report 3.0
+HEALTH ANALYSIS
+Critical Parameters
+Anushtha Kushwaha
+Booking ID : 11542424533 | Sample Collection Date : 28/Aug/2024
+Urea, Serum
+Serum urea is the normal waste product, which is produced in the liver after breaking down
+of proteins and is removed by kidneys. If the kidneys or liver are not functioning well, the
+urea levels in blood rise. This test helps measure the urea levels in blood and assess kidney
+functioning.
+Impact on overall health?
+This test assesses your risk of kidney damage, liver damage, circulatory problems or dehydration. You
+may also be advised this test to check for renal complications in diabetes.
+How to improve health conditions?
+If your serum urea levels are high, consult your physician for treatment. If the fluctuations in urea
+levels are due to dietary changes or medications, avoid those changes.
+Your Result Value
+ 14 mg/dl
+Concern
+Normal Value
+ 17-43 mg/dl
+We have observed that the below given critical parameters have shown out of range results, which
+can have negative impact on your health.
+ 
+
+--- PAGE BREAK ---
+Glucose-Random
+GLUCOSE, RANDOM
+Method: Hexokinase
+Machine: BECKMAN COULTER AU 5800
+90
+mg/dl
+70 - 140
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: FLOURIDE PLASMA
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:45PM
+Report Generated On
+: 28/Aug/2024 07:43PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 1 of 14
+
+--- PAGE BREAK ---
+Liver Function Test (LFT)
+Serum Bilirubin, (Total)
+Method: DPD
+Machine: BECKMAN COULTER AU 5800
+0.43
+mg/dl
+0.3 - 1.2
+Serum Bilirubin, (Direct)
+Method: DPD
+Machine: BECKMAN COULTER AU 5800
+0.06
+mg/dl
+0 - 0.2
+Serum Bilirubin, (Indirect)
+Method: Calculated
+0.37
+mg/dl
+0.0 - 0.8
+Aspartate Aminotransferase (AST/SGOT)
+Method: IFCC WITHOUT P5P
+Machine: BECKMAN COULTER AU 5800
+27.80
+U/L
+3 - 35
+Alanine Aminotransferase (ALT/SGPT)
+Method: IFCC WITHOUT P5P
+Machine: BECKMAN COULTER AU 5800
+31.1
+U/L
+3 - 35
+Alkaline Phosphatase (ALP)
+Method: IFCC AMP BUFFER
+Machine: BECKMAN COULTER AU 5800
+94.00
+U/L
+33-98
+Gamma Glutamyl Transferase (GGT)
+Method: IFCC
+Machine: BECKMAN COULTER AU 5800
+22.0
+U/L
+5- 38
+Serum Total Protein
+Method: BIURET
+Machine: BECKMAN COULTER AU 5800
+7.61
+gm/dl
+6.6 - 8.3
+Serum Albumin
+Method: BROMOCRESOL GREEN
+Machine: BECKMAN COULTER AU 5800
+4.43
+g/dl
+3.5 - 5.2
+Serum Globulin
+Method: Calculated 
+3.18
+gm/dl
+3.0 - 4.2
+Albumin/Globulin Ratio
+Method: Calculated
+1.39
+Ratio
+1.2 - 2.5
+SGOT/SGPT Ratio
+Method: Calculated
+0.89
+Ratio
+0.7 - 1.4
+Bilirubin is a yellowish pigment found in bile and is a breakdown product of normal heme catabolism. Elevated levels are a result of  increased
+bilirubin production (e.g hemolysis and ineffective erythropoiesis),  decreased bilirubin excretion (e.g.; obstruction and hepatitis) and abnormal
+bilirubin metabolism (e.g; hereditary and neonatal jaundice) .
+Conjugated (direct) bilirubin is elevated in conditions like- Hereditary disorders( Dubin Johnson syndrome, Rotor syndrome),Hepatocellular
+damage(e.g –viral ,toxic ,alcohol ,drugs) ,biliary duct obstruction  (extrahepatic or intrahepatic), Infiltrations ,space occupying lesions(e.g
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: Serum
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:31PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 2 of 14
+
+--- PAGE BREAK ---
+metastasis, abscess , granuloma , amyloidosis. Increased unconjugated (indirect) bilirubin may be a result of hemolytic or pernicious anemia,
+transfusion reaction & a common metabolic condition termed Gilbert syndrome.
+AST levels increase in viral hepatitis, blockage of the bile duct ,cirrhosis of the liver, liver cancer, kidney failure, hemolytic anemia, pancreatitis,
+hemochromatosis. AST  levels may also increase after a heart attack or strenuous activity.
+ALT is a liver specific enzyme  commonly measured as a part of a diagnostic evaluation of hepatocellular injury, to determine liver health.
+Elevated ALP levels are seen in Biliary Obstruction, Osteoblastic Bone Tumors, Osteomalacia, Hepatitis, Hyperparathyroidism, Leukemia,
+Lymphoma, Paget’s disease, Rickets, Sarcoidosis etc.
+Elevated serum GGT activity can be found in diseases of the liver, Biliary system and pancreas. Obstructive liver disease, high alcohol
+consumption and use of enzyme-inducing drugs lead to raised GGT levels .
+Serum total protein measures  the total amount of protein in serum. It is largely comprised  of albumin and globulins. Increased levels  may be
+due to: Chronic inflammation or infection, including HIV and hepatitis B or C, multiple myeloma, Waldenstrom's disease. Decreased levels may
+be due to: Agammaglobulinemia, Bleeding (hemorrhage), Burns, Glomerulonephritis, Liver disease, Malabsorption, Malnutrition, Nephrotic
+Syndrome.
+Albumin is the most abundant protein in the serum and is produced in the liver. Low serum albumin levels (hypoalbuminemia) can be caused by:
+Liver diseases like liver cirrhosis, nephrotic syndrome, protein-losing enteropathy, burns, hemodilution, increased vascular permeability or
+decreased lymphatic clearance, malnutrition and wasting .
+Globulins are increased in most liver diseases , in chronic inflammatory diseases and neoplastic diseases 
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: Serum
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:31PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 3 of 14
+
+--- PAGE BREAK ---
+Kidney Function Test1 (KFT1)
+Serum Creatinine
+Method: Modified Jaffe, Kinetic
+Machine: BECKMAN COULTER AU 5800
+0.62
+mg/dl
+0.3 - 1.2
+GFR, ESTIMATED
+Method: Calculated
+122.78
+mL/min/1.73m2
+Serum Uric Acid
+Method: Uricase PAP
+Machine: BECKMAN COULTER AU 5800
+5.3
+mg/dl
+2.6-6.0
+Serum Calcium
+Method: ARSENAZO III
+Machine: BECKMAN COULTER AU 5800
+8.8
+mg/dl
+8.8 - 10.6
+Serum Phosphorus
+Method: PHOSPHOMOLYBDATE COMPLEX
+Machine: BECKMAN COULTER AU 5800
+2.6
+mg/dl
+2.5 - 4.5
+Serum Sodium
+Method: ISE (Indirect)
+Machine: BECKMAN COULTER AU 5800
+137
+mmol/L
+136 - 146
+Serum Chloride
+Method: ISE (Indirect)
+Machine: BECKMAN COULTER AU 5800
+103
+mmol/L
+101 - 109
+Blood Urea
+Method: GLDH,Kinetic assay
+Machine: BECKMAN COULTER AU 5800
+14
+mg/dl
+17 - 43
+Blood Urea Nitrogen (BUN)
+Method: Calculated
+6.6
+mg/dl
+8-20
+Bun/Creatinine Ratio
+Method: Calculated
+10.71
+Ratio
+Urea/Creatinine Ratio
+22.90
+The kidneys play a vital role in the excretion of waste products and toxins such as urea, creatinine and uric acid, regulation of extracellular fluid
+volume, serum osmolality and electrolyte concentrations, as well as the production of hormones like erythropoietin and 1,25 dihydroxy vitamin D
+and renin. Assessment of renal function is important in the management of patients with kidney disease or pathologies affecting renal function.
+Tests of renal function have utility in identifying the presence of renal disease, monitoring the response of kidneys to treatment, and determining
+the progression of renal disease.
+Urea is synthesized in the liver as the final product of protein and amino acid metabolism. Urea synthesis is therefore dependent on daily protein
+intake and endogenous protein metabolism.
+Creatinine is a metabolic product of creatine and phosphocreatine, which are both found almost exclusively in muscle.
+Uric Acid is the major product of purine catabolism in humans. Uric acid levels are used to monitor the treatment of gout.
+Measurement of calcium is used in the diagnosis and treatment of parathyroid disease, a variety of bone diseases, chronic renal disease,
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: SERUM
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:49PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 4 of 14
+
+--- PAGE BREAK ---
+urolithiasis and tetany. Phosphorus levels are increased in acute or chronic renal failure with decreased GFR .
+Sodium is an electrolyte, and it helps regulate the amount of water  in and around the cells & the balance of chemicals in the body called acids
+and bases.
+Chloride  is a negatively charged ion that works with other electrolytes such as potassium, sodium, and bicarbonate, to help regulate the amount
+of fluid in the body and maintain the acid-base balance.
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: SERUM
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:49PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 5 of 14
+
+--- PAGE BREAK ---
+Lipid Profile Basic
+Total Cholesterol
+Method: ABELL KENDALL
+Machine: BECKMAN COULTER AU 5800
+271.3
+mg/dl
+Desirable : <200 
+Borderline: 200-239
+High : >/=240
+Serum Triglycerides
+Method: GPO-POD
+Machine: BECKMAN COULTER AU 5800
+152.6
+mg/dl
+Desirable : <150
+Borderline high : 150-199
+High : 200-499
+Very high : >= 500
+Serum HDL Cholesterol
+Method: ENZYMATIC IMMUNOINHIBITION
+Machine: BECKMAN COULTER AU 5800
+58.2
+mg/dl
+40 - 60
+LDL Cholesterol Calculated
+Method: Calculated
+182.58
+mg/dl
+Optimal : <100
+near /above Optimal:100 -
+129
+Borderline High: 130- 159
+High : 160 - 189
+Very High :>/=190
+VLDL Cholesterol Calculated
+Method: Calculated
+30.52
+mg/dl
+<30
+Total CHOL / HDL Cholesterol Ratio
+Method: Calculated
+4.66
+Ratio
+3.30 - 4.40
+LDL / HDL Cholesterol Ratio
+Method: Calculated
+3.14
+Ratio
+Desirable/Low Risk: 0.5-3.0
+Line/Moderate Risk: 3.0-6.0
+Elevated/High Risk: >6.0
+HDL / LDL Cholesterol Ratio
+Method: Calculated
+0.32
+Ratio
+Optimal->0.4
+Moderate-0.4 to 0.3
+High-<0.3
+Non-HDL Cholesterol
+Method: Calculated
+213.1
+mg/dl
+0.0 - 160.0
+Dyslipidemia is a disorder of fat or lipoprotein metabolism in the body and includes lipoprotein overproduction or deficiency. 
+Dyslipidemias means increase in the level of one or more of the following: Total Cholesterol, low density lipoprotein (LDL) and/or triglyceride
+concentrations.
+Dyslipidemia also includes a decrease in the “good" cholesterol or high-density lipoprotein (HDL) concentration in the blood.
+Cholesterol is a steroid carried in the bloodstream as lipoprotein, necessary for cell membrane functioning and as a precursor to bile acids,
+progesterone ,vitamin D ,estrogens ,glucocorticoids and mineralocorticoids.
+HDL is termed “good cholesterol” because its levels are inversely related to the risk of  Coronary heart disease.
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: SERUM
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:49PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 6 of 14
+
+--- PAGE BREAK ---
+LDL cholesterol is termed the “bad cholesterol” and their increased levels are associated with increased risk of atherosclerosis and coronary
+heart disease.
+Lipid level assessments must be made following 9 to 12 hours of fasting, otherwise assay results might lead to erroneous interpretation.
+Healthians labs report biological reference intervals (normal ranges) in accordance with  the recommendations of The National Cholesterol
+Education Program (NCEP) & Adult Treatment Panel IV (ATP IV) guidelines providing the most desirable targets of various circulating lipid
+fractions in the blood. NCEP recommends that all adults above 20 years of age must be screened for abnormal lipid levels. 
+ 
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: SERUM
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:49PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 7 of 14
+
+--- PAGE BREAK ---
+Urine Routine & Microscopy Extended
+PHYSICAL EXAMINATION
+Colour
+Method: Visual
+Pale Yellow
+Pale Yellow
+Volume
+Method: Visual
+15.00
+mL
+Appearance
+Method: Visual
+Clear
+Clear
+CHEMICAL EXAMINATION
+Specific Gravity
+Method: Acid ionic exchange
+Machine: DIRUI FUS 2000
+1.005
+1.001 - 1.035
+pH
+Method: pH indicator method
+Machine: DIRUI FUS 2000
+5.5
+4.5 - 7.5
+Glucose
+Method: Glucose oxidase enzyme reaction
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Urine Protein
+Method: protein error method
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Ketones
+Method: Sodium nitroprusside
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Urobilinogen
+Method: Diazonium salt
+Machine: DIRUI FUS 2000
+Normal
+Normal
+Bilirubin
+Method: Diazotized Dichloroaniline reaction
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Nitrite
+Method: Griess method
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Blood
+Method: Peroxidase-like method
+Machine: DIRUI FUS 2000
+Negative
+Negative
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: URINE
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:35PM
+Report Generated On
+: 28/Aug/2024 09:01PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF CLINICAL PATHOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 8 of 14
+
+--- PAGE BREAK ---
+Leucocyte Esterase
+Method: Pyrrole diazoniun reaction
+Machine: DIRUI FUS 2000
+Negative
+Negative
+MICROSCOPIC EXAMINATION
+Pus Cells
+Method: Microscopic Examination
+1-2
+/HPF
+0 - 5
+Epithelial cells
+Method: Microscopic Examination
+1-2
+/HPF
+0 - 5
+RBCs
+Method: Microscopic Examination
+Nil
+/HPF
+Nil
+Casts
+Method: Microscopic Examination
+Nil
+Nil
+Crystals
+Method: Microscopic Examination
+Nil
+Nil
+Bacteria
+Method: Microscopic Examination
+Absent
+Absent
+Yeast Cell
+Absent
+Others (Non Specific)
+Method: Direct & Concentration technique /Microscopy
+Nil
+The main indication for testing for glucose in urine is detection of unsuspected diabetes mellitus or follow-up of known diabetic patients. Renal glycosuria accounts
+for 5% of cases of glycosuria in general population.
+Proteinuria can be seen in nephrotic syndrome, pyelonephritis, heavy metal poisoning, tuberculosis of kidney, interstitial nephritis, cystinosis, Fanconi syndrome ,
+rejection of kidney transplant. Hemodynamic proteinuria is transient and can be seen in high fever, hypertension, heavy exercise, congestive cardiac failure,
+seizures, and exposure to cold. Post-renal proteinuria is caused by inflammatory or neoplastic conditions in renal pelvis, ureter, bladder, prostate, or urethra.
+Ketonuria can be seen in uncontrolled Diabetes mellitus with ketoacidosis, Glycogen storage disorder, starvation, persistent vomiting in children, weight reduction
+program, fever in children, severe thyrotoxicosis, pregnancy and protein calorie malnutrition.
+Presence of bilirubin in urine indicates conjugated hyperbilirubinemia (obstructive or hepatocellular jaundice). Bile salts along with bilirubin can be detected in urine in
+cases of obstructive jaundice. Normally about 0.5-4 mg of urobilinogen is excreted in urine in 24 hours. Therefore, a small amount of urobilinogen is normally
+detectable in urine. Increased urobilinogen in urine can be seen due to hemolysis , megaloblastic anemia and haemorrhage in tissues. Decreased urobilinogen can be
+seen in obstructive jaundice, reduction of intestinal bacterial flora, neonates and following antibiotic treatment. The presence of abnormal number of intact red blood
+cells in urine is called as hematuria. It implies presence of a bleeding lesion in the urinary tract. Hematuria can be seen in glomerular diseases like Glomerulonephritis,
+Berger’s disease, lupus nephritis, Henoch-Schonlein purpura, non glomerular diseases like Calculus, tumor, infection, tuberculosis, pyelonephritis, hydronephrosis,
+polycystic kidney disease, trauma, after strenuous physical exercise, diseases of prostate (benign hyperplasia of prostate, carcinoma of prostate).
+Nitrites are not present in normal urine. Ingested nitrites are converted to nitrate and excreted
+in urine. If gram-negative bacteria (e.g. E.coli, Salmonella, Proteus, Klebsiella, etc.) are present in urine, they will reduce the nitrates to nitrites through the action of
+bacterial enzyme nitrate reductase.  As E. coli is the commonest organism causing urinary tract infection, this test is helpful as a screening test for urinary tract
+infection.
+Some organisms like Staphylococci or Pseudomonas do not reduce nitrate to nitrite and therefore in such infections nitrite test is negative.
+Leucocyte esterase test detects esterase enzyme released in urine from granules of leucocytes. Thus the test is positive in pyuria.
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: URINE
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:35PM
+Report Generated On
+: 28/Aug/2024 09:01PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF CLINICAL PATHOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 9 of 14
+
+--- PAGE BREAK ---
+ERYTHROCYTE SEDIMENTATION RATE (ESR)
+ESR
+Method: Kinetic Red Cells Aggregation
+Machine: ALIFAX TEST - 1
+14
+mm/1st hour
+0-12
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: Whole Blood EDTA
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:24PM
+Report Generated On
+: 28/Aug/2024 07:20PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 10 of 14
+
+--- PAGE BREAK ---
+Complete Blood Count
+Haemoglobin (HB)
+Method: Photometry
+Machine: BECKMAN COULTER DxH900
+13.2
+g/dL
+12.0-15.0
+Total Leucocyte Count (TLC)
+Method: Impedance
+Machine: BECKMAN COULTER DxH900
+8.0
+10^3/uL
+4.0-10.0
+Hematocrit (PCV)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+40.3
+%
+36.0-46.0
+Red Blood Cell Count (RBC)
+Method: Impedance
+Machine: BECKMAN COULTER DxH900
+4.50
+10^6/µl
+3.80-4.80
+Mean Corp Volume (MCV)
+Method: Derived from RBC Histogram
+Machine: BECKMAN COULTER DxH900
+90.5
+fL
+83.0-101.0
+Mean Corp Hb (MCH)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+29.7
+pg
+27.0-32.0
+Mean Corp Hb Conc (MCHC)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+32.8
+g/dL
+31.5-34.5
+RDW - CV
+Method: Derived from RBC Histogram
+Machine: BECKMAN COULTER DxH900
+14.0
+%
+11.6-14.0
+RDW - SD
+Method: Derived from RBC Histogram
+Machine: BECKMAN COULTER DxH900
+44.60
+fL
+39.0-46.0
+Mentzer Index
+Method: Calculated
+20.11
+Ratio
+RDWI
+Method: Calculated
+281.56
+Ratio
+Green and king index
+Method: Calculated
+87
+Ratio
+Differential Leucocyte Count
+Neutrophils
+Method: VCS Technology
+Machine: BECKMAN COULTER DxH900
+62.7
+%
+40 - 80
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: WHOLE BLOOD EDTA
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:24PM
+Report Generated On
+: 28/Aug/2024 06:52PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 11 of 14
+
+--- PAGE BREAK ---
+Lymphocytes
+Method: VCS Technology
+Machine: BECKMAN COULTER DxH900
+27.3
+%
+20-40
+Monocytes
+Method: VCS Technology
+Machine: BECKMAN COULTER DxH900
+6.0
+%
+02 - 10
+Eosinophils
+Method: VCS Technology
+Machine: BECKMAN COULTER DxH900
+3.6
+%
+01 - 06
+Basophils
+Method: VCS Technology
+Machine: BECKMAN COULTER DxH900
+0.4
+%
+00 - 02
+Absolute Leucocyte Count
+Absolute Neutrophil Count (ANC)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+5.02
+10^3/uL
+2.0-7.0
+Absolute Lymphocyte Count (ALC)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+2.18
+10^3/uL
+1.0-3.0
+Absolute Monocyte Count
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+0.48
+10^3/uL
+0.2-1.0
+Absolute Eosinophil Count (AEC)
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+0.29
+10^3/uL
+0.02-0.5
+Absolute Basophil Count
+Method: Calculated
+Machine: BECKMAN COULTER DxH900
+0.03
+10^3/uL
+0.02 - 0.10
+Platelet Count(PLT)
+Method: Impedance
+Machine: BECKMAN COULTER DxH900
+302
+10^3/µl
+150-410
+MPV
+Method: Derived from PLT Histogram
+Machine: BECKMAN COULTER DxH900
+9.8
+fL
+7 - 9
+The International Council for Standardization in Haematology (ICSH) recommends reporting of absolute counts of various WBC subsets for clinical decision making.
+This test has been performed on a fully automated 5 part differential cell counter which counts over 10,000 WBCs to derive differential counts. A complete blood
+count is a blood panel that gives information about the cells in a patient's blood, such as the cell count for each cell type and the concentrations of Hemoglobin and
+platelets. The cells that circulate in the bloodstream are generally divided into three types: white blood cells (leukocytes), red blood cells (erythrocytes), and platelets
+(thrombocytes). Abnormally high or low counts may be physiological or may indicate disease conditions, and hence need to be interpreted clinically.
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: WHOLE BLOOD EDTA
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:24PM
+Report Generated On
+: 28/Aug/2024 06:52PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 12 of 14
+
+--- PAGE BREAK ---
+The Mentzer index is used to differentiate iron deficiency anaemia beta thalassemia trait. If a CBC indicates microcytic anaemia, these are two of the most likely
+causes, making It necessary to distinguish between them.
+If the quotient of the mean corpuscular volume divided by the red blood cell count is then 13, thalassemia is more likely. If the result is greater than 13, then iron-
+deficiency anaemia is more likely.
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: WHOLE BLOOD EDTA
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:24PM
+Report Generated On
+: 28/Aug/2024 06:52PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 13 of 14
+
+--- PAGE BREAK ---
+Pregnancy interval
+Bio Ref Range for TSH in uIU/ml (As per American Thyroid Association)
+First trimester
+0.1 - 2.5
+Second trimester
+0.2 – 3.0
+Third trimester
+0.3 – 3.0
+Thyroid Profile (Total T3,T4, TSH)
+Tri-Iodothyronine (T3, Total)
+Method: CLIA
+1.01
+ng/ml
+0.60-1.81
+Thyroxine (T4, Total)
+Method: CLIA
+8.40
+ug/dl
+3.2-12.6
+Thyroid Stimulating Hormone (TSH)-Ultrasensitive
+Method: CLIA
+1.844
+µIU/ml
+0.55-4.78
+Healthians recommends that the following potential sources of variation should be considered while interpreting thyroid hormone results:
+1. Thyroid hormones undergo rhythmic variation within the body this is called circadian variation in TSH secretion: Peak levels are seen between
+2-4 AM. Minimum levels seen between 6-10 AM. This variation may be as much as 50% thus, influence of sampling time needs to be considered
+for clinical interpretation.
+2. Circulating forms of T3 and T4 are mostly reversibly bound with Thyroxine binding globulins (TBG), and to a lesser extent with albumin and
+Thyroid binding Pre-Albumin. Thus the conditions in which TBG and protein levels alter such as chronic liver disorders, pregnancy, excess of
+estrogens, androgens, anabolic steroids and glucocorticoids may cause misleading total T3, total T4 and TSH interpretations.
+3. Total T3 and T4 levels are seen to have physiological rise during pregnancy and in patients on steroid treatment.
+4. T4 may be normal even in the presence of hyperthyroidism under the following conditions : T3 thyrotoxicosis, Hypoproteinemia related reduced
+binding, during intake of certain drugs (eg Phenytoin, Salicylates etc)
+5. Neonates and infants have higher levels of T4 due to increased concentration of TBG
+6. TSH levels may be normal in central hypothyroidism, recent rapid correction of hypothyroidism or hyperthyroidism, pregnancy, phenytoin therapy
+etc.
+7. TSH values of <0.03 uIU/mL must be clinically correlated to evaluate the presence of a rare TSH variant in certain individuals which is
+undetectable by conventional methods.
+8. Presence of Autoimmune disorders may lead to spurious results of thyroid hormones.
+9. Various drugs influence the levels of thyroid hormones such as L-Dopa, Lithium, Glucocorticoids, Phenytoin etc.
+10. Healthians recommends evaluation of unbound fractions, that is free T3 (fT3) and free T4 (fT4) for clinic-pathologic correlation, as these are
+the metabolically active forms.
+ 
+*** End Of Report ***
+Patient Name
+: Anushtha Kushwaha
+Age/Gender
+: 30Y 0M 0D /Female
+Order Id
+: 11542424533
+Referred By
+: Self
+Customer Since
+: 28/Aug/2024
+Sample Type
+: Serum
+Barcode
+: E1787687
+Sample Collected On
+: 28/Aug/2024 04:35PM
+Sample Received On
+: 28/Aug/2024 06:34PM
+Report Generated On
+: 28/Aug/2024 09:49PM
+Sample Temperature
+: Maintained
+ReportStatus
+: Final Report
+DEPARTMENT OF IMMUNOLOGY
+Test Name
+Value
+Unit
+Bio. Ref Interval
+SIN No:E1787687
+                 Page 14 of 14
+
+--- PAGE BREAK ---
+
+--- PAGE BREAK ---
+Smart Report 3.0
+ADVISORY
+Health Advisory
+Anushtha Kushwaha
+Booking ID : 11542424533 | Sample Collection Date : 28/Aug/2024
+Body Mass Index
+No Data
+Height
+No Data
+Weight
+No Data
+ 
+Physical Activity
+·
+ 
+No Data
+Medication
+·
+ No Data Found
+ 
+Smoke
+No Data
+Alcohol
+No Data
+ 
+Food Preference
+No Data
+Family History
+No Data
+ 
+Blood Pressure
+No Data
+Sugar levels
+No Data
+SUGGESTED
+NUTRITION
+ 
+SUGGESTED NUTRITION
+Do's
+Have a balanced diet that includes whole grains,
+pulses, dairy, fruits, vegetables, nuts and healthy fats
+Include fruits like apples, berries and melons in your
+diet
+Include whole grains in your diet like whole wheat
+bread and other products, brown rice or hand
+pounded rice, oats
+Include fresh garlic and fenugreek seeds in your diet
+ 
+Dont's
+Avoid flavoured and seasoned foods
+Decrease intake of colas and sugary drinks
+Avoid saturated fats, transfats, oily and greasy foods
+like cakes, creamy or fried foods
+Avoid high cholesterol and calorie dense foods
+Avoid red meat and organ meats
+Limit the use of oil and avoid sauces and dressings
+SUGGESTED
+LIFESTYLE
+ 
+SUGGESTED LIFESTYLE
+Do's
+Sleep well at night and do relaxing activities
+Maintain ideal weight
+Lose weight gradually and stay active
+ 
+Dont's
+Avoid overexertion without having food or drink
+Avoid strenuous exercises
+Avoid smoking and alcohol
+Avoid late night heavy meals
+Avoid overeating or calorie rich food
+Avoid long periods of inactivity
+SUGGESTED
+FUTURE
+TESTS
+ 
+SUGGESTED FUTURE TESTS
+   Complete Hemogram - Every 2 Month
+   Peripheral Smear Examination By Pathologist - Every 2 Month
+   Lipid Profile - Every 3 Month
+   Liver Function Test - Every 3 Month
+   Kidney Function Test - Every 3 Month
+   Blood Glucose Fasting - Every 3 Month
+   HsCRP High Sensitivity CRP - Every 4 Month
+ 
+
+--- PAGE BREAK ---
+
+--- RAW TEXT OUTPUT END ---

@@ -1,0 +1,1175 @@
+--- Starting Diagnostic for: data/490405184_Report_F2025-07-29T130400.pdf ---
+--- STARTING PARSER DEBUG ---
+Total lines in text: 370
+
+[Line 0]: 'Report Status'
+
+[Line 1]: 'Female'
+
+[Line 2]: '56 Years'
+
+[Line 3]: ':'
+
+[Line 4]: ':'
+
+[Line 5]: ':'
+
+[Line 6]: ':'
+
+[Line 7]: 'Age'
+
+[Line 8]: 'Gender'
+
+[Line 9]: 'Reported'
+
+[Line 10]: 'P'
+
+[Line 11]: '29/7/2025   9:39:00AM'
+
+[Line 12]: 'Self'
+
+[Line 13]: '490405184'
+
+[Line 14]: 'Ms. MEENAKSHI  KUSHWAHA'
+
+[Line 15]: ':'
+
+[Line 16]: ':'
+
+[Line 17]: ':'
+
+[Line 18]: ':'
+
+[Line 19]: ':'
+
+[Line 20]: 'Name'
+
+[Line 21]: 'Lab No.'
+
+[Line 22]: 'Ref By'
+
+[Line 23]: 'Collected'
+
+[Line 24]: 'A/c Status'
+
+[Line 25]: '29/7/2025  1:02:40PM'
+
+[Line 26]: 'Final'
+
+[Line 27]: 'Collected at    :'
+
+[Line 28]: 'Processed at      :'
+
+[Line 29]: 'PSC-VARANASI HOME VISIT'
+
+[Line 30]: 'SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,'
+
+[Line 31]: 'OPP. SAJAN CINEMA HALL, VARANASI-221001'
+
+[Line 32]: 'Varanasi 221001'
+
+[Line 33]: 'Dr. Lal Path labs Ltd'
+
+[Line 34]: 'Suddhipur ,Varanasi-221003'
+
+[Line 35]: 'Test Report'
+
+[Line 36]: 'Test Name'
+>>> STATUS: Entered results section.
+
+[Line 37]: 'Results'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 38]: 'Units'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 39]: 'Bio. Ref. Interval'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 40]: 'COMPLETE BLOOD COUNT;CBC'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 41]: '(SLS Method, Sheath Flow DC Detection Method, Fluorescent Flow Cytometry & Calculated)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 42]: 'Hemoglobin'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 43]: '12.00 - 15.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 44]: 'g/dL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 45]: '12.70'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 46]: 'Packed Cell Volume (PCV)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 47]: '36.00 - 46.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 48]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 49]: '40.20'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 50]: 'RBC Count'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 51]: '3.80 - 4.80'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 52]: 'mill/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 53]: '4.17'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 54]: 'MCV'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 55]: '83.00 - 101.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 56]: 'fL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 57]: '96.40'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 58]: 'Mentzer Index'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 60]: '23.1'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 61]: 'MCH'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 62]: '27.00 - 32.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 63]: 'pg'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 64]: '30.50'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 65]: 'MCHC'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 66]: '31.50 - 34.50'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 67]: 'g/dL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 68]: '31.60'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 69]: 'Red Cell Distribution Width (RDW)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 70]: '11.60 - 14.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 71]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 72]: '13.20'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 73]: 'Total Leukocyte Count (TLC)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 74]: '4.00 - 10.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 75]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 76]: '6.55'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 77]: 'Differential Leucocyte Count (DLC)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 78]: '40.00 - 80.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 79]: 'Segmented Neutrophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 80]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 81]: '71.90'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 82]: '20.00 - 40.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 83]: 'Lymphocytes'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 84]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 85]: '19.50'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 86]: '2.00 - 10.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 87]: 'Monocytes'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 88]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 89]: '3.80'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 90]: '1.00 - 6.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 91]: 'Eosinophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 92]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 93]: '3.70'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 94]: '<2.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 95]: 'Basophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 96]: '%'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 97]: '1.10'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 98]: 'Absolute Leucocyte Count'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 99]: '2.00 - 7.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 100]: 'Neutrophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 101]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 102]: '4.71'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 103]: '1.00 - 3.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 104]: 'Lymphocytes'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 105]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 106]: '1.28'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 107]: '0.20 - 1.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 108]: 'Monocytes'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 109]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 110]: '0.25'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 111]: '0.02 - 0.50'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 112]: 'Eosinophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 113]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 114]: '0.24'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 115]: '*490405184*'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 116]: 'Page 1 of 4'
+>>> STATUS: Exited results section.
+
+[Line 117]: 'Report Status'
+
+[Line 118]: 'Female'
+
+[Line 119]: '56 Years'
+
+[Line 120]: ':'
+
+[Line 121]: ':'
+
+[Line 122]: ':'
+
+[Line 123]: ':'
+
+[Line 124]: 'Age'
+
+[Line 125]: 'Gender'
+
+[Line 126]: 'Reported'
+
+[Line 127]: 'P'
+
+[Line 128]: '29/7/2025   9:39:00AM'
+
+[Line 129]: 'Self'
+
+[Line 130]: '490405184'
+
+[Line 131]: 'Ms. MEENAKSHI  KUSHWAHA'
+
+[Line 132]: ':'
+
+[Line 133]: ':'
+
+[Line 134]: ':'
+
+[Line 135]: ':'
+
+[Line 136]: ':'
+
+[Line 137]: 'Name'
+
+[Line 138]: 'Lab No.'
+
+[Line 139]: 'Ref By'
+
+[Line 140]: 'Collected'
+
+[Line 141]: 'A/c Status'
+
+[Line 142]: '29/7/2025  1:02:40PM'
+
+[Line 143]: 'Final'
+
+[Line 144]: 'Collected at    :'
+
+[Line 145]: 'Processed at      :'
+
+[Line 146]: 'PSC-VARANASI HOME VISIT'
+
+[Line 147]: 'SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,'
+
+[Line 148]: 'OPP. SAJAN CINEMA HALL, VARANASI-221001'
+
+[Line 149]: 'Varanasi 221001'
+
+[Line 150]: 'Dr. Lal Path labs Ltd'
+
+[Line 151]: 'Suddhipur ,Varanasi-221003'
+
+[Line 152]: 'Test Report'
+
+[Line 153]: 'Test Name'
+>>> STATUS: Entered results section.
+
+[Line 154]: 'Results'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 155]: 'Units'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 156]: 'Bio. Ref. Interval'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 157]: '0.02 - 0.10'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 158]: 'Basophils'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 159]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 160]: '0.07'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 161]: 'Platelet Count'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 162]: '150.00 - 410.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 163]: 'thou/mm3'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 164]: '280'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 165]: 'Mean Platelet Volume'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 166]: '6.5 - 12.0'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 167]: 'fL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 168]: '10.8'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 169]: 'Comment'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 170]: 'In anaemic conditions Mentzer index is used to differentiate Iron Deficiency Anaemia from Beta- Thalassemia'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 171]: 'trait. If Mentzer Index value is >13, there is probability of Iron Deficiency Anaemia. A value <13 indicates likelihood'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 172]: 'of Beta- Thalassemia trait and Hb HPLC is advised to rule out the Thalassemia trait.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 173]: 'Note'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 174]: '1.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 175]: 'As per the recommendation of International council for Standardization in Hematology, the differential'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 176]: 'leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 177]: 'blood'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 178]: '2.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 179]: 'Test conducted on EDTA whole blood'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 180]: '*490405184*'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 181]: 'Page 2 of 4'
+>>> STATUS: Exited results section.
+
+[Line 182]: 'Report Status'
+
+[Line 183]: 'Female'
+
+[Line 184]: '56 Years'
+
+[Line 185]: ':'
+
+[Line 186]: ':'
+
+[Line 187]: ':'
+
+[Line 188]: ':'
+
+[Line 189]: 'Age'
+
+[Line 190]: 'Gender'
+
+[Line 191]: 'Reported'
+
+[Line 192]: 'P'
+
+[Line 193]: '29/7/2025   9:39:00AM'
+
+[Line 194]: 'Self'
+
+[Line 195]: '490405184'
+
+[Line 196]: 'Ms. MEENAKSHI  KUSHWAHA'
+
+[Line 197]: ':'
+
+[Line 198]: ':'
+
+[Line 199]: ':'
+
+[Line 200]: ':'
+
+[Line 201]: ':'
+
+[Line 202]: 'Name'
+
+[Line 203]: 'Lab No.'
+
+[Line 204]: 'Ref By'
+
+[Line 205]: 'Collected'
+
+[Line 206]: 'A/c Status'
+
+[Line 207]: '29/7/2025  1:02:40PM'
+
+[Line 208]: 'Final'
+
+[Line 209]: 'Dr. Lal Path labs Ltd'
+
+[Line 210]: 'Suddhipur ,Varanasi-221003'
+
+[Line 211]: ':'
+
+[Line 212]: ':'
+
+[Line 213]: 'Collected at'
+
+[Line 214]: 'Processed at'
+
+[Line 215]: 'PSC-VARANASI HOME VISIT'
+
+[Line 216]: 'SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,'
+
+[Line 217]: 'OPP. SAJAN CINEMA HALL, VARANASI-221001'
+
+[Line 218]: 'Varanasi 221001'
+
+[Line 219]: 'Test Report'
+
+[Line 220]: 'Test Name'
+>>> STATUS: Entered results section.
+
+[Line 221]: 'Results'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 222]: 'Units'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 223]: 'Bio. Ref. Interval'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 224]: 'ALT (SGPT), SERUM'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 225]: '(IFCC, without P5P)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 226]: 'U/L'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 227]: '<33'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 228]: '10.5'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 229]: 'VITAMIN D, 25 - HYDROXY, SERUM'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 230]: '(ECLIA)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 231]: 'nmol/L'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 232]: '75.00 - 250.00'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 233]: '43.09'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 234]: 'Interpretation'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 235]: '-------------------------------------------------------------'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 236]: '| LEVEL         | REFERENCE RANGE | COMMENTS                  |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 237]: '|               | IN nmol/L       |                           |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 238]: '|---------------|-----------------|---------------------------|'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 239]: '| Deficient     | < 50            | High risk for developing  |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 240]: '|               |                 | bone disease              |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 241]: '|---------------|-----------------|---------------------------|'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 242]: '| Insufficient  | 50-74           | Vitamin D concentration   |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 243]: '|               |                 | which normalizes          |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 244]: '|               |                 | Parathyroid hormone       |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 245]: '|               |                 | concentration             |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 246]: '|---------------|-----------------|---------------------------|'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 247]: '| Sufficient    | 75-250          | Optimal concentration     |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 248]: '|               |                 | for maximal health benefit|'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 249]: '|---------------|-----------------|---------------------------|'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 250]: '| Potential     | >250            | High risk for toxic       |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 251]: '| intoxication  |                 | effects                   |'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 252]: '-------------------------------------------------------------'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 253]: 'Note'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 254]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 255]: 'The assay measures both D2 (Ergocalciferol) and D3 (Cholecalciferol) metabolites of vitamin D.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 256]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 257]: '25 (OH)D is influenced by sunlight, latitude, skin pigmentation, sunscreen use and hepatic function.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 258]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 259]: 'Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 260]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 261]: 'It shows seasonal variation, with values being 40-50% lower in winter than in summer.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 262]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 263]: 'Levels vary with age and are increased in pregnancy.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 264]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 265]: 'A new test Vitamin D, Ultrasensitive by LC-MS/MS is also available'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 266]: 'Comments'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 267]: 'Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 268]: 'in children causes Rickets and in adults leads to Osteomalacia.  It can also lead to Hypocalcemia and'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 269]: 'Tetany.  Vitamin D status is best determined  by measurement of 25 hydroxy vitamin D, as it is the major'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 270]: 'circulating form and has longer half life (2-3 weeks) than 1,25 Dihydroxy vitamin D (5-8 hrs).'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 271]: 'Decreased Levels'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 272]: 'PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 273]: '*490405184*'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 274]: 'Page 3 of 4'
+>>> STATUS: Exited results section.
+
+[Line 275]: 'Report Status'
+
+[Line 276]: 'Female'
+
+[Line 277]: '56 Years'
+
+[Line 278]: ':'
+
+[Line 279]: ':'
+
+[Line 280]: ':'
+
+[Line 281]: ':'
+
+[Line 282]: 'Age'
+
+[Line 283]: 'Gender'
+
+[Line 284]: 'Reported'
+
+[Line 285]: 'P'
+
+[Line 286]: '29/7/2025   9:39:00AM'
+
+[Line 287]: 'Self'
+
+[Line 288]: '490405184'
+
+[Line 289]: 'Ms. MEENAKSHI  KUSHWAHA'
+
+[Line 290]: ':'
+
+[Line 291]: ':'
+
+[Line 292]: ':'
+
+[Line 293]: ':'
+
+[Line 294]: ':'
+
+[Line 295]: 'Name'
+
+[Line 296]: 'Lab No.'
+
+[Line 297]: 'Ref By'
+
+[Line 298]: 'Collected'
+
+[Line 299]: 'A/c Status'
+
+[Line 300]: '29/7/2025  1:02:40PM'
+
+[Line 301]: 'Final'
+
+[Line 302]: 'Dr. Lal Path labs Ltd'
+
+[Line 303]: 'Suddhipur ,Varanasi-221003'
+
+[Line 304]: ':'
+
+[Line 305]: ':'
+
+[Line 306]: 'Collected at'
+
+[Line 307]: 'Processed at'
+
+[Line 308]: 'PSC-VARANASI HOME VISIT'
+
+[Line 309]: 'SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,'
+
+[Line 310]: 'OPP. SAJAN CINEMA HALL, VARANASI-221001'
+
+[Line 311]: 'Varanasi 221001'
+
+[Line 312]: 'Test Report'
+
+[Line 313]: 'Test Name'
+>>> STATUS: Entered results section.
+
+[Line 314]: 'Results'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 315]: 'Units'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 316]: 'Bio. Ref. Interval'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 317]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 318]: 'Inadequate exposure to sunlight'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 319]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 320]: 'Dietary deficiency'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 321]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 322]: 'Vitamin D malabsorption'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 323]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 324]: 'Severe  Hepatocellular disease'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 325]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 326]: 'Drugs like Anticonvulsants'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 327]: '·'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 328]: 'Nephrotic syndrome'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 329]: 'Increased levels'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 330]: 'Vitamin D intoxication'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 331]: 'Dr.  Alok Kumar'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 332]: 'MD'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 333]: 'Consultant Pathologist'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 334]: 'Dr Lal PathLabs Ltd'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 335]: 'Dr Mridula Shukla'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 336]: 'MBBS, DNB (Path)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 337]: 'Chief of Laboratory &'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 338]: 'Histopathologist'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 339]: 'Dr Lal PathLabs Ltd'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 340]: '-------------------------------End of report --------------------------------'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 341]: 'AHEEEHAPMAAOHNLJOPPMAGLMBJKMFGDONKKOGCPFNKCJOPAHEEEHA'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 342]: 'BNFFFNBPACJDFHBLMHMCBLEGAHFHAHFLBGJDMHJLIKAONPBNFFFNB'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 343]: 'FNCHFDFNJEANJHLJCMGEGFKNGEHCHJACOFHCBLHJOAKEHKFCEDHOL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 344]: 'PIPMJEFGDHIGLFGPPKEOOIKOMGFKODKDIFNKHLNGKNCHHKNEDBHDC'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 345]: 'CCFJIBFOOGPDOGPEBGMDJKMJCKPHKDKEMNOPFCHKMFCHHDNKBCDCO'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 346]: 'NNBHEPFOAMEHCFGMALODAIHGGOJNDEDPOEMFBIOJIBBAEKNKBKLMC'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 347]: 'PEMFAHFHAOBCNPLOAKACNFJDAHFHAKALLCNBAINFMMKNAHFHAKHEL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 348]: 'GAOBDDFCHLFJIPPDIOKHGHLGEFHFFGCHKKNFCMNDKAKJCHGHCHDLL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 349]: 'OFCOIIFOEKAAJLEEADPMMKMCHPKBHIJBPFEEBANEOFCIBACDIHHDL'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 350]: 'PFLONDFDKIONENEDFCNDFFLKKKLGNCKGICFKBFELJNKONJKILGDDC'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 351]: 'NAGFJNFNFNLEDIADJNLMEFOKHKLMNLAOOMNCBBPIPAAKLBOAAIFMD'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 352]: 'MNNFNNEPKNALHFMPJOELPOIBAHFHAAAGKCNNEKNOLAIIAHFHAKPKP'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 353]: 'APBBBPAPBPBPDHCCEPEJCIFIACHGEFCHLGMAFFNJMGKEHBDDEFHMJ'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 354]: 'HHHHHHHPHPPPPPPPHPPPPPHHHHPHPHHHPHPHHPHHPPPPPHPPHHHPP'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 355]: 'IMPORTANT INSTRUCTIONS'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 356]: 'ŸTest results released pertain to the specimen submitted.ŸAll test results are dependent on the quality of the sample received by the Laboratory .'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 357]: 'ŸLaboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician .ŸReport'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 358]: 'delivery may be delayed due to unforeseen circumstances. Inconvenience is regretted .ŸCertain tests may require further testing at additional cost for'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 359]: 'derivation of exact value. Kindly submit request within 72 hours post reporting.ŸTest results may show interlaboratory variations.ŸThe Courts/Forum'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 360]: 'at Delhi shall have exclusive jurisdiction in all disputes /claims concerning the test(s) & or results of test(s).ŸTest results are not valid for medico legal'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 361]: 'purposes.ŸThis is computer generated medical diagnostic report that has been validated by Authorized Medical Practitioner /Doctor.ŸThe report does'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 362]: 'not need physical signature.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 363]: '(#) Sample drawn from outside source.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 364]: 'If Test results are alarming or unexpected, client is advised to contact the Customer Care immediately for possible remedial action.'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 365]: 'Tel: +91-11-49885050,Fax: - +91-11-2788-2134, E-mail: lalpathlabs@lalpathlabs.com'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 366]: 'PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 367]: '*490405184*'
+... checking for result pattern...
+    --> FAILED: No result pattern found on this line.
+
+[Line 368]: 'Page 4 of 4'
+>>> STATUS: Exited results section.
+
+--- PARSER DEBUG COMPLETE ---

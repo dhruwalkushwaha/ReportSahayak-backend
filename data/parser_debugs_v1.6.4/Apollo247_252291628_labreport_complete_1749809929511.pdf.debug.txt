@@ -1,0 +1,7 @@
+Identified lab: apollo
+Parsed total: 1, high: 1, low: 0
+
+---High-confidence---
+{"test_name": "D, which has a short life, is then synthesized in the kidney as needed from circulating 25-hydroxy vitamin D. The reference interval", "value": "30", "unit": "ng/mL", "ref_interval": "", "confidence": 0.85}
+
+---Low-confidence---

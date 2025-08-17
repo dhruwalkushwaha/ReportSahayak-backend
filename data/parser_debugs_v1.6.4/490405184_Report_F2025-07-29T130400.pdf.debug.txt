@@ -1,0 +1,17 @@
+Identified lab: lal_pathlabs
+Parsed total: 11, high: 11, low: 0
+
+---High-confidence---
+{"test_name": "Hemoglobin 12.00 - 15.00", "value": "12.70", "unit": "g/dL", "ref_interval": "", "confidence": 0.85}
+{"test_name": "Packed Cell Volume (PCV) 36.00 - 46.00", "value": "40.20", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "MCV 83.00 - 101.00", "value": "96.40", "unit": "fL", "ref_interval": "", "confidence": 0.85}
+{"test_name": "MCH 27.00 - 32.00", "value": "30.50", "unit": "pg", "ref_interval": "", "confidence": 0.85}
+{"test_name": "MCHC 31.50 - 34.50", "value": "31.60", "unit": "g/dL", "ref_interval": "", "confidence": 0.85}
+{"test_name": "Red Cell Distribution Width (RDW) 11.60 - 14.00", "value": "13.20", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "40.00 - 80.00 Segmented Neutrophils", "value": "71.90", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "20.00 - 40.00 Lymphocytes", "value": "19.50", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "2.00 - 10.00 Monocytes", "value": "3.80", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "1.00 - 6.00 Eosinophils", "value": "3.70", "unit": "%", "ref_interval": "", "confidence": 0.85}
+{"test_name": "Mean Platelet Volume 6.5 - 12.0", "value": "10.8", "unit": "fL", "ref_interval": "", "confidence": 0.85}
+
+---Low-confidence---

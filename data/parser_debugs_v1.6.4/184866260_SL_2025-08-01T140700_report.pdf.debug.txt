@@ -1,0 +1,7 @@
+Identified lab: lal_pathlabs
+Parsed total: 1, high: 1, low: 0
+
+---High-confidence---
+{"test_name": "VITAMIN D, 25 - HYDROXY, SERUM (ECLIA)", "value": "<15.00", "unit": "nmol/L", "ref_interval": "<15.00", "confidence": 1.0}
+
+---Low-confidence---

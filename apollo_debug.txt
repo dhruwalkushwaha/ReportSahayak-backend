@@ -1,0 +1,329 @@
+--- Starting Diagnostic for: data/Apollo247_252291628_labreport_complete_1749809929511.pdf ---
+
+--- RAW TEXT OUTPUT BEGIN ---
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+CALCIUM , SERUM
+9.20
+mg/dL
+8.4 - 10.2
+Arsenazo-III
+Comments:- 
+Serum calcium measurements are done to monitor and diagnose disorders of skeletal system, parathyroid gland, kidney, muscular
+disorders, and abnormal vitamin D and protein levels.
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 12/Jun/2025 01:21PM
+Reported
+: 12/Jun/2025 02:37PM
+Status
+: Final Report
+Client Name
+: PUP 24X7_CREDIT
+Center location
+: SIGRA,VARANASI
+DEPARTMENT OF BIOCHEMISTRY
+APOLLO VITAMIN CHECK - BASIC
+SIN No:BI26234016
+Page 1 of 4
+
+--- PAGE BREAK ---
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+THYROID PROFILE TOTAL (T3, T4, TSH) , SERUM
+TRI-IODOTHYRONINE (T3, TOTAL)
+0.7
+ng/mL
+0.67-1.81
+ELFA
+THYROXINE (T4, TOTAL)
+6.49
+µg/dL
+4.66-9.32
+ELFA
+TSH (Ultrasensitive/4thGen)
+3.540
+µIU/mL
+0.25-5.0
+ELFA
+Comment:
+For pregnant females
+Bio Ref Range for TSH in uIU/ml (As per American Thyroid Association)
+First trimester
+0.1 - 2.5
+Second trimester
+0.2 – 3.0
+Third trimester
+0.3 – 3.0
+1. TSH is a glycoprotein hormone secreted by the anterior pituitary. TSH activates production of T3 (Triiodothyronine) and its prohormone T4  (Thyroxine). Increased
+blood level of T3 and T4 inhibit production of TSH.
+2. TSH is elevated in primary hypothyroidism and will be low in primary hyperthyroidism. Elevated or low TSH in the context of normal free thyroxine is often referred
+to as sub-clinical hypo- or hyperthyroidism respectively.
+3. Both T4 & T3 provides limited clinical information as both are highly bound to proteins in circulation and reflects mostly inactive hormone. Only a very small
+fraction of circulating hormone is free and biologically active.
+4. Significant variations in TSH can occur with circadian rhythm, hormonal status, stress, sleep deprivation, medication & circulating antibodies. 
+TSH
+T3
+T4
+FT4
+Conditions
+High
+Low
+Low
+Low
+Primary Hypothyroidism, Post Thyroidectomy, Chronic Autoimmune Thyroiditis
+High
+N
+N
+N
+Subclinical Hypothyroidism, Autoimmune Thyroiditis, Insufficient Hormone Treatment.
+N/Low
+Low
+Low
+Low
+Secondary and Tertiary Hypothyroidism
+Low
+High
+High
+High
+Primary Hyperthyroidism, Goitre, Thyroiditis, Drug effects, Early Pregnancy
+Low
+N
+N
+N
+Subclinical Hyperthyroidism
+Low
+Low
+Low
+Low
+Central Hypothyroidism, Treatment with Hyperthyroidism
+Low
+N
+High
+High
+Thyroiditis, Interfering Antibodies
+N/Low
+High
+N
+N
+T3 Thyrotoxicosis, Non thyroidal causes
+High
+High
+High
+High
+Pituitary Adenoma; TSHoma/Thyrotropinoma
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 12/Jun/2025 01:21PM
+Reported
+: 12/Jun/2025 02:39PM
+Status
+: Final Report
+Client Name
+: PUP 24X7_CREDIT
+Center location
+: SIGRA,VARANASI
+DEPARTMENT OF IMMUNOLOGY
+SIN No:IM09947870
+Page 2 of 4
+
+--- PAGE BREAK ---
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+VITAMIN D (25 - OH VITAMIN D) ,
+SERUM
+22.5
+ng/mL
+ELFA
+Comment:
+BIOLOGICAL REFERENCE RANGES
+VITAMIN D STATUS
+VITAMIN D 25 HYDROXY (ng/mL)
+DEFICIENCY
+<10
+INSUFFICIENCY
+10 – 30
+SUFFICIENCY
+30 – 100
+TOXICITY
+>100
+The biological function of Vitamin D is to maintain normal levels of calcium and phosphorus absorption. 25-Hydroxy vitamin D is
+the storage form of vitamin D. Vitamin D assists in maintaining bone health by facilitating calcium absorption. Vitamin D deficiency
+can also cause osteomalacia, which frequently affects elderly patients. 
+Vitamin D Total levels are composed of two components namely 25-Hydroxy Vitamin D2 and 25-Hydroxy Vitamin D3 both of
+which are converted into active forms. Vitamin D2 level corresponds with the exogenous dietary intake of Vitamin D rich foods as
+well as supplements. Vitamin D3 level corresponds with endogenous production as well as exogenous diet and supplements. 
+Vitamin D from sunshine on the skin or from dietary intake is converted predominantly by the liver into 25-hydroxy vitamin D,
+which has a long half-life and is stored in the adipose tissue. The metabolically active form of vitamin D, 1,25-di-hydroxy vitamin
+D, which has a short life, is then synthesized in the kidney as needed from circulating 25-hydroxy vitamin D. The reference interval
+of greater than 30 ng/mL is a target value established by the Endocrine Society.
+Decreased Levels:- Inadequate exposure to sunlight, Dietary deficiency, Vitamin D malabsorption, Severe Hepatocellular
+disease., Drugs like Anticonvulsants, Nephrotic syndrome.
+Increased levels:- Vitamin D intoxication.
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 12/Jun/2025 01:21PM
+Reported
+: 12/Jun/2025 03:39PM
+Status
+: Final Report
+Client Name
+: PUP 24X7_CREDIT
+Center location
+: SIGRA,VARANASI
+DEPARTMENT OF IMMUNOLOGY
+APOLLO VITAMIN CHECK - BASIC
+SIN No:IM09947870
+Page 3 of 4
+
+--- PAGE BREAK ---
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+VITAMIN B12 , SERUM
+440
+pg/mL
+120-914
+CLIA
+Comment:
+Population based data reflecting exact scenario of vitamin B12 levels in Indian population is still evolving, however, different studies
+reporting a deficiency in adults, pregnant women and children ranging from 16% to 77% with average of about 47%. This high
+incidence is attributed to vegetarian food habits of large majority of Indian population. 
+Vitamin B12 deficiency frequently causes macrocytic anemia, glossitis, peripheral neuropathy, weakness, hyperreflexia, ataxia, loss
+of proprioception, poor coordination, and affective behavioral changes. A significant increase in RBC MCV may be an important
+indicator of vitamin B12 deficiency. B12 levels in the range of 150 to 190 pg/ml may not be associated with any clinical
+manifestations, while B12 levels below 100 pg/ml are often associated with clinical symptoms. However, for an individual based on
+other co-morbid conditions or other nutritional deficiency (especially folate) the manifestations can vary accordingly.
+If clinical symptoms suggest deficiency, measurement of active vitamin B12, MMA and homocysteine should be considered as
+further workup.
+ 
+*** End Of Report ***
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 13/Jun/2025 11:07AM
+Reported
+: 13/Jun/2025 11:55AM
+Status
+: Final Report
+Client Name
+: PUP 24X7_CREDIT
+Center location
+: SIGRA,VARANASI
+DEPARTMENT OF IMMUNOLOGY
+APOLLO VITAMIN CHECK - BASIC
+SIN No:IM09949996
+Page 4 of 4
+
+--- PAGE BREAK ---
+TERMS AND CONDITIONS GOVERNING THIS REPORT
+1. Reported results are for information and interpretation of the referring doctor or such other medical professionals, who understand
+reporting units, reference ranges and limitation of technologies. Laboratories not be responsible for any interpretation whatsoever
+2. This is computer generated medical diagnostics report that has been validated by an Authorized Medical Practitioner/Doctor. The
+report does not need physical signature.
+3. Partial reproduction of this report is not valid and should not be resorted to draw any conclusion.
+4. In the case you are not the intended recipient of this report. Please immediately return the same to the concerned issuing desk. Any
+disclosure, copy or distribution of any contents of this report, is unlawful and is strictly prohibited.
+5. Results delays may occur due to unforeseen circumstances such as non-availability of kits, equipment breakdown, natural calamities,
+IT downtime, logistic delays or any other unavoidable event. For certain tests based on analyte stability, criticality of results and in the
+interest of patient for having appropriate medical diagnosis, the same test may be outsourced to other accredited laboratory.
+6. It is presumed that the tests performed are, on the specimen / sample being to the patient named or identified and the verifications of
+particulars have been confirmed by the patient or his / her representative at the point of generation of said specimen
+7. The reported results are restricted to the given specimen only. Results may vary from lab to lab and from time to time for the same
+parameter for the same patient (within subject biological variation).
+8. The patient details along with their results in certain cases like notifiable diseases and as per local regulatory requirements will be
+communicated to the assigned regulatory bodies
+9. The patient samples can be used as part of internal quality control, test verification, data analysis purposes within the testing scope of
+the laboratory.
+10. This report is not valid for medico legal purposes. It is performed to facilitate medical diagnosis only
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 13/Jun/2025 11:07AM
+Reported
+: 13/Jun/2025 11:55AM
+Status
+: Final Report
+Client Name
+: PUP 24X7_CREDIT
+Center location
+: SIGRA,VARANASI
+SIN No:IM09949996
+
+--- PAGE BREAK ---
+
+--- RAW TEXT OUTPUT END ---
