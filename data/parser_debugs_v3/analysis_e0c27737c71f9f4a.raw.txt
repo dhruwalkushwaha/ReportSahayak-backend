@@ -1,0 +1,56 @@
+```json
+{
+  "summary": "Your thyroid hormone levels are within the normal range, although TSH is at the higher end. Vitamin D is slightly low, and Vitamin B12 is within the normal range. Calcium levels are also normal.",
+  "details": {
+    "Thyroid": [
+      {
+        "test_name": "THYROXINE (T4, TOTAL)",
+        "value": "6.49 µg/dL",
+        "status": "Normal",
+        "analogy": "Your thyroid is producing the right amount of T4, a key hormone.",
+        "explanation": "T4 is a major thyroid hormone responsible for metabolism.  The level is within the healthy reference range."
+      },
+      {
+        "test_name": "TRI-IODOTHYRONINE (T3, TOTAL)",
+        "value": "0.7 ng/mL",
+        "status": "Normal",
+        "analogy": "Your T3 levels are normal, indicating proper thyroid function.",
+        "explanation": "T3 is another important thyroid hormone.  The result falls within the typical range."
+      },
+      {
+        "test_name": "TSH (Ultrasensitive/4thGen)",
+        "value": "3.540 µIU/mL",
+        "status": "High",
+        "analogy": "Your TSH is slightly elevated, but still within the acceptable range; your doctor may want to monitor this.",
+        "explanation": "TSH stimulates thyroid hormone production. While slightly above the ideal range, it's not critically high."
+      }
+    ],
+    "Electrolytes": [
+      {
+        "test_name": "CALCIUM, SERUM",
+        "value": "9.20 mg/dL",
+        "status": "Normal",
+        "analogy": "Your calcium levels are perfectly balanced.",
+        "explanation": "Calcium is essential for many bodily functions. Your level is within the normal healthy range."
+      }
+    ],
+    "Vitamins": [
+      {
+        "test_name": "VITAMIN B12, SERUM",
+        "value": "440 pg/mL",
+        "status": "Normal",
+        "analogy": "Your vitamin B12 levels are sufficient for nerve function and red blood cell production.",
+        "explanation": "Vitamin B12 is crucial for nerve function and red blood cell formation.  The result is well within the normal range."
+      },
+      {
+        "test_name": "VITAMIN D (25 - OH VITAMIN D), SERUM",
+        "value": "22.5 ng/mL",
+        "status": "Low",
+        "analogy": "Your vitamin D levels are a bit low; consider increasing sun exposure or taking a supplement.",
+        "explanation": "Vitamin D is essential for calcium absorption and bone health. A level below the reference range suggests a deficiency."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

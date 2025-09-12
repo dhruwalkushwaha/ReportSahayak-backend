@@ -1,0 +1,686 @@
+```json
+{
+  "summary": "The majority of your lab results fall within the normal reference ranges.  Your total cholesterol and LDL cholesterol are slightly elevated, warranting attention and lifestyle modifications like diet and exercise.  Your kidney function, as indicated by your GFR and creatinine levels, appears to be within the normal range.  A few other values are slightly outside of the optimal range, but generally within acceptable limits.  It's important to discuss these results with your doctor for personalized interpretation and recommendations.",
+  "details": {
+    "Liver Function Tests": [
+      {
+        "test_name": "Alanine Aminotransferase (ALT/SGPT)",
+        "value": "31.1",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for liver enzyme activity.",
+        "explanation": "Indicates liver health; slightly elevated but still within normal limits."
+      },
+      {
+        "test_name": "Alkaline Phosphatase (ALP)",
+        "value": "94.00",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for bone and liver health.",
+        "explanation": "Indicates bone and liver health; slightly high but still within the normal range."
+      },
+      {
+        "test_name": "Aspartate Aminotransferase (AST/SGOT)",
+        "value": "27.80",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for liver enzyme activity.",
+        "explanation": "Indicates liver health; slightly elevated but still within normal limits."
+      },
+      {
+        "test_name": "Gamma Glutamyl Transferase (GGT)",
+        "value": "22.0",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for liver health.",
+        "explanation": "Indicates liver and bile duct function; slightly high but still within normal range."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Direct)",
+        "value": "0.06",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for bile pigment.",
+        "explanation": "Indicates liver function; within normal limits."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Indirect)",
+        "value": "0.37",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for bile pigment.",
+        "explanation": "Indicates liver function; within normal limits."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Total)",
+        "value": "0.43",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for bile pigment.",
+        "explanation": "Indicates liver function; within normal limits."
+      },
+      {
+        "test_name": "SGOT/SGPT Ratio",
+        "value": "0.89",
+        "unit": "Ratio",
+        "status": "Normal",
+        "analogy": "Within the normal ratio for liver enzymes.",
+        "explanation": "Indicates liver health; within normal limits."
+      }
+    ],
+    "Kidney Function Tests": [
+      {
+        "test_name": "Blood Urea",
+        "value": "14",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for blood urea levels.",
+        "explanation": "Indicates kidney function; slightly low but still within normal range."
+      },
+      {
+        "test_name": "Blood Urea Nitrogen (BUN)",
+        "value": "6.6",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for blood urea nitrogen levels.",
+        "explanation": "Indicates kidney function; within normal limits."
+      },
+      {
+        "test_name": "Serum Creatinine",
+        "value": "0.62",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for creatinine levels.",
+        "explanation": "Indicates kidney function; within normal limits."
+      },
+      {
+        "test_name": "GFR, ESTIMATED",
+        "value": "122.78",
+        "unit": "mL/min/1.73m2",
+        "status": "Normal",
+        "analogy": "Within the normal range for glomerular filtration rate.",
+        "explanation": "Indicates kidney function; within normal limits."
+      },
+      {
+        "test_name": "Urea, Serum",
+        "value": "14",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum urea levels.",
+        "explanation": "Indicates kidney function; slightly low but within normal range."
+      }
+    ],
+    "Lipid Panel": [
+      {
+        "test_name": "Cholesterol Total",
+        "value": "271.3",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Higher than the desirable range for total cholesterol.",
+        "explanation": "Requires lifestyle modifications like diet and exercise."
+      },
+      {
+        "test_name": "HDL / LDL Cholesterol Ratio",
+        "value": "0.32",
+        "unit": "Ratio",
+        "status": "High Risk",
+        "analogy": "Indicates a higher risk for cardiovascular disease.",
+        "explanation": "Should be improved with lifestyle changes."
+      },
+      {
+        "test_name": "LDL / HDL Cholesterol Ratio",
+        "value": "3.14",
+        "unit": "Ratio",
+        "status": "Moderate Risk",
+        "analogy": "Indicates a moderate risk for cardiovascular disease.",
+        "explanation": "Should be improved with lifestyle changes."
+      },
+      {
+        "test_name": "LDL Cholesterol Calculated",
+        "value": "182.58",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Higher than the desirable range for LDL cholesterol.",
+        "explanation": "Requires lifestyle modifications like diet and exercise."
+      },
+      {
+        "test_name": "Serum HDL Cholesterol",
+        "value": "58.2",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for HDL cholesterol.",
+        "explanation": "Indicates good cholesterol levels; within normal range."
+      },
+      {
+        "test_name": "Serum Triglycerides",
+        "value": "152.6",
+        "unit": "mg/dl",
+        "status": "Borderline High",
+        "analogy": "Slightly above the desirable range for triglycerides.",
+        "explanation": "May require lifestyle modifications."
+      },
+      {
+        "test_name": "Non-HDL Cholesterol",
+        "value": "213.1",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Higher than the desirable range for Non-HDL cholesterol.",
+        "explanation": "Requires lifestyle modifications like diet and exercise."
+      },
+      {
+        "test_name": "VLDL Cholesterol Calculated",
+        "value": "30.52",
+        "unit": "mg/dl",
+        "status": "Slightly High",
+        "analogy": "Slightly above the desirable range for VLDL cholesterol.",
+        "explanation": "May require lifestyle modifications."
+      },
+      {
+        "test_name": "Total CHOL / HDL Cholesterol Ratio",
+        "value": "4.66",
+        "unit": "Ratio",
+        "status": "Slightly High",
+        "analogy": "Slightly above the normal range.",
+        "explanation": "Requires lifestyle modifications like diet and exercise."
+      },
+      {
+        "test_name": "Total Cholesterol",
+        "value": "271.3",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Higher than the desirable range for total cholesterol.",
+        "explanation": "Requires lifestyle modifications like diet and exercise."
+      }
+    ],
+    "Complete Blood Count (CBC)": [
+      {
+        "test_name": "Absolute Basophil Count",
+        "value": "0.03",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for basophil count.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Absolute Eosinophil Count (AEC)",
+        "value": "0.29",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for eosinophil count.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Absolute Lymphocyte Count (ALC)",
+        "value": "2.18",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for lymphocyte count.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Absolute Monocyte Count",
+        "value": "0.48",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for monocyte count.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Absolute Neutrophil Count (ANC)",
+        "value": "5.02",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for neutrophil count.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.4",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for basophil percentage.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "3.6",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for eosinophil percentage.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Haemoglobin (HB)",
+        "value": "13.2",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "Within the normal range for hemoglobin levels.",
+        "explanation": "Indicates oxygen-carrying capacity of red blood cells; within normal limits."
+      },
+      {
+        "test_name": "Hematocrit (PCV)",
+        "value": "40.3",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for hematocrit.",
+        "explanation": "Indicates the percentage of red blood cells in blood; within normal limits."
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "27.3",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for lymphocyte percentage.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Mean Corp Hb (MCH)",
+        "value": "29.7",
+        "unit": "pg",
+        "status": "Normal",
+        "analogy": "Within the normal range for mean corpuscular hemoglobin.",
+        "explanation": "Indicates average hemoglobin content of red blood cells; within normal limits."
+      },
+      {
+        "test_name": "Mean Corp Hb Conc (MCHC)",
+        "value": "32.8",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "Within the normal range for mean corpuscular hemoglobin concentration.",
+        "explanation": "Indicates average hemoglobin concentration in red blood cells; within normal limits."
+      },
+      {
+        "test_name": "Mean Corp Volume (MCV)",
+        "value": "90.5",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "Within the normal range for mean corpuscular volume.",
+        "explanation": "Indicates average size of red blood cells; within normal limits."
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "6.0",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for monocyte percentage.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "MPV",
+        "value": "9.8",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "Within the normal range for mean platelet volume.",
+        "explanation": "Indicates average size of platelets; slightly high but within normal limits."
+      },
+      {
+        "test_name": "Neutrophils",
+        "value": "62.7",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for neutrophil percentage.",
+        "explanation": "Indicates white blood cell type; within normal limits."
+      },
+      {
+        "test_name": "Platelet Count(PLT)",
+        "value": "302",
+        "unit": "10^3/µl",
+        "status": "Normal",
+        "analogy": "Within the normal range for platelet count.",
+        "explanation": "Indicates blood clotting cells; within normal limits."
+      },
+      {
+        "test_name": "Red Blood Cell Count (RBC)",
+        "value": "4.50",
+        "unit": "10^6/µl",
+        "status": "Normal",
+        "analogy": "Within the normal range for red blood cell count.",
+        "explanation": "Indicates number of red blood cells; within normal limits."
+      },
+      {
+        "test_name": "RDW - CV",
+        "value": "14.0",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Within the normal range for red blood cell distribution width coefficient of variation.",
+        "explanation": "Indicates variation in red blood cell size; within normal limits."
+      },
+      {
+        "test_name": "RDW - SD",
+        "value": "44.60",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "Within the normal range for red blood cell distribution width standard deviation.",
+        "explanation": "Indicates variation in red blood cell size; within normal limits."
+      },
+      {
+        "test_name": "Total Leucocyte Count (TLC)",
+        "value": "8.0",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Within the normal range for total leucocyte count.",
+        "explanation": "Indicates total white blood cell count; within normal limits."
+      }
+    ],
+    "Thyroid Function Tests": [
+      {
+        "test_name": "Thyroid Stimulating Hormone (TSH)-Ultrasensitive",
+        "value": "1.844",
+        "unit": "µIU/ml",
+        "status": "Normal",
+        "analogy": "Within the normal range for TSH levels.",
+        "explanation": "Indicates thyroid gland function; within normal limits."
+      },
+      {
+        "test_name": "Thyroxine (T4, Total)",
+        "value": "8.40",
+        "unit": "ug/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for total thyroxine levels.",
+        "explanation": "Indicates thyroid hormone levels; within normal limits."
+      },
+      {
+        "test_name": "Tri-Iodothyronine (T3, Total)",
+        "value": "1.01",
+        "unit": "ng/ml",
+        "status": "Normal",
+        "analogy": "Within the normal range for total tri-iodothyronine levels.",
+        "explanation": "Indicates thyroid hormone levels; within normal limits."
+      }
+    ],
+    "Other Tests": [
+      {
+        "test_name": "Albumin/Globulin Ratio",
+        "value": "1.39",
+        "unit": "Ratio",
+        "status": "Normal",
+        "analogy": "Within the normal range for albumin/globulin ratio.",
+        "explanation": "Indicates protein levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Calcium Total",
+        "value": "8.8",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for total calcium levels.",
+        "explanation": "Indicates calcium levels in blood; within normal limits."
+      },
+      {
+        "test_name": "ESR",
+        "value": "14",
+        "unit": "mm/1st hour",
+        "status": "Slightly High",
+        "analogy": "Slightly above the normal range for erythrocyte sedimentation rate.",
+        "explanation": "May indicate inflammation; needs further investigation."
+      },
+      {
+        "test_name": "Epithelial cells",
+        "value": "1-2",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Within the normal range for epithelial cells in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "GLUCOSE, RANDOM",
+        "value": "90",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for random glucose levels.",
+        "explanation": "Indicates blood glucose levels; within normal limits."
+      },
+      {
+        "test_name": "Glucose-Random",
+        "value": "90",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for random glucose levels.",
+        "explanation": "Indicates blood glucose levels; within normal limits."
+      },
+      {
+        "test_name": "Pus Cells",
+        "value": "1-2",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Within the normal range for pus cells in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "RBCs",
+        "value": "Nil",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Indicates absence of red blood cells in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Serum Albumin",
+        "value": "4.43",
+        "unit": "g/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum albumin levels.",
+        "explanation": "Indicates protein levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Serum Calcium",
+        "value": "8.8",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum calcium levels.",
+        "explanation": "Indicates calcium levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Serum Chloride",
+        "value": "103",
+        "unit": "mmol/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum chloride levels.",
+        "explanation": "Indicates electrolyte balance; within normal limits."
+      },
+      {
+        "test_name": "Serum Globulin",
+        "value": "3.18",
+        "unit": "gm/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum globulin levels.",
+        "explanation": "Indicates protein levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Serum Phosphorus",
+        "value": "2.6",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum phosphorus levels.",
+        "explanation": "Indicates phosphorus levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Serum Sodium",
+        "value": "137",
+        "unit": "mmol/L",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum sodium levels.",
+        "explanation": "Indicates electrolyte balance; within normal limits."
+      },
+      {
+        "test_name": "Serum Total Protein",
+        "value": "7.61",
+        "unit": "gm/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum total protein levels.",
+        "explanation": "Indicates protein levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Serum Uric Acid",
+        "value": "5.3",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Within the normal range for serum uric acid levels.",
+        "explanation": "Indicates uric acid levels in blood; within normal limits."
+      },
+      {
+        "test_name": "Specific Gravity",
+        "value": "1.005",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Within the normal range for urine specific gravity.",
+        "explanation": "Indicates urine concentration; within normal limits."
+      },
+      {
+        "test_name": "Bun/Creatinine Ratio",
+        "value": "10.71",
+        "unit": "Ratio",
+        "status": "N/A",
+        "analogy": null,
+        "explanation": "Needs reference range for interpretation."
+      },
+      {
+        "test_name": "Green and king index",
+        "value": "87",
+        "unit": "Ratio",
+        "status": "N/A",
+        "analogy": null,
+        "explanation": "Needs reference range for interpretation."
+      },
+      {
+        "test_name": "Mentzer Index",
+        "value": "20.11",
+        "unit": "Ratio",
+        "status": "N/A",
+        "analogy": null,
+        "explanation": "Needs reference range for interpretation."
+      },
+      {
+        "test_name": "RDWI",
+        "value": "281.56",
+        "unit": "Ratio",
+        "status": "N/A",
+        "analogy": null,
+        "explanation": "Needs reference range for interpretation."
+      },
+      {
+        "test_name": "Urea/Creatinine Ratio",
+        "value": "22.90",
+        "unit": null,
+        "status": "N/A",
+        "analogy": null,
+        "explanation": "Needs reference range for interpretation."
+      }
+    ],
+    "Urinalysis": [
+      {
+        "test_name": "Bacteria",
+        "value": "Absent",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of bacteria in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Bilirubin",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of bilirubin in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Blood",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of blood in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Casts",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of casts in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Crystals",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of crystals in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Glucose",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of glucose in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Ketones",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of ketones in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Leucocyte Esterase",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of leucocyte esterase in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Nitrite",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of nitrite in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Others (Non Specific)",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of non-specific findings in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Urine Protein",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of protein in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "Urobilinogen",
+        "value": "Normal",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates normal levels of urobilinogen in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      },
+      {
+        "test_name": "pH",
+        "value": "5.5",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Within the normal range for urine pH.",
+        "explanation": "Indicates urine acidity; within normal limits."
+      },
+      {
+        "test_name": "Yeast Cell",
+        "value": "Absent",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Indicates absence of yeast cells in urine.",
+        "explanation": "Indicates urine health; within normal limits."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

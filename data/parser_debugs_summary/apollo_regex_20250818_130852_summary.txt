@@ -1,0 +1,42 @@
+==== RAW (first 30 lines) ====
+
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+CALCIUM , SERUM
+9.20
+mg/dL
+8.4 - 10.2
+Arsenazo-III
+Comments:- 
+Serum calcium measurements are done to monitor and diagnose disorders of skeletal system, parathyroid gland, kidney, muscular
+disorders, and abnormal vitamin D and protein levels.
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 12/Jun/2025 01:21PM
+
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "TSH (Ultrasensitive/4thGen)",
+    "value": "3.540",
+    "unit": "\u00b5IU/mL",
+    "ref_interval": "0.25-5.0"
+  }
+]

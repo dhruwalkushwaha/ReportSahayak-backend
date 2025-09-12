@@ -1,0 +1,392 @@
+```json
+{
+  "summary": "Most of your blood test results fall within the normal range.  Slightly elevated Non-HDL cholesterol and borderline low Blood Urea levels warrant attention.  Your kidney function appears normal.  It's advisable to discuss these results with your doctor for personalized interpretation and guidance.",
+  "details": {
+    "Complete Blood Count": [
+      {
+        "test_name": "Absolute Basophil Count",
+        "value": "0.03",
+        "status": "Normal",
+        "analogy": "Your basophil count, a type of white blood cell, is within the healthy range.",
+        "explanation": "Basophils play a role in allergic reactions and inflammation.  The result indicates normal levels."
+      },
+      {
+        "test_name": "Absolute Eosinophil Count (AEC)",
+        "value": "0.29",
+        "status": "Normal",
+        "analogy": "Your eosinophil count, another type of white blood cell, is in the normal range.",
+        "explanation": "Eosinophils are involved in fighting parasitic infections and allergies.  The result is within healthy limits."
+      },
+      {
+        "test_name": "Absolute Leucocyte Count Absolute Neutrophil Count (ANC)",
+        "value": "5.02",
+        "status": "Normal",
+        "analogy": "Your neutrophil count, the most abundant white blood cell type, is within the typical range.",
+        "explanation": "Neutrophils are crucial for fighting bacterial infections.  The result shows healthy numbers of these cells."
+      },
+      {
+        "test_name": "Absolute Lymphocyte Count (ALC)",
+        "value": "2.18",
+        "status": "Normal",
+        "analogy": "Your lymphocyte count, which involves infection-fighting cells, is within the typical range.",
+        "explanation": "Lymphocytes are essential for immunity.  The count is within the healthy range."
+      },
+      {
+        "test_name": "Absolute Monocyte Count",
+        "value": "0.48",
+        "status": "Normal",
+        "analogy": "Your monocyte count, another type of white blood cell, falls within the normal range.",
+        "explanation": "Monocytes are involved in clearing debris and fighting infections. The result is in the healthy range."
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.4",
+        "status": "Normal",
+        "analogy": "The percentage of basophils in your blood is within the typical range.",
+        "explanation": "Basophils are a type of white blood cells; the result shows a normal percentage."
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "3.6",
+        "status": "Normal",
+        "analogy": "The percentage of eosinophils in your blood is within the normal range.",
+        "explanation": "Eosinophils are involved in fighting parasitic infections and allergies. The result is within the normal range."
+      },
+      {
+        "test_name": "Haemoglobin (HB)",
+        "value": "13.2",
+        "status": "Normal",
+        "analogy": "Your hemoglobin level, which carries oxygen in your blood, is within the healthy range.",
+        "explanation": "Hemoglobin is a protein in red blood cells responsible for oxygen transport. The level is within the normal range."
+      },
+      {
+        "test_name": "Hematocrit (PCV)",
+        "value": "40.3",
+        "status": "Normal",
+        "analogy": "Your hematocrit, the percentage of red blood cells in your blood, is within the normal range.",
+        "explanation": "Hematocrit reflects the proportion of red blood cells; the value is within the normal range."
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "27.3",
+        "status": "Normal",
+        "analogy": "The percentage of lymphocytes in your blood is within the healthy range.",
+        "explanation": "Lymphocytes are vital for immunity. The percentage is within the healthy range."
+      },
+      {
+        "test_name": "Mean Corp Hb (MCH)",
+        "value": "29.7",
+        "status": "Normal",
+        "analogy": "The average amount of hemoglobin in your red blood cells is within the normal range.",
+        "explanation": "MCH measures the average hemoglobin content per red blood cell; the value is within the normal range."
+      },
+      {
+        "test_name": "Mean Corp Hb Conc (MCHC)",
+        "value": "32.8",
+        "status": "Normal",
+        "analogy": "The concentration of hemoglobin within your red blood cells is within the normal range.",
+        "explanation": "MCHC reflects hemoglobin concentration in red blood cells; the value is within the normal range."
+      },
+      {
+        "test_name": "Mean Corp Volume (MCV)",
+        "value": "90.5",
+        "status": "Normal",
+        "analogy": "The average size of your red blood cells is within the normal range.",
+        "explanation": "MCV measures the average volume of your red blood cells; the value is within the normal range."
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "6.0",
+        "status": "Normal",
+        "analogy": "The percentage of monocytes in your blood is within the normal range.",
+        "explanation": "Monocytes are involved in clearing debris and fighting infections. The result is within the normal range."
+      },
+      {
+        "test_name": "MPV",
+        "value": "9.8",
+        "status": "Normal",
+        "analogy": "The average size of your platelets is within the typical range.",
+        "explanation": "MPV reflects the average size of your platelets; the value is within the normal range."
+      },
+      {
+        "test_name": "Platelet Count(PLT)",
+        "value": "302",
+        "status": "Normal",
+        "analogy": "Your platelet count, crucial for blood clotting, is within the normal range.",
+        "explanation": "Platelets help in blood clotting; the count is within the healthy range."
+      },
+      {
+        "test_name": "RDW - CV",
+        "value": "14.0",
+        "status": "Normal",
+        "analogy": "The variation in the size of your red blood cells is within the normal range.",
+        "explanation": "RDW-CV reflects the variation in red blood cell size; the value is within the normal range."
+      },
+      {
+        "test_name": "RDW - SD",
+        "value": "44.60",
+        "status": "Normal",
+        "analogy": "The variation in the size of your red blood cells is within the normal range.",
+        "explanation": "RDW-SD reflects the variation in red blood cell size; the value is within the normal range."
+      },
+      {
+        "test_name": "Ratio Differential Leucocyte Count Neutrophils",
+        "value": "62.7",
+        "status": "Normal",
+        "analogy": "The percentage of neutrophils in your white blood cells is within the typical range.",
+        "explanation": "Neutrophils are the most abundant white blood cell type; the result is within the normal range."
+      },
+      {
+        "test_name": "Red Blood Cell Count (RBC)",
+        "value": "4.50",
+        "status": "Normal",
+        "analogy": "Your red blood cell count is within the healthy range.",
+        "explanation": "Red blood cells carry oxygen throughout your body.  The count is within the healthy range."
+      },
+      {
+        "test_name": "Total Leucocyte Count (TLC)",
+        "value": "8.0",
+        "status": "Normal",
+        "analogy": "Your total white blood cell count is within the healthy range.",
+        "explanation": "White blood cells fight infection; the count is within the healthy range."
+      }
+    ],
+    "Liver Function": [
+      {
+        "test_name": "Alanine Aminotransferase (ALT/SGPT)",
+        "value": "31.1",
+        "status": "Normal",
+        "analogy": "Your ALT level, an indicator of liver health, is within the normal range.",
+        "explanation": "ALT is an enzyme primarily found in the liver; the result indicates normal liver function."
+      },
+      {
+        "test_name": "Alkaline Phosphatase (ALP)",
+        "value": "94.00",
+        "status": "High",
+        "analogy": "Your ALP level, an enzyme found in the liver and bones, is slightly higher than usual; further investigation may be needed.",
+        "explanation": "ALP is an enzyme found in the liver and bones.  Slightly elevated levels may indicate liver or bone issues, further investigation is needed."
+      },
+      {
+        "test_name": "Aspartate Aminotransferase (AST/SGOT)",
+        "value": "27.80",
+        "status": "Normal",
+        "analogy": "Your AST level, another indicator of liver health, is within the normal range.",
+        "explanation": "AST is an enzyme found in the liver and other tissues; the result suggests normal liver function."
+      },
+      {
+        "test_name": "Gamma Glutamyl Transferase (GGT)",
+        "value": "22.0",
+        "status": "Normal",
+        "analogy": "Your GGT level, another indicator of liver health, is within the normal range.",
+        "explanation": "GGT is an enzyme found in the liver; the level is within the healthy range."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Direct)",
+        "value": "0.06",
+        "status": "Normal",
+        "analogy": "Your direct bilirubin level, a byproduct of red blood cell breakdown, is within the healthy range.",
+        "explanation": "Direct bilirubin is a breakdown product of hemoglobin. The level is normal."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Indirect)",
+        "value": "0.37",
+        "status": "Normal",
+        "analogy": "Your indirect bilirubin level is within the normal range.",
+        "explanation": "Indirect bilirubin is a byproduct of red blood cell breakdown. The level is within the normal range."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Total)",
+        "value": "0.43",
+        "status": "Normal",
+        "analogy": "Your total bilirubin level is within the normal range.",
+        "explanation": "Total bilirubin is the sum of direct and indirect bilirubin; it is within the normal range."
+      },
+      {
+        "test_name": "SGOT/SGPT Ratio",
+        "value": "0.89",
+        "status": "Normal",
+        "analogy": "The ratio of your liver enzymes is within the normal range.",
+        "explanation": "This ratio helps assess liver health; the result is within the normal range."
+      }
+    ],
+    "Kidney Function": [
+      {
+        "test_name": "Blood Urea",
+        "value": "14",
+        "status": "Low",
+        "analogy": "Your blood urea level, a measure of kidney function, is slightly lower than the typical range.",
+        "explanation": "Blood urea is a waste product filtered by the kidneys. The slightly low result warrants further investigation to determine the cause.  "
+      },
+      {
+        "test_name": "Blood Urea Nitrogen (BUN)",
+        "value": "6.6",
+        "status": "Normal",
+        "analogy": "Your BUN level, a measure of kidney function, is within the normal range.",
+        "explanation": "BUN is another measure of kidney function; the result indicates healthy kidney function."
+      },
+      {
+        "test_name": "Serum Creatinine",
+        "value": "0.62",
+        "status": "Normal",
+        "analogy": "Your serum creatinine level, a key indicator of kidney function, is within the normal range.",
+        "explanation": "Creatinine is a waste product filtered by the kidneys. The level indicates healthy kidney function."
+      },
+      {
+        "test_name": "Urea, Serum",
+        "value": "14",
+        "status": "Low",
+        "analogy": "Your serum urea level, indicating kidney function, is slightly lower than usual.",
+        "explanation": "Serum urea reflects kidney function; the slightly low result warrants monitoring."
+      }
+    ],
+    "Lipids": [
+      {
+        "test_name": "Non-HDL Cholesterol",
+        "value": "213.1",
+        "status": "High",
+        "analogy": "Your Non-HDL cholesterol is higher than ideal, increasing the risk of heart disease.",
+        "explanation": "High Non-HDL cholesterol increases the risk of heart disease; lifestyle modifications or medication may be needed."
+      },
+      {
+        "test_name": "Serum HDL Cholesterol",
+        "value": "58.2",
+        "status": "Normal",
+        "analogy": "Your HDL cholesterol, considered \"good\" cholesterol, is within the healthy range.",
+        "explanation": "HDL cholesterol helps remove cholesterol from arteries; the level is within the desirable range."
+      },
+      {
+        "test_name": "VLDL Cholesterol Calculated",
+        "value": "30.52",
+        "status": "High",
+        "analogy": "Your calculated VLDL cholesterol is slightly higher than the ideal range. It's important to monitor and maintain healthy lipid levels",
+        "explanation": "VLDL cholesterol contributes to high triglycerides and can increase the risk of heart disease; It's important to manage this to mitigate these risks."
+      },
+      {
+        "test_name": "Cholesterol Total",
+        "value": "271.3",
+        "status": "Note",
+        "analogy": "Your total cholesterol is elevated; please discuss with your doctor to determine the best course of action.",
+        "explanation": "Total cholesterol is a sum of different cholesterol types; elevated levels should be discussed with your doctor."
+      }
+    ],
+    "Proteins": [
+      {
+        "test_name": "Albumin/Globulin Ratio",
+        "value": "1.39",
+        "status": "Normal",
+        "analogy": "The ratio of albumin to globulin proteins in your blood is within the healthy range.",
+        "explanation": "This ratio helps assess liver and kidney function; the value is within the normal range."
+      },
+      {
+        "test_name": "Serum Albumin",
+        "value": "4.43",
+        "status": "Normal",
+        "analogy": "Your albumin level, a protein crucial for maintaining fluid balance, is within the normal range.",
+        "explanation": "Albumin is a major protein in blood; the level is within the healthy range."
+      },
+      {
+        "test_name": "Serum Globulin",
+        "value": "3.18",
+        "status": "Normal",
+        "analogy": "Your globulin level, a group of proteins with various functions, is within the healthy range.",
+        "explanation": "Globulins are a group of proteins with diverse roles, including immunity; the level is within the normal range."
+      },
+      {
+        "test_name": "Serum Total Protein",
+        "value": "7.61",
+        "status": "Normal",
+        "analogy": "Your total protein level in your blood is within the normal range.",
+        "explanation": "Total protein is the sum of various proteins; the value is within the normal range."
+      }
+    ],
+    "Glucose": [
+      {
+        "test_name": "Glucose-Random",
+        "value": "90",
+        "status": "Normal",
+        "analogy": "Your random glucose level is within the normal range.",
+        "explanation": "This indicates your blood sugar is currently within a healthy range."
+      },
+      {
+        "test_name": "Glucose-Random GLUCOSE, RANDOM",
+        "value": "90",
+        "status": "Normal",
+        "analogy": "Your random glucose level is within the healthy range.",
+        "explanation": "This result suggests your blood sugar is currently within the normal range."
+      }
+    ],
+    "Electrolytes": [
+      {
+        "test_name": "Serum Calcium",
+        "value": "8.8",
+        "status": "Normal",
+        "analogy": "Your calcium level, crucial for various bodily functions, is within the normal range.",
+        "explanation": "Calcium plays many vital roles, including bone health and muscle function; the value is within the normal range."
+      },
+      {
+        "test_name": "Serum Chloride",
+        "value": "103",
+        "status": "Normal",
+        "analogy": "Your chloride level, an electrolyte important for fluid balance, is within the normal range.",
+        "explanation": "Chloride is an electrolyte essential for fluid balance; the level is within the normal range."
+      },
+      {
+        "test_name": "Serum Phosphorus",
+        "value": "2.6",
+        "status": "Normal",
+        "analogy": "Your phosphorus level, essential for bone health and energy production, is within the normal range.",
+        "explanation": "Phosphorus is vital for various bodily functions; the value is within the normal range."
+      },
+      {
+        "test_name": "Serum Sodium",
+        "value": "137",
+        "status": "Normal",
+        "analogy": "Your sodium level, essential for maintaining fluid balance, is within the normal range.",
+        "explanation": "Sodium is an electrolyte important for fluid balance and nerve function; the value is within the normal range."
+      },
+      {
+        "test_name": "Calcium Total",
+        "value": "8.8",
+        "status": "Note",
+        "analogy": "Your total calcium levels appear normal, however a reference interval would provide greater certainty.",
+        "explanation": "Calcium plays a critical role in numerous bodily processes; further investigation is needed given the lack of reference range."
+      }
+    ],
+    "Thyroid": [
+      {
+        "test_name": "Thyroid Stimulating Hormone (TSH)-Ultrasensitive",
+        "value": "1.844",
+        "status": "Normal",
+        "analogy": "Your TSH level, indicating thyroid function, is within the healthy range.",
+        "explanation": "TSH is a hormone regulating thyroid activity; the result is within the healthy range."
+      }
+    ],
+    "Uric Acid": [
+      {
+        "test_name": "Serum Uric Acid",
+        "value": "5.3",
+        "status": "Normal",
+        "analogy": "Your uric acid level, a waste product from food breakdown, is within the typical range.",
+        "explanation": "Uric acid is a byproduct of food metabolism; the level is within the healthy range."
+      }
+    ],
+    "Other": [
+      {
+        "test_name": "GFR, ESTIMATED",
+        "value": "122.78",
+        "status": "Note",
+        "analogy": "Your estimated glomerular filtration rate (eGFR) is reported; please consult your physician to interpret this value in context.",
+        "explanation": "eGFR provides an estimate of your kidney function. A full medical assessment would provide insight into the clinical significance."
+      },
+      {
+        "test_name": "Haemoglobin (HB)",
+        "value": "13.2",
+        "status": "Note",
+        "analogy": "Your hemoglobin level is reported but lacks reference interval. Please seek clarification from your doctor.",
+        "explanation": "Hemoglobin's role in oxygen transport necessitates a comparison to the reference range for precise interpretation."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

@@ -1,0 +1,692 @@
+```json
+{
+  "summary": "Your lab results show mostly normal values.  Some slightly elevated values include Total Cholesterol (271.3 mg/dl, high), LDL Cholesterol (182.58 mg/dl, very high), and Non-HDL Cholesterol (213.1 mg/dl).  Your Blood Urea is slightly below the reference range, and ESR is slightly elevated.  However, the majority of your blood counts and liver function tests are within the normal ranges.  It's recommended to consult your doctor for a comprehensive interpretation and guidance on any necessary follow-up.",
+  "details": {
+    "Complete Blood Count": [
+      {
+        "test_name": "Absolute Basophil Count",
+        "value": "0.03",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Basophils are a type of white blood cell involved in allergic reactions.  Your count is within the normal range, indicating no significant allergic response.",
+        "explanation": "This is the number of basophils circulating in your blood."
+      },
+      {
+        "test_name": "Absolute Eosinophil Count (AEC)",
+        "value": "0.29",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Eosinophils are white blood cells that fight parasites.  Your count is within the normal range.",
+        "explanation": "This is the number of eosinophils in your blood."
+      },
+      {
+        "test_name": "Absolute Leucocyte Count Absolute Neutrophil Count (ANC)",
+        "value": "5.02",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Neutrophils are the most common type of white blood cell, responsible for fighting infection. Your count is within the normal range.",
+        "explanation": "This test measures the number of neutrophils in your blood."
+      },
+      {
+        "test_name": "Absolute Lymphocyte Count (ALC)",
+        "value": "2.18",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Lymphocytes are important for immunity.  Your count is within the normal range.",
+        "explanation": "This is the count of lymphocytes in your blood."
+      },
+      {
+        "test_name": "Absolute Monocyte Count",
+        "value": "0.48",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "Monocytes are a type of white blood cell that helps clean up debris and fight infection.  Your count is within the normal range.",
+        "explanation": "This is the count of monocytes in your blood."
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.4",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of basophils among your white blood cells.",
+        "explanation": "This is the percentage of basophils in your total white blood cell count."
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "3.6",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of eosinophils among your white blood cells.",
+        "explanation": "This is the percentage of eosinophils in your total white blood cell count."
+      },
+      {
+        "test_name": "Complete Blood Count Haemoglobin (HB)",
+        "value": "13.2",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "Hemoglobin carries oxygen in your blood. Your level is within the normal range.",
+        "explanation": "This measures the amount of hemoglobin in your red blood cells."
+      },
+      {
+        "test_name": "Hematocrit (PCV)",
+        "value": "40.3",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "Hematocrit is the percentage of red blood cells in your blood.",
+        "explanation": "This is the percentage of red blood cells in your blood."
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "27.3",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of lymphocytes among your white blood cells.",
+        "explanation": "This is the percentage of lymphocytes in your total white blood cell count."
+      },
+      {
+        "test_name": "Mean Corp Hb (MCH)",
+        "value": "29.7",
+        "unit": "pg",
+        "status": "Normal",
+        "analogy": "MCH measures the average amount of hemoglobin in each red blood cell.",
+        "explanation": "This measures the average amount of hemoglobin per red blood cell."
+      },
+      {
+        "test_name": "Mean Corp Hb Conc (MCHC)",
+        "value": "32.8",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "MCHC measures the concentration of hemoglobin in each red blood cell.",
+        "explanation": "This measures the concentration of hemoglobin in your red blood cells."
+      },
+      {
+        "test_name": "Mean Corp Volume (MCV)",
+        "value": "90.5",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "MCV measures the average size of your red blood cells.",
+        "explanation": "This measures the average size of your red blood cells."
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "6.0",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of monocytes among your white blood cells.",
+        "explanation": "This is the percentage of monocytes in your total white blood cell count."
+      },
+      {
+        "test_name": "MPV",
+        "value": "9.8",
+        "unit": "fL",
+        "status": "Slightly High",
+        "analogy": "MPV measures the average size of your platelets.",
+        "explanation": "This is the mean platelet volume."
+      },
+      {
+        "test_name": "Neutrophils",
+        "value": "62.7",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of neutrophils among your white blood cells.",
+        "explanation": "This is the percentage of neutrophils in your total white blood cell count."
+      },
+      {
+        "test_name": "Platelet Count(PLT)",
+        "value": "302",
+        "unit": "10^3/µl",
+        "status": "Normal",
+        "analogy": "Platelets are important for blood clotting.",
+        "explanation": "This measures the number of platelets in your blood."
+      },
+      {
+        "test_name": "Ratio Differential Leucocyte Count Neutrophils",
+        "value": "62.7",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This represents the percentage of neutrophils among your white blood cells.",
+        "explanation": "This is the percentage of neutrophils in your total white blood cell count."
+      },
+      {
+        "test_name": "RBCs",
+        "value": "Nil",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Red blood cells are not expected to be present in urine.",
+        "explanation": "This measures the number of red blood cells in the urine."
+      },
+      {
+        "test_name": "Red Blood Cell Count (RBC)",
+        "value": "4.50",
+        "unit": "10^6/µl",
+        "status": "Normal",
+        "analogy": "Red blood cells carry oxygen throughout your body.",
+        "explanation": "This measures the number of red blood cells in your blood."
+      },
+      {
+        "test_name": "RDW - CV",
+        "value": "14.0",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "RDW measures the variation in size of your red blood cells.",
+        "explanation": "This measures the variation in the size of your red blood cells."
+      },
+      {
+        "test_name": "RDW - SD",
+        "value": "44.60",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "RDW measures the variation in size of your red blood cells.",
+        "explanation": "This measures the variation in the size of your red blood cells."
+      },
+      {
+        "test_name": "Total Leucocyte Count (TLC)",
+        "value": "8.0",
+        "unit": "10^3/uL",
+        "status": "Normal",
+        "analogy": "This is the total number of white blood cells in your blood.",
+        "explanation": "This is the total count of white blood cells in your blood."
+      }
+    ],
+    "Liver Function": [
+      {
+        "test_name": "Alanine Aminotransferase (ALT/SGPT)",
+        "value": "31.1",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "ALT is an enzyme found in the liver.  Your level is within the normal range, indicating no significant liver damage.",
+        "explanation": "This enzyme is released into the bloodstream when the liver is damaged."
+      },
+      {
+        "test_name": "Albumin/Globulin Ratio",
+        "value": "1.39",
+        "unit": "Ratio",
+        "status": "Normal",
+        "analogy": "This ratio helps assess liver function and protein production.",
+        "explanation": "This ratio indicates the balance of albumin and globulin proteins in the blood."
+      },
+      {
+        "test_name": "Alkaline Phosphatase (ALP)",
+        "value": "94.00",
+        "unit": "U/L",
+        "status": "Slightly High",
+        "analogy": "ALP is an enzyme found in the liver and bones. Your level is slightly elevated.",
+        "explanation": "ALP is an enzyme found primarily in the liver and bones, elevated levels can indicate liver or bone problems."
+      },
+      {
+        "test_name": "Aspartate Aminotransferase (AST/SGOT)",
+        "value": "27.80",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "AST is an enzyme found in the liver. Your level is within the normal range, indicating no significant liver damage.",
+        "explanation": "This enzyme is released into the bloodstream when the liver is damaged."
+      },
+      {
+        "test_name": "Gamma Glutamyl Transferase (GGT)",
+        "value": "22.0",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "GGT is an enzyme found in the liver. Your level is within the normal range.",
+        "explanation": "GGT is an enzyme found primarily in the liver, elevated levels can indicate liver problems."
+      },
+      {
+        "test_name": "Liver Function Test (LFT) Serum Bilirubin, (Total)",
+        "value": "0.43",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Bilirubin is a byproduct of red blood cell breakdown. Your level is within the normal range.",
+        "explanation": "This is a waste product of red blood cell breakdown, and elevated levels suggest liver problems."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Direct)",
+        "value": "0.06",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Direct bilirubin is a component of total bilirubin.",
+        "explanation": "This is a waste product of red blood cell breakdown."
+      },
+      {
+        "test_name": "Serum Bilirubin, (Indirect)",
+        "value": "0.37",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Indirect bilirubin is a component of total bilirubin.",
+        "explanation": "This is a waste product of red blood cell breakdown."
+      },
+      {
+        "test_name": "Serum Globulin",
+        "value": "3.18",
+        "unit": "gm/dl",
+        "status": "Normal",
+        "analogy": "Globulin is a type of protein in the blood.",
+        "explanation": "This is a protein in the blood."
+      },
+      {
+        "test_name": "SGOT/SGPT Ratio",
+        "value": "0.89",
+        "unit": "Ratio",
+        "status": "Normal",
+        "analogy": "This ratio helps assess liver health.",
+        "explanation": "This ratio compares two liver enzymes, AST and ALT."
+      }
+    ],
+    "Kidney Function": [
+      {
+        "test_name": "Blood Urea",
+        "value": "14",
+        "unit": "mg/dl",
+        "status": "Slightly Low",
+        "analogy": "Blood urea is a waste product of protein metabolism.",
+        "explanation": "Blood urea is a waste product filtered by the kidneys."
+      },
+      {
+        "test_name": "Blood Urea Nitrogen (BUN)",
+        "value": "6.6",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "BUN is a measure of kidney function.",
+        "explanation": "This measures the amount of urea nitrogen in your blood."
+      },
+      {
+        "test_name": "Serum Creatinine",
+        "value": "0.62",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Creatinine is a waste product of muscle metabolism.",
+        "explanation": "Creatinine is a waste product that is filtered by the kidneys."
+      },
+      {
+        "test_name": "Urea, Serum",
+        "value": "14",
+        "unit": "mg/dl",
+        "status": "Slightly Low",
+        "analogy": "Urea is a waste product filtered by the kidneys.",
+        "explanation": "This is a waste product of protein metabolism."
+      }
+    ],
+    "Lipids": [
+      {
+        "test_name": "Cholesterol Total",
+        "value": "271.3",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Total cholesterol is a type of fat in your blood. Your level is high.",
+        "explanation": "High levels increase your risk for heart disease."
+      },
+      {
+        "test_name": "HDL / LDL Cholesterol Ratio",
+        "value": "0.32",
+        "unit": "Ratio",
+        "status": "High Risk",
+        "analogy": "This ratio shows the balance of good (HDL) to bad (LDL) cholesterol.",
+        "explanation": "A lower ratio indicates higher risk for heart problems."
+      },
+      {
+        "test_name": "LDL / HDL Cholesterol Ratio",
+        "value": "3.14",
+        "unit": "Ratio",
+        "status": "Moderate Risk",
+        "analogy": "This ratio shows the balance of good (HDL) to bad (LDL) cholesterol.",
+        "explanation": "A higher ratio indicates higher risk for heart problems."
+      },
+      {
+        "test_name": "LDL Cholesterol Calculated",
+        "value": "182.58",
+        "unit": "mg/dl",
+        "status": "Very High",
+        "analogy": "LDL is the 'bad' cholesterol. Your level is very high.",
+        "explanation": "High levels increase the risk for heart disease."
+      },
+      {
+        "test_name": "Non-HDL Cholesterol",
+        "value": "213.1",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Non-HDL cholesterol includes all cholesterol except HDL.",
+        "explanation": "High levels increase risk of heart disease."
+      },
+      {
+        "test_name": "Serum HDL Cholesterol",
+        "value": "58.2",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "HDL is the 'good' cholesterol. Your level is within the normal range.",
+        "explanation": "HDL cholesterol helps remove cholesterol from the arteries."
+      },
+      {
+        "test_name": "Serum Triglycerides",
+        "value": "152.6",
+        "unit": "mg/dl",
+        "status": "Borderline High",
+        "analogy": "Triglycerides are another type of fat in your blood. Your level is borderline high.",
+        "explanation": "High levels increase the risk for heart disease."
+      },
+      {
+        "test_name": "Total CHOL / HDL Cholesterol Ratio",
+        "value": "4.66",
+        "unit": "Ratio",
+        "status": "Slightly High",
+        "analogy": "This ratio indicates your overall cholesterol health.",
+        "explanation": "This ratio provides a measure of risk for heart disease."
+      },
+      {
+        "test_name": "Total Cholesterol",
+        "value": "271.3",
+        "unit": "mg/dl",
+        "status": "High",
+        "analogy": "Total cholesterol is a type of fat in your blood.",
+        "explanation": "High levels increase risk for heart disease."
+      },
+      {
+        "test_name": "VLDL Cholesterol Calculated",
+        "value": "30.52",
+        "unit": "mg/dl",
+        "status": "Slightly High",
+        "analogy": "VLDL is a type of fat in the blood.  Your level is slightly high.",
+        "explanation": "High VLDL levels increase risk for heart disease."
+      }
+    ],
+    "Electrolytes and Minerals": [
+      {
+        "test_name": "Calcium Total",
+        "value": "8.8",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Calcium is important for bones and muscles. Your level is within the normal range.",
+        "explanation": "Calcium is essential for healthy bones and muscles."
+      },
+      {
+        "test_name": "Serum Calcium",
+        "value": "8.8",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Calcium is important for bones and muscles. Your level is within the normal range.",
+        "explanation": "Calcium is essential for healthy bones and muscles."
+      },
+      {
+        "test_name": "Serum Chloride",
+        "value": "103",
+        "unit": "mmol/L",
+        "status": "Normal",
+        "analogy": "Chloride is an electrolyte that maintains fluid balance.",
+        "explanation": "Chloride helps maintain fluid balance in the body."
+      },
+      {
+        "test_name": "Serum Phosphorus",
+        "value": "2.6",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Phosphorus is important for bones and energy production.",
+        "explanation": "Phosphorus is important for bone and energy metabolism."
+      },
+      {
+        "test_name": "Serum Sodium",
+        "value": "137",
+        "unit": "mmol/L",
+        "status": "Normal",
+        "analogy": "Sodium is an electrolyte that maintains fluid balance.",
+        "explanation": "Sodium helps maintain fluid balance in the body."
+      },
+      {
+        "test_name": "Serum Total Protein",
+        "value": "7.61",
+        "unit": "gm/dl",
+        "status": "Normal",
+        "analogy": "Total protein is the sum of various proteins in your blood.",
+        "explanation": "Total protein level reflects overall protein metabolism and can be affected by liver or kidney disease."
+      },
+      {
+        "test_name": "Serum Uric Acid",
+        "value": "5.3",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Uric acid is a waste product of purine metabolism.",
+        "explanation": "High levels can indicate gout."
+      }
+    ],
+    "Glucose": [
+      {
+        "test_name": "Glucose-Random",
+        "value": "90",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Glucose is your blood sugar level. Your level is within the normal range.",
+        "explanation": "Glucose is the primary energy source for the body."
+      },
+      {
+        "test_name": "Glucose-Random GLUCOSE, RANDOM",
+        "value": "90",
+        "unit": "mg/dl",
+        "status": "Normal",
+        "analogy": "Glucose is your blood sugar level. Your level is within the normal range.",
+        "explanation": "Glucose is the primary energy source for the body."
+      }
+    ],
+    "Thyroid": [
+      {
+        "test_name": "Thyroid Stimulating Hormone (TSH)-Ultrasensitive",
+        "value": "1.844",
+        "unit": "µIU/ml",
+        "status": "Normal",
+        "analogy": "TSH is a hormone that stimulates the thyroid gland. Your level is within the normal range.",
+        "explanation": "This hormone regulates thyroid function."
+      },
+      {
+        "test_name": "Thyroxine (T4, Total)",
+        "value": "8.40",
+        "unit": "ug/dl",
+        "status": "Normal",
+        "analogy": "T4 is a thyroid hormone. Your level is within the normal range.",
+        "explanation": "This hormone regulates metabolism."
+      },
+      {
+        "test_name": "Tri-Iodothyronine (T3, Total)",
+        "value": "1.01",
+        "unit": "ng/ml",
+        "status": "Normal",
+        "analogy": "T3 is a thyroid hormone. Your level is within the normal range.",
+        "explanation": "This hormone regulates metabolism."
+      }
+    ],
+    "Inflammation": [
+      {
+        "test_name": "ESR",
+        "value": "14",
+        "unit": "mm/1st hour",
+        "status": "Slightly High",
+        "analogy": "ESR measures inflammation in your body. Your level is slightly elevated.",
+        "explanation": "Elevated ESR can indicate inflammation or infection."
+      }
+    ],
+    "Urinalysis": [
+      {
+        "test_name": "Bacteria",
+        "value": "Absent",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Bacteria should not be present in urine.",
+        "explanation": "Indicates presence or absence of bacteria in urine."
+      },
+      {
+        "test_name": "Bilirubin",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Bilirubin should not be present in urine unless there is liver dysfunction.",
+        "explanation": "Indicates presence or absence of bilirubin in urine."
+      },
+      {
+        "test_name": "Blood",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Blood should not be present in urine.",
+        "explanation": "Indicates presence or absence of blood in urine."
+      },
+      {
+        "test_name": "Casts",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Casts are usually not present in normal urine.",
+        "explanation": "Indicates presence or absence of casts (protein clumps) in urine."
+      },
+      {
+        "test_name": "Crystals",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Crystals are usually not present in normal urine.",
+        "explanation": "Indicates presence or absence of crystals in urine."
+      },
+      {
+        "test_name": "Glucose",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Glucose should not be present in urine.",
+        "explanation": "Indicates presence or absence of glucose in urine."
+      },
+      {
+        "test_name": "Ketones",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Ketones are usually not present in normal urine.",
+        "explanation": "Indicates presence or absence of ketones in urine."
+      },
+      {
+        "test_name": "Leucocyte Esterase",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Leucocyte esterase indicates presence of white blood cells in urine.",
+        "explanation": "Indicates presence or absence of leucocyte esterase in urine."
+      },
+      {
+        "test_name": "Nitrite",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Nitrite indicates presence of bacteria in urine.",
+        "explanation": "Indicates presence or absence of nitrite in urine."
+      },
+      {
+        "test_name": "Others (Non Specific)",
+        "value": "Nil",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Absence of non-specific findings is normal.",
+        "explanation": "Indicates presence or absence of other non-specific findings in urine."
+      },
+      {
+        "test_name": "Pus Cells",
+        "value": "1-2",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Pus cells (white blood cells) should be minimal in urine.",
+        "explanation": "Indicates presence of white blood cells in urine."
+      },
+      {
+        "test_name": "Specific Gravity",
+        "value": "1.005",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Specific gravity measures the concentration of urine.",
+        "explanation": "This measures the concentration of solutes in urine."
+      },
+      {
+        "test_name": "Urine Protein",
+        "value": "Negative",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Protein should not be present in urine.",
+        "explanation": "Indicates presence or absence of protein in urine."
+      },
+      {
+        "test_name": "Urobilinogen",
+        "value": "Normal",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Urobilinogen is a breakdown product of bilirubin.",
+        "explanation": "Indicates the presence of urobilinogen in urine."
+      },
+      {
+        "test_name": "Yeast Cell",
+        "value": "Absent",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Yeast cells should not be present in urine.",
+        "explanation": "Indicates presence or absence of yeast cells in urine."
+      },
+      {
+        "test_name": "pH",
+        "value": "5.5",
+        "unit": null,
+        "status": "Normal",
+        "analogy": "Urine pH indicates its acidity.",
+        "explanation": "This measures the acidity or alkalinity of urine."
+      }
+    ],
+    "Other": [
+      {
+        "test_name": "Epithelial cells",
+        "value": "1-2",
+        "unit": "/HPF",
+        "status": "Normal",
+        "analogy": "Epithelial cells are cells lining the urinary tract.",
+        "explanation": "This measures the number of epithelial cells in urine."
+      },
+      {
+        "test_name": "Green and king index",
+        "value": "87",
+        "unit": "Ratio",
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      },
+      {
+        "test_name": "Mentzer Index",
+        "value": "20.11",
+        "unit": "Ratio",
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      },
+      {
+        "test_name": "RDWI",
+        "value": "281.56",
+        "unit": "Ratio",
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      },
+      {
+        "test_name": "Bun/Creatinine Ratio",
+        "value": "10.71",
+        "unit": "Ratio",
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      },
+      {
+        "test_name": "GFR, ESTIMATED",
+        "value": "122.78",
+        "unit": "mL/min/1.73m2",
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      },
+      {
+        "test_name": "Urea/Creatinine Ratio",
+        "value": "22.90",
+        "unit": null,
+        "status": "requires further context",
+        "analogy": "Requires further context for an accurate interpretation.",
+        "explanation": "This test requires additional context for interpretation."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

@@ -1,6 +1,0 @@
-Identified lab: unknown
-Parsed total: 0, high: 0, low: 0
-
----High-confidence---
-
----Low-confidence---

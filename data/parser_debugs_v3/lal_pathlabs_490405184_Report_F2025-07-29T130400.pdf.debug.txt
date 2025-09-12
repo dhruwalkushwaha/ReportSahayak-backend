@@ -1,0 +1,517 @@
+==== RAW EXTRACTED TEXT ====
+
+Report Status    
+Female
+56 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+29/7/2025   9:39:00AM
+Self
+490405184
+Ms. MEENAKSHI  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+29/7/2025  1:02:40PM
+Final
+Collected at    :
+Processed at      :
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Dr. Lal Path labs Ltd
+Suddhipur ,Varanasi-221003
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+COMPLETE BLOOD COUNT;CBC
+(SLS Method, Sheath Flow DC Detection Method, Fluorescent Flow Cytometry & Calculated)
+Hemoglobin
+ 12.00 - 15.00 
+g/dL
+12.70
+Packed Cell Volume (PCV)
+ 36.00 - 46.00 
+%
+40.20
+RBC Count
+ 3.80 - 4.80 
+mill/mm3
+4.17
+MCV
+ 83.00 - 101.00 
+fL
+96.40
+Mentzer Index
+  
+23.1
+MCH
+ 27.00 - 32.00 
+pg
+30.50
+MCHC
+ 31.50 - 34.50 
+g/dL
+31.60
+Red Cell Distribution Width (RDW)
+ 11.60 - 14.00 
+%
+13.20
+Total Leukocyte Count (TLC)
+ 4.00 - 10.00 
+thou/mm3
+6.55
+Differential Leucocyte Count (DLC)
+ 40.00 - 80.00 
+Segmented Neutrophils
+%
+71.90
+ 20.00 - 40.00 
+Lymphocytes
+%
+19.50
+ 2.00 - 10.00 
+Monocytes
+%
+3.80
+ 1.00 - 6.00 
+Eosinophils
+%
+3.70
+ <2.00 
+Basophils
+%
+1.10
+Absolute Leucocyte Count
+ 2.00 - 7.00 
+Neutrophils
+thou/mm3
+4.71
+ 1.00 - 3.00 
+Lymphocytes
+thou/mm3
+1.28
+ 0.20 - 1.00 
+Monocytes
+thou/mm3
+0.25
+ 0.02 - 0.50 
+Eosinophils
+thou/mm3
+0.24
+*490405184*
+Page 1 of 4
+Report Status    
+Female
+56 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+29/7/2025   9:39:00AM
+Self
+490405184
+Ms. MEENAKSHI  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+29/7/2025  1:02:40PM
+Final
+Collected at    :
+Processed at      :
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Dr. Lal Path labs Ltd
+Suddhipur ,Varanasi-221003
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+ 0.02 - 0.10 
+Basophils
+thou/mm3
+0.07
+Platelet Count
+ 150.00 - 410.00 
+thou/mm3
+280
+Mean Platelet Volume
+ 6.5 - 12.0 
+fL
+10.8
+Comment
+In anaemic conditions Mentzer index is used to differentiate Iron Deficiency Anaemia from Beta- Thalassemia 
+trait. If Mentzer Index value is >13, there is probability of Iron Deficiency Anaemia. A value <13 indicates likelihood 
+of Beta- Thalassemia trait and Hb HPLC is advised to rule out the Thalassemia trait.
+Note
+1.
+As per the recommendation of International council for Standardization in Hematology, the differential 
+leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of 
+blood 
+2.
+Test conducted on EDTA whole blood
+*490405184*
+Page 2 of 4
+Report Status    
+Female
+56 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+29/7/2025   9:39:00AM
+Self
+490405184
+Ms. MEENAKSHI  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+29/7/2025  1:02:40PM
+Final
+Dr. Lal Path labs Ltd
+Suddhipur ,Varanasi-221003
+:
+:
+Collected at     
+Processed at      
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+ALT (SGPT), SERUM
+(IFCC, without P5P)
+U/L
+<33
+10.5
+VITAMIN D, 25 - HYDROXY, SERUM
+(ECLIA)
+nmol/L
+75.00 - 250.00
+43.09
+Interpretation 
+ -------------------------------------------------------------
+| LEVEL         | REFERENCE RANGE | COMMENTS                  |
+|               | IN nmol/L       |                           |
+|---------------|-----------------|---------------------------|
+| Deficient     | < 50            | High risk for developing  |
+|               |                 | bone disease              |
+|---------------|-----------------|---------------------------|
+| Insufficient  | 50-74           | Vitamin D concentration   |
+|               |                 | which normalizes          |
+|               |                 | Parathyroid hormone       |
+|               |                 | concentration             |
+|---------------|-----------------|---------------------------|
+| Sufficient    | 75-250          | Optimal concentration     | 
+|               |                 | for maximal health benefit|
+|---------------|-----------------|---------------------------|
+| Potential     | >250            | High risk for toxic       |
+| intoxication  |                 | effects                   |
+ -------------------------------------------------------------
+Note  
+·
+The assay measures both D2 (Ergocalciferol) and D3 (Cholecalciferol) metabolites of vitamin D.
+·
+25 (OH)D is influenced by sunlight, latitude, skin pigmentation, sunscreen use and hepatic function.
+·
+Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L.
+·
+It shows seasonal variation, with values being 40-50% lower in winter than in summer. 
+·
+Levels vary with age and are increased in pregnancy. 
+·
+A new test Vitamin D, Ultrasensitive by LC-MS/MS is also available
+Comments
+Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency 
+in children causes Rickets and in adults leads to Osteomalacia.  It can also lead to Hypocalcemia and 
+Tetany.  Vitamin D status is best determined  by measurement of 25 hydroxy vitamin D, as it is the major 
+circulating form and has longer half life (2-3 weeks) than 1,25 Dihydroxy vitamin D (5-8 hrs).
+Decreased Levels
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+*490405184*
+Page 3 of 4
+Report Status    
+Female
+56 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+29/7/2025   9:39:00AM
+Self
+490405184
+Ms. MEENAKSHI  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+29/7/2025  1:02:40PM
+Final
+Dr. Lal Path labs Ltd
+Suddhipur ,Varanasi-221003
+:
+:
+Collected at     
+Processed at      
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+·
+Inadequate exposure to sunlight
+·
+Dietary deficiency
+·
+Vitamin D malabsorption
+·
+Severe  Hepatocellular disease
+·
+Drugs like Anticonvulsants
+·
+Nephrotic syndrome
+Increased levels
+Vitamin D intoxication 
+ Dr.  Alok Kumar
+MD
+Consultant Pathologist                          
+Dr Lal PathLabs Ltd
+Dr Mridula Shukla
+MBBS, DNB (Path)
+Chief of Laboratory & 
+Histopathologist                               
+Dr Lal PathLabs Ltd
+-------------------------------End of report --------------------------------
+AHEEEHAPMAAOHNLJOPPMAGLMBJKMFGDONKKOGCPFNKCJOPAHEEEHA
+BNFFFNBPACJDFHBLMHMCBLEGAHFHAHFLBGJDMHJLIKAONPBNFFFNB
+FNCHFDFNJEANJHLJCMGEGFKNGEHCHJACOFHCBLHJOAKEHKFCEDHOL
+PIPMJEFGDHIGLFGPPKEOOIKOMGFKODKDIFNKHLNGKNCHHKNEDBHDC
+CCFJIBFOOGPDOGPEBGMDJKMJCKPHKDKEMNOPFCHKMFCHHDNKBCDCO
+NNBHEPFOAMEHCFGMALODAIHGGOJNDEDPOEMFBIOJIBBAEKNKBKLMC
+PEMFAHFHAOBCNPLOAKACNFJDAHFHAKALLCNBAINFMMKNAHFHAKHEL
+GAOBDDFCHLFJIPPDIOKHGHLGEFHFFGCHKKNFCMNDKAKJCHGHCHDLL
+OFCOIIFOEKAAJLEEADPMMKMCHPKBHIJBPFEEBANEOFCIBACDIHHDL
+PFLONDFDKIONENEDFCNDFFLKKKLGNCKGICFKBFELJNKONJKILGDDC
+NAGFJNFNFNLEDIADJNLMEFOKHKLMNLAOOMNCBBPIPAAKLBOAAIFMD
+MNNFNNEPKNALHFMPJOELPOIBAHFHAAAGKCNNEKNOLAIIAHFHAKPKP
+APBBBPAPBPBPDHCCEPEJCIFIACHGEFCHLGMAFFNJMGKEHBDDEFHMJ
+HHHHHHHPHPPPPPPPHPPPPPHHHHPHPHHHPHPHHPHHPPPPPHPPHHHPP
+IMPORTANT INSTRUCTIONS
+ŸTest results released pertain to the specimen submitted.ŸAll test results are dependent on the quality of the sample received by the Laboratory . 
+ŸLaboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician .ŸReport 
+delivery may be delayed due to unforeseen circumstances. Inconvenience is regretted .ŸCertain tests may require further testing at additional cost for 
+derivation of exact value. Kindly submit request within 72 hours post reporting.ŸTest results may show interlaboratory variations.ŸThe Courts/Forum 
+at Delhi shall have exclusive jurisdiction in all disputes /claims concerning the test(s) & or results of test(s).ŸTest results are not valid for medico legal 
+purposes.ŸThis is computer generated medical diagnostic report that has been validated by Authorized Medical Practitioner /Doctor.ŸThe report does 
+not need physical signature. 
+(#) Sample drawn from outside source.
+If Test results are alarming or unexpected, client is advised to contact the Customer Care immediately for possible remedial action. 
+Tel: +91-11-49885050,Fax: - +91-11-2788-2134, E-mail: lalpathlabs@lalpathlabs.com 
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+*490405184*
+Page 4 of 4
+
+
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "ALT (SGPT), SERUM",
+    "value": "10.5",
+    "unit": "U/L",
+    "ref_interval": "<33",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Basophils",
+    "value": "0.07",
+    "unit": "thou/mm3",
+    "ref_interval": "0.02 - 0.10",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Eosinophils",
+    "value": "0.24",
+    "unit": "thou/mm3",
+    "ref_interval": "0.02 - 0.50",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Hemoglobin",
+    "value": "12.70",
+    "unit": "g/dL",
+    "ref_interval": "12.00 - 15.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Lymphocytes",
+    "value": "1.28",
+    "unit": "thou/mm3",
+    "ref_interval": "1.00 - 3.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "MCH",
+    "value": "30.50",
+    "unit": "pg",
+    "ref_interval": "27.00 - 32.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "MCHC",
+    "value": "31.60",
+    "unit": "g/dL",
+    "ref_interval": "31.50 - 34.50",
+    "source": "gemini"
+  },
+  {
+    "test_name": "MCV",
+    "value": "96.40",
+    "unit": "fL",
+    "ref_interval": "83.00 - 101.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Mean Platelet Volume",
+    "value": "10.8",
+    "unit": "fL",
+    "ref_interval": "6.5 - 12.0",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Monocytes",
+    "value": "0.25",
+    "unit": "thou/mm3",
+    "ref_interval": "0.20 - 1.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Neutrophils",
+    "value": "4.71",
+    "unit": "thou/mm3",
+    "ref_interval": "2.00 - 7.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Packed Cell Volume (PCV)",
+    "value": "40.20",
+    "unit": "%",
+    "ref_interval": "36.00 - 46.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Platelet Count",
+    "value": "280",
+    "unit": "thou/mm3",
+    "ref_interval": "150.00 - 410.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "RBC Count",
+    "value": "4.17",
+    "unit": "mill/mm3",
+    "ref_interval": "3.80 - 4.80",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Red Cell Distribution Width (RDW)",
+    "value": "13.20",
+    "unit": "%",
+    "ref_interval": "11.60 - 14.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Segmented Neutrophils",
+    "value": "71.90",
+    "unit": "%",
+    "ref_interval": "40.00 - 80.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Total Leukocyte Count (TLC)",
+    "value": "6.55",
+    "unit": "thou/mm3",
+    "ref_interval": "4.00 - 10.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "VITAMIN D, 25 - HYDROXY, SERUM",
+    "value": "43.09",
+    "unit": "nmol/L",
+    "ref_interval": "75.00 - 250.00",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Mentzer Index",
+    "value": "23.1",
+    "unit": "",
+    "ref_interval": "",
+    "source": "gemini"
+  }
+]
+
+==== EXTRA ====
+
+{
+  "regex_count": 3,
+  "gemini_count": 23
+}

@@ -1,0 +1,59 @@
+==== RAW EXTRACTED TEXT ====
+
+Lab Ramesh Maurya
+
+DMLT. [Fipg 10033)
+
+Ex. Lab seni
+
+: SRL Ranbaxy Fortis Hossite!
+‘Vansh PalhrLab {Om Hospital’ Nokia UP. }
+
+Patient Id 2012220266,
+‘Mrs. KALIMUN NISHA Age 60 Yrs. Sex F
+Dr. JANAKRAM MAURYA Mobile No. ; |
+
+Value Unit Nemial Value
+COMPLETE 61L.O0D COUNT (CBC)
+HAEMOGLOBIN (Hb) ne ‘gmidi 415-165
+TOTAL FLEUCOCYTE COUNT (THC). 7,800 icumm 4000 -'11000
+% 40-75
+% 20-45.
+% 01-06
+% 02-40
+% O=0
+Millionsfemm 38-48
+a 35-45
+tL 80-100
+Picogram 27.0 =31.0
+Lakhiemm 1.50- 4.50
+
+
+
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "HAEMOGLOBIN (Hb)",
+    "value": "12.70",
+    "unit": "g/dL",
+    "ref_interval": "11.5-16.5",
+    "source": "gemini"
+  },
+  {
+    "test_name": "TOTAL LEUCOCYTE COUNT (TLC)",
+    "value": "7800",
+    "unit": "/cu mm",
+    "ref_interval": "4000-11000",
+    "source": "gemini"
+  }
+]
+
+==== EXTRA ====
+
+{
+  "ocr": true,
+  "ocr_text_len": 483,
+  "regex_count": 0,
+  "gemini_count": 2
+}

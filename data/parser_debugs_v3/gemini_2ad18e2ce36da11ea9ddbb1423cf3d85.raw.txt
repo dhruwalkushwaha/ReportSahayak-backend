@@ -1,0 +1,16 @@
+```json
+[
+  {
+    "test_name": "HAEMOGLOBIN (Hb)",
+    "value": "12.70",
+    "unit": "g/dL",
+    "ref_interval": "11.5-16.5"
+  },
+  {
+    "test_name": "TOTAL LEUCOCYTE COUNT (TLC)",
+    "value": "7800",
+    "unit": "/cu mm",
+    "ref_interval": "4000-11000"
+  }
+]
+```

@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "test_name": "CALCIUM , SERUM",
+    "value": "9.20",
+    "unit": "mg/dL",
+    "ref_interval": "8.4 - 10.2"
+  },
+  {
+    "test_name": "TRI-IODOTHYRONINE (T3, TOTAL)",
+    "value": "0.7",
+    "unit": "ng/mL",
+    "ref_interval": "0.67-1.81"
+  },
+  {
+    "test_name": "THYROXINE (T4, TOTAL)",
+    "value": "6.49",
+    "unit": "µg/dL",
+    "ref_interval": "4.66-9.32"
+  },
+  {
+    "test_name": "TSH (Ultrasensitive/4thGen)",
+    "value": "3.540",
+    "unit": "µIU/mL",
+    "ref_interval": "0.25-5.0"
+  },
+  {
+    "test_name": "VITAMIN D (25 - OH VITAMIN D) , SERUM",
+    "value": "22.5",
+    "unit": "ng/mL",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "VITAMIN B12 , SERUM",
+    "value": "440",
+    "unit": "pg/mL",
+    "ref_interval": "120-914"
+  }
+]
+```

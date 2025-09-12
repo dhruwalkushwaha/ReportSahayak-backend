@@ -1,0 +1,180 @@
+```json
+{
+  "summary": "Your lab results show mostly normal values.  Liver function (ALT) is within the normal range.  Your white blood cell counts are slightly low, but still within the acceptable range. Your red blood cell counts, hemoglobin, and hematocrit are also within the normal range.  However, your Vitamin D level is below the optimal range.  It's recommended to discuss these results with your doctor to interpret them within the context of your overall health and any symptoms you may be experiencing.",
+  "details": {
+    "Liver Function": [
+      {
+        "test_name": "ALT (SGPT), SERUM",
+        "value": "10.5",
+        "unit": "U/L",
+        "status": "Normal",
+        "analogy": "Think of ALT as a measure of liver cell health.  A normal level indicates your liver is functioning well.",
+        "explanation": "ALT is an enzyme primarily found in the liver. Elevated levels may indicate liver damage, but normal levels suggest the liver is functioning as expected."
+      }
+    ],
+    "White Blood Cells": [
+      {
+        "test_name": "Absolute Leucocyte Count",
+        "value": "1.10",
+        "unit": "%",
+        "status": "Low",
+        "analogy": "These are your body's infection-fighting cells.  Slightly low numbers might mean slightly reduced immune response but could also be normal for some individuals.",
+        "explanation": "Slightly lower than the reference range, however still within range.  It's important to correlate this to clinical symptoms."
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.07",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "A type of white blood cell involved in allergic reactions.",
+        "explanation": "This is a type of white blood cell, and your count is within the normal range."
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "0.24",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "Another type of white blood cell that plays a role in fighting parasites and allergies.",
+        "explanation": "This count falls within the typical range."
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "1.28",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "These cells are crucial for immune responses against viruses and bacteria.",
+        "explanation": "Your lymphocyte count is within the normal range."
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "0.25",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "These cells are a type of phagocyte, meaning they engulf and destroy pathogens.",
+        "explanation": "Your monocyte count is within the normal range."
+      },
+      {
+        "test_name": "Neutrophils",
+        "value": "4.71",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "These are the most abundant white blood cells and are your body's first responders to infection.",
+        "explanation": "Your neutrophil count is within the normal range."
+      },
+      {
+        "test_name": "Segmented Neutrophils",
+        "value": "71.90",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "A mature form of neutrophils, reflecting the proportion of infection-fighting cells.",
+        "explanation": "The percentage of segmented neutrophils is within the normal range."
+      },
+      {
+        "test_name": "Total Leukocyte Count (TLC)",
+        "value": "6.55",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "This is the total number of white blood cells in your blood.",
+        "explanation": "Your total white blood cell count is within the normal range."
+      }
+    ],
+    "Red Blood Cells": [
+      {
+        "test_name": "Hemoglobin",
+        "value": "12.70",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "Hemoglobin carries oxygen throughout your body.  Normal levels mean good oxygen-carrying capacity.",
+        "explanation": "Your hemoglobin level is within the normal range."
+      },
+      {
+        "test_name": "MCH",
+        "value": "30.50",
+        "unit": "pg",
+        "status": "Normal",
+        "analogy": "This measures the average weight of hemoglobin in each red blood cell.",
+        "explanation": "Your MCH value is within the normal range."
+      },
+      {
+        "test_name": "MCHC",
+        "value": "31.60",
+        "unit": "g/dL",
+        "status": "Normal",
+        "analogy": "This measures the concentration of hemoglobin in your red blood cells.",
+        "explanation": "Your MCHC value is within the normal range."
+      },
+      {
+        "test_name": "MCV",
+        "value": "96.40",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "This measures the average size of your red blood cells.",
+        "explanation": "Your MCV value is within the normal range."
+      },
+      {
+        "test_name": "Packed Cell Volume (PCV)",
+        "value": "40.20",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This is the proportion of your blood volume that is red blood cells.",
+        "explanation": "Your PCV is within the normal range."
+      },
+      {
+        "test_name": "RBC Count",
+        "value": "4.17",
+        "unit": "mill/mm3",
+        "status": "Normal",
+        "analogy": "This is the number of red blood cells in your blood.",
+        "explanation": "Your red blood cell count is within the normal range."
+      },
+      {
+        "test_name": "Red Cell Distribution Width (RDW)",
+        "value": "13.20",
+        "unit": "%",
+        "status": "Normal",
+        "analogy": "This measures the variation in the size of your red blood cells.",
+        "explanation": "Your RDW is within the normal range."
+      }
+    ],
+    "Platelets": [
+      {
+        "test_name": "Mean Platelet Volume",
+        "value": "10.8",
+        "unit": "fL",
+        "status": "Normal",
+        "analogy": "This measures the average size of your platelets.",
+        "explanation": "Your mean platelet volume is within the normal range."
+      },
+      {
+        "test_name": "Platelet Count",
+        "value": "280",
+        "unit": "thou/mm3",
+        "status": "Normal",
+        "analogy": "Platelets are essential for blood clotting.",
+        "explanation": "Your platelet count is within the normal range."
+      }
+    ],
+    "Vitamin D": [
+      {
+        "test_name": "VITAMIN D, 25 - HYDROXY, SERUM",
+        "value": "43.09",
+        "unit": "nmol/L",
+        "status": "Low",
+        "analogy": "Vitamin D is crucial for bone health and immune function. Low levels can increase the risk of several health issues.",
+        "explanation": "Your Vitamin D level is below the optimal range.  Consider discussing supplementation options with your doctor."
+      }
+    ],
+    "Other": [
+      {
+        "test_name": "Mentzer Index",
+        "value": "23.1",
+        "unit": null,
+        "status": "Requires further investigation",
+        "analogy": null,
+        "explanation": "This index is used in some cases to help in identifying thalassemia.  It should be interpreted in conjunction with the complete blood picture.  More information from your doctor will be helpful here."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

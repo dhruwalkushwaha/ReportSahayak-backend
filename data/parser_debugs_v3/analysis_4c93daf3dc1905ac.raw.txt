@@ -1,0 +1,26 @@
+```json
+{
+  "summary": "Hemoglobin levels are within the normal range, indicating adequate oxygen-carrying capacity of the blood.  The total leukocyte count is also within the normal range, suggesting a healthy white blood cell count.",
+  "details": {
+    "Red Blood Cells": [
+      {
+        "test_name": "HAEMOGLOBIN (Hb)",
+        "value": "12.70 g/dL",
+        "status": "Normal",
+        "analogy": "Your blood's oxygen-carrying capacity is good.",
+        "explanation": "Hemoglobin carries oxygen throughout your body.  A level within the normal range indicates healthy oxygen transport."
+      }
+    ],
+    "White Blood Cells": [
+      {
+        "test_name": "TOTAL LEUCOCYTE COUNT (TLC)",
+        "value": "7800 /cu mm",
+        "status": "Normal",
+        "analogy": "Your body's infection-fighting cells are at a healthy level.",
+        "explanation": "White blood cells fight infections.  A normal count suggests your immune system is functioning well."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

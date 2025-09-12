@@ -1,0 +1,44 @@
+==== RAW (first 30 lines) ====
+
+Report Status    
+Female
+31 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+1/8/2025  10:21:00AM
+Self
+184866260
+Ms. ANUSHTHA  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+Final
+1/8/2025  1:59:12PM
+Dr. Lal Path Labs Ltd
+Lanka ,Varanasi 221005
+
+==== PARSED RESULTS ====
+
+{
+  "lab_results": [
+    {
+      "test_name": "VITAMIN D, 25 - HYDROXY, SERUM (ECLIA)",
+      "value": "<15.00",
+      "unit": "nmol/L",
+      "ref_interval": "75.00 - 250.00"
+    }
+  ]
+}

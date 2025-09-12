@@ -1,0 +1,35 @@
+==== RAW (first 30 lines) ====
+
+Report Status    
+Female
+31 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+1/8/2025  10:21:00AM
+Self
+184866260
+Ms. ANUSHTHA  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+Final
+1/8/2025  1:59:12PM
+Dr. Lal Path Labs Ltd
+Lanka ,Varanasi 221005
+
+==== PARSED RESULTS ====
+
+[]

@@ -1,0 +1,35 @@
+==== RAW (first 30 lines) ====
+
+Booking ID : 11542424533
+Sample Collection Date : 28/Aug/2024
+Anushtha Kushwaha
+Female, 30 Yrs
+A Comprehensive
+Health Analysis Report
+A I  B a s e d  P e r s o n a l i z e d  R e p o r t  f o r  Y o u
+ 
+INDIA’S FIRST & ONLY CREDIBILITY CHECK FOR YOUR LAB REPORT
+Check the authenticity of your lab report with machine data
+Scan the QR using any QR code scanner
+ 
+Smart Report 3.0
+HEALTH ANALYSIS
+Personalized Summary & Vital Parameters
+Anushtha Kushwaha
+Booking ID : 11542424533 | Sample Collection Date : 28/Aug/2024
+ 
+Vitamin B12
+Test not taken
+ Liver Function
+Alanine Aminotransferase
+(ALT/SGPT) : 31.1 U/L
+ Everything looks good
+ Calcium Total
+8.8 mg/dl
+ Everything looks good
+ 
+Iron studies
+
+==== PARSED RESULTS ====
+
+[{'test_name': 'GLUCOSE, RANDOM', 'value': '90', 'unit': 'mg/dl', 'ref_interval': '70 - 140'}, {'test_name': 'Serum Bilirubin, (Total)', 'value': '0.43', 'unit': 'mg/dl', 'ref_interval': '0.3 - 1.2'}, {'test_name': 'Serum Bilirubin, (Direct)', 'value': '0.06', 'unit': 'mg/dl', 'ref_interval': '0 - 0.2'}, {'test_name': 'Serum Bilirubin, (Indirect)', 'value': '0.37', 'unit': 'mg/dl', 'ref_interval': '0.0 - 0.8'}, {'test_name': 'Aspartate Aminotransferase (AST/SGOT)', 'value': '27.80', 'unit': 'U/L', 'ref_interval': '3 - 35'}, {'test_name': 'Alanine Aminotransferase (ALT/SGPT)', 'value': '31.1', 'unit': 'U/L', 'ref_interval': '3 - 35'}, {'test_name': 'Alkaline Phosphatase (ALP)', 'value': '94.00', 'unit': 'U/L', 'ref_interval': '33-98'}, {'test_name': 'Gamma Glutamyl Transferase (GGT)', 'value': '22.0', 'unit': 'U/L', 'ref_interval': '5- 38'}, {'test_name': 'Serum Total Protein', 'value': '7.61', 'unit': 'gm/dl', 'ref_interval': '6.6 - 8.3'}, {'test_name': 'Serum Albumin', 'value': '4.43', 'unit': 'g/dl', 'ref_interval': '3.5 - 5.2'}, {'test_name': 'Serum Globulin', 'value': '3.18', 'unit': 'gm/dl', 'ref_interval': '3.0 - 4.2'}, {'test_name': 'Albumin/Globulin Ratio', 'value': '1.39', 'unit': 'Ratio', 'ref_interval': '1.2 - 2.5'}, {'test_name': 'SGOT/SGPT Ratio', 'value': '0.89', 'unit': 'Ratio', 'ref_interval': '0.7 - 1.4'}, {'test_name': 'Serum Creatinine', 'value': '0.62', 'unit': 'mg/dl', 'ref_interval': '0.3 - 1.2'}, {'test_name': 'Serum Uric Acid', 'value': '5.3', 'unit': 'mg/dl', 'ref_interval': '2.6-6.0'}, {'test_name': 'Serum Calcium', 'value': '8.8', 'unit': 'mg/dl', 'ref_interval': '8.8 - 10.6'}, {'test_name': 'Serum Phosphorus', 'value': '2.6', 'unit': 'mg/dl', 'ref_interval': '2.5 - 4.5'}, {'test_name': 'Serum Sodium', 'value': '137', 'unit': 'mmol/L', 'ref_interval': '136 - 146'}, {'test_name': 'Serum Chloride', 'value': '103', 'unit': 'mmol/L', 'ref_interval': '101 - 109'}, {'test_name': 'Blood Urea', 'value': '14', 'unit': 'mg/dl', 'ref_interval': '17 - 43'}, {'test_name': 'Blood Urea Nitrogen (BUN)', 'value': '6.6', 'unit': 'mg/dl', 'ref_interval': '8-20'}, {'test_name': 'Serum HDL Cholesterol', 'value': '58.2', 'unit': 'mg/dl', 'ref_interval': '40 - 60'}, {'test_name': 'Total CHOL / HDL Cholesterol Ratio', 'value': '4.66', 'unit': 'Ratio', 'ref_interval': '3.30 - 4.40'}, {'test_name': 'Non-HDL Cholesterol', 'value': '213.1', 'unit': 'mg/dl', 'ref_interval': '0.0 - 160.0'}, {'test_name': 'Haemoglobin (HB)', 'value': '13.2', 'unit': 'g/dL', 'ref_interval': '12.0-15.0'}, {'test_name': 'Total Leucocyte Count (TLC)', 'value': '8.0', 'unit': '10^3/uL', 'ref_interval': '4.0-10.0'}, {'test_name': 'Red Blood Cell Count (RBC)', 'value': '4.50', 'unit': '10^6/µl', 'ref_interval': '3.80-4.80'}, {'test_name': 'Mean Corp Volume (MCV)', 'value': '90.5', 'unit': 'fL', 'ref_interval': '83.0-101.0'}, {'test_name': 'Mean Corp Hb (MCH)', 'value': '29.7', 'unit': 'pg', 'ref_interval': '27.0-32.0'}, {'test_name': 'Mean Corp Hb Conc (MCHC)', 'value': '32.8', 'unit': 'g/dL', 'ref_interval': '31.5-34.5'}, {'test_name': 'RDW - SD', 'value': '44.60', 'unit': 'fL', 'ref_interval': '39.0-46.0'}, {'test_name': 'Absolute Neutrophil Count (ANC)', 'value': '5.02', 'unit': '10^3/uL', 'ref_interval': '2.0-7.0'}, {'test_name': 'Absolute Lymphocyte Count (ALC)', 'value': '2.18', 'unit': '10^3/uL', 'ref_interval': '1.0-3.0'}, {'test_name': 'Absolute Monocyte Count', 'value': '0.48', 'unit': '10^3/uL', 'ref_interval': '0.2-1.0'}, {'test_name': 'Absolute Eosinophil Count (AEC)', 'value': '0.29', 'unit': '10^3/uL', 'ref_interval': '0.02-0.5'}, {'test_name': 'Absolute Basophil Count', 'value': '0.03', 'unit': '10^3/uL', 'ref_interval': '0.02 - 0.10'}, {'test_name': 'Platelet Count(PLT)', 'value': '302', 'unit': '10^3/µl', 'ref_interval': '150-410'}, {'test_name': 'MPV', 'value': '9.8', 'unit': 'fL', 'ref_interval': '7 - 9'}, {'test_name': 'Tri-Iodothyronine (T3, Total)', 'value': '1.01', 'unit': 'ng/ml', 'ref_interval': '0.60-1.81'}, {'test_name': 'Thyroxine (T4, Total)', 'value': '8.40', 'unit': 'ug/dl', 'ref_interval': '3.2-12.6'}, {'test_name': 'Thyroid Stimulating Hormone (TSH)-Ultrasensitive', 'value': '1.844', 'unit': 'µIU/ml', 'ref_interval': '0.55-4.78'}]

@@ -1,6 +1,5 @@
---- Starting Diagnostic for: data/Apollo247_252291628_labreport_complete_1749809929511.pdf ---
+==== RAW EXTRACTED TEXT ====
 
---- RAW TEXT OUTPUT BEGIN ---
 Test Name
 Result
 Unit
@@ -40,10 +39,8 @@ Center location
 : SIGRA,VARANASI
 DEPARTMENT OF BIOCHEMISTRY
 APOLLO VITAMIN CHECK - BASIC
-SIN No:BI26234016
+SINÂ No:BI26234016
 Page 1 of 4
-
---- PAGE BREAK ---
 Test Name
 Result
 Unit
@@ -57,12 +54,12 @@ ng/mL
 ELFA
 THYROXINE (T4, TOTAL)
 6.49
-µg/dL
+Âµg/dL
 4.66-9.32
 ELFA
 TSH (Ultrasensitive/4thGen)
 3.540
-µIU/mL
+ÂµIU/mL
 0.25-5.0
 ELFA
 Comment:
@@ -71,9 +68,9 @@ Bio Ref Range for TSH in uIU/ml (As per American Thyroid Association)
 First trimester
 0.1 - 2.5
 Second trimester
-0.2 – 3.0
+0.2Â â€“Â 3.0
 Third trimester
-0.3 – 3.0
+0.3Â â€“Â 3.0
 1. TSH is a glycoprotein hormone secreted by the anterior pituitary. TSH activates production of T3 (Triiodothyronine) and its prohormone T4  (Thyroxine). Increased
 blood level of T3 and T4 inhibit production of TSH.
 2. TSH is elevated in primary hypothyroidism and will be low in primary hyperthyroidism. Elevated or low TSH in the context of normal free thyroxine is often referred
@@ -156,10 +153,8 @@ Client Name
 Center location
 : SIGRA,VARANASI
 DEPARTMENT OF IMMUNOLOGY
-SIN No:IM09947870
+SINÂ No:IM09947870
 Page 2 of 4
-
---- PAGE BREAK ---
 Test Name
 Result
 Unit
@@ -177,9 +172,9 @@ VITAMIN D 25 HYDROXY (ng/mL)
 DEFICIENCY
 <10
 INSUFFICIENCY
-10 – 30
+10Â â€“Â 30
 SUFFICIENCY
-30 – 100
+30Â â€“Â 100
 TOXICITY
 >100
 The biological function of Vitamin D is to maintain normal levels of calcium and phosphorus absorption. 25-Hydroxy vitamin D is
@@ -221,10 +216,8 @@ Center location
 : SIGRA,VARANASI
 DEPARTMENT OF IMMUNOLOGY
 APOLLO VITAMIN CHECK - BASIC
-SIN No:IM09947870
+SINÂ No:IM09947870
 Page 3 of 4
-
---- PAGE BREAK ---
 Test Name
 Result
 Unit
@@ -274,30 +267,28 @@ Center location
 : SIGRA,VARANASI
 DEPARTMENT OF IMMUNOLOGY
 APOLLO VITAMIN CHECK - BASIC
-SIN No:IM09949996
+SINÂ No:IM09949996
 Page 4 of 4
-
---- PAGE BREAK ---
-TERMS AND CONDITIONS GOVERNING THIS REPORT
-1. Reported results are for information and interpretation of the referring doctor or such other medical professionals, who understand
-reporting units, reference ranges and limitation of technologies. Laboratories not be responsible for any interpretation whatsoever
-2. This is computer generated medical diagnostics report that has been validated by an Authorized Medical Practitioner/Doctor. The
-report does not need physical signature.
-3. Partial reproduction of this report is not valid and should not be resorted to draw any conclusion.
-4. In the case you are not the intended recipient of this report. Please immediately return the same to the concerned issuing desk. Any
-disclosure, copy or distribution of any contents of this report, is unlawful and is strictly prohibited.
-5. Results delays may occur due to unforeseen circumstances such as non-availability of kits, equipment breakdown, natural calamities,
-IT downtime, logistic delays or any other unavoidable event. For certain tests based on analyte stability, criticality of results and in the
-interest of patient for having appropriate medical diagnosis, the same test may be outsourced to other accredited laboratory.
-6. It is presumed that the tests performed are, on the specimen / sample being to the patient named or identified and the verifications of
-particulars have been confirmed by the patient or his / her representative at the point of generation of said specimen
-7. The reported results are restricted to the given specimen only. Results may vary from lab to lab and from time to time for the same
-parameter for the same patient (within subject biological variation).
-8. The patient details along with their results in certain cases like notifiable diseases and as per local regulatory requirements will be
-communicated to the assigned regulatory bodies
-9. The patient samples can be used as part of internal quality control, test verification, data analysis purposes within the testing scope of
-the laboratory.
-10. This report is not valid for medico legal purposes. It is performed to facilitate medical diagnosis only
+TERMSÂ ANDÂ CONDITIONSÂ GOVERNINGÂ THISÂ REPORT
+1.Â ReportedÂ resultsÂ areÂ forÂ informationÂ andÂ interpretationÂ ofÂ theÂ referringÂ doctorÂ orÂ suchÂ otherÂ medicalÂ professionals,Â whoÂ understand
+reportingÂ units,Â referenceÂ rangesÂ andÂ limitationÂ ofÂ technologies.Â LaboratoriesÂ notÂ beÂ responsibleÂ forÂ anyÂ interpretationÂ whatsoever
+2.Â ThisÂ isÂ computerÂ generatedÂ medicalÂ diagnosticsÂ reportÂ thatÂ hasÂ beenÂ validatedÂ byÂ anÂ AuthorizedÂ MedicalÂ Practitioner/Doctor.Â The
+reportÂ doesÂ notÂ needÂ physicalÂ signature.
+3.Â PartialÂ reproductionÂ ofÂ thisÂ reportÂ isÂ notÂ validÂ andÂ shouldÂ notÂ beÂ resortedÂ toÂ drawÂ anyÂ conclusion.
+4.Â InÂ theÂ caseÂ youÂ areÂ notÂ theÂ intendedÂ recipientÂ ofÂ thisÂ report.Â PleaseÂ immediatelyÂ returnÂ theÂ sameÂ toÂ theÂ concernedÂ issuingÂ desk.Â Any
+disclosure,Â copyÂ orÂ distributionÂ ofÂ anyÂ contentsÂ ofÂ thisÂ report,Â isÂ unlawfulÂ andÂ isÂ strictlyÂ prohibited.
+5.Â ResultsÂ delaysÂ mayÂ occurÂ dueÂ toÂ unforeseenÂ circumstancesÂ suchÂ asÂ non-availabilityÂ ofÂ kits,Â equipmentÂ breakdown,Â naturalÂ calamities,
+ITÂ downtime,Â logisticÂ delaysÂ orÂ anyÂ otherÂ unavoidableÂ event.Â ForÂ certainÂ testsÂ basedÂ onÂ analyteÂ stability,Â criticalityÂ ofÂ resultsÂ andÂ inÂ the
+interestÂ ofÂ patientÂ forÂ havingÂ appropriateÂ medicalÂ diagnosis,Â theÂ sameÂ testÂ mayÂ beÂ outsourcedÂ toÂ otherÂ accreditedÂ laboratory.
+6.Â ItÂ isÂ presumedÂ thatÂ theÂ testsÂ performedÂ are,Â onÂ theÂ specimenÂ /Â sampleÂ beingÂ toÂ theÂ patientÂ namedÂ orÂ identifiedÂ andÂ theÂ verificationsÂ of
+particularsÂ haveÂ beenÂ confirmedÂ byÂ theÂ patientÂ orÂ hisÂ /Â herÂ representativeÂ atÂ theÂ pointÂ ofÂ generationÂ ofÂ saidÂ specimen
+7.Â TheÂ reportedÂ resultsÂ areÂ restrictedÂ toÂ theÂ givenÂ specimenÂ only.Â ResultsÂ mayÂ varyÂ fromÂ labÂ toÂ labÂ andÂ fromÂ timeÂ toÂ timeÂ forÂ theÂ same
+parameterÂ forÂ theÂ sameÂ patientÂ (withinÂ subjectÂ biologicalÂ variation).
+8.Â TheÂ patientÂ detailsÂ alongÂ withÂ theirÂ resultsÂ inÂ certainÂ casesÂ likeÂ notifiableÂ diseasesÂ andÂ asÂ perÂ localÂ regulatoryÂ requirementsÂ willÂ be
+communicatedÂ toÂ theÂ assignedÂ regulatoryÂ bodies
+9.Â TheÂ patientÂ samplesÂ canÂ beÂ usedÂ asÂ partÂ ofÂ internalÂ qualityÂ control,Â testÂ verification,Â dataÂ analysisÂ purposesÂ withinÂ theÂ testingÂ scopeÂ of
+theÂ laboratory.
+10.Â ThisÂ reportÂ isÂ notÂ validÂ forÂ medicoÂ legalÂ purposes.Â ItÂ isÂ performedÂ toÂ facilitateÂ medicalÂ diagnosisÂ only
 Patient Name
 : Ms.MEENAKSHI KUSHWAHA
 Age/Gender
@@ -322,8 +313,59 @@ Client Name
 : PUP 24X7_CREDIT
 Center location
 : SIGRA,VARANASI
-SIN No:IM09949996
+SINÂ No:IM09949996
 
---- PAGE BREAK ---
 
---- RAW TEXT OUTPUT END ---
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "CALCIUM , SERUM",
+    "value": "9.20",
+    "unit": "mg/dL",
+    "ref_interval": "8.4 - 10.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "THYROXINE (T4, TOTAL)",
+    "value": "6.49",
+    "unit": "\u00b5g/dL",
+    "ref_interval": "4.66-9.32",
+    "source": "gemini"
+  },
+  {
+    "test_name": "TRI-IODOTHYRONINE (T3, TOTAL)",
+    "value": "0.7",
+    "unit": "ng/mL",
+    "ref_interval": "0.67-1.81",
+    "source": "gemini"
+  },
+  {
+    "test_name": "TSH (Ultrasensitive/4thGen)",
+    "value": "3.540",
+    "unit": "\u00b5IU/mL",
+    "ref_interval": "0.25-5.0",
+    "source": "gemini"
+  },
+  {
+    "test_name": "VITAMIN B12 , SERUM",
+    "value": "440",
+    "unit": "pg/mL",
+    "ref_interval": "120-914",
+    "source": "gemini"
+  },
+  {
+    "test_name": "VITAMIN D (25 - OH VITAMIN D) , SERUM",
+    "value": "22.5",
+    "unit": "ng/mL",
+    "ref_interval": "",
+    "source": "gemini"
+  }
+]
+
+==== EXTRA ====
+
+{
+  "regex_count": 0,
+  "gemini_count": 6
+}

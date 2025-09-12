@@ -1,6 +1,5 @@
---- Starting Diagnostic for: data/Anushtha Kushwaha_report.pdf ---
+==== RAW EXTRACTED TEXT ====
 
---- RAW TEXT OUTPUT BEGIN ---
 Booking ID : 11542424533
 Sample Collection Date : 28/Aug/2024
 Anushtha Kushwaha
@@ -9,12 +8,10 @@ A Comprehensive
 Health Analysis Report
 A I  B a s e d  P e r s o n a l i z e d  R e p o r t  f o r  Y o u
  
-INDIA’S FIRST & ONLY CREDIBILITY CHECK FOR YOUR LAB REPORT
+INDIAâ€™S FIRST & ONLY CREDIBILITY CHECK FOR YOUR LAB REPORT
 Check the authenticity of your lab report with machine data
 Scan the QR using any QR code scanner
  
-
---- PAGE BREAK ---
 Smart Report 3.0
 HEALTH ANALYSIS
 Personalized Summary & Vital Parameters
@@ -52,7 +49,7 @@ Out of 100
 Thyroid Function
 Thyroid Stimulating Hormone
 (TSH)-Ultrasensitive : 1.84
-µIU/ml
+ÂµIU/ml
  Everything looks good
  Cholesterol Total
 271.3 mg/dl
@@ -68,8 +65,6 @@ HbA1c
 Test not taken
  
  
-
---- PAGE BREAK ---
 Smart Report 3.0
 HEALTH ANALYSIS
 Critical Parameters
@@ -94,8 +89,6 @@ Normal Value
 We have observed that the below given critical parameters have shown out of range results, which
 can have negative impact on your health.
  
-
---- PAGE BREAK ---
 Glucose-Random
 GLUCOSE, RANDOM
 Method: Hexokinase
@@ -132,10 +125,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 1 of 14
-
---- PAGE BREAK ---
 Liver Function Test (LFT)
 Serum Bilirubin, (Total)
 Method: DPD
@@ -209,7 +200,7 @@ Bilirubin is a yellowish pigment found in bile and is a breakdown product of nor
 bilirubin production (e.g hemolysis and ineffective erythropoiesis),  decreased bilirubin excretion (e.g.; obstruction and hepatitis) and abnormal
 bilirubin metabolism (e.g; hereditary and neonatal jaundice) .
 Conjugated (direct) bilirubin is elevated in conditions like- Hereditary disorders( Dubin Johnson syndrome, Rotor syndrome),Hepatocellular
-damage(e.g –viral ,toxic ,alcohol ,drugs) ,biliary duct obstruction  (extrahepatic or intrahepatic), Infiltrations ,space occupying lesions(e.g
+damage(e.gÂ â€“viralÂ ,toxicÂ ,alcoholÂ ,drugs)Â ,biliaryÂ ductÂ obstructionÂ Â (extrahepaticÂ orÂ intrahepatic),Â InfiltrationsÂ ,spaceÂ occupyingÂ lesions(e.g
 Patient Name
 : Anushtha Kushwaha
 Age/Gender
@@ -239,17 +230,15 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 2 of 14
-
---- PAGE BREAK ---
 metastasis, abscess , granuloma , amyloidosis. Increased unconjugated (indirect) bilirubin may be a result of hemolytic or pernicious anemia,
 transfusion reaction & a common metabolic condition termed Gilbert syndrome.
 AST levels increase in viral hepatitis, blockage of the bile duct ,cirrhosis of the liver, liver cancer, kidney failure, hemolytic anemia, pancreatitis,
 hemochromatosis. AST  levels may also increase after a heart attack or strenuous activity.
 ALT is a liver specific enzyme  commonly measured as a part of a diagnostic evaluation of hepatocellular injury, to determine liver health.
 Elevated ALP levels are seen in Biliary Obstruction, Osteoblastic Bone Tumors, Osteomalacia, Hepatitis, Hyperparathyroidism, Leukemia,
-Lymphoma, Paget’s disease, Rickets, Sarcoidosis etc.
+Lymphoma,Â Pagetâ€™sÂ disease,Â Rickets,Â SarcoidosisÂ etc.
 Elevated serum GGT activity can be found in diseases of the liver, Biliary system and pancreas. Obstructive liver disease, high alcohol
 consumption and use of enzyme-inducing drugs lead to raised GGT levels .
 Serum total protein measures  the total amount of protein in serum. It is largely comprised  of albumin and globulins. Increased levels  may be
@@ -289,10 +278,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 3 of 14
-
---- PAGE BREAK ---
 Kidney Function Test1 (KFT1)
 Serum Creatinine
 Method: Modified Jaffe, Kinetic
@@ -390,10 +377,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 4 of 14
-
---- PAGE BREAK ---
 urolithiasis and tetany. Phosphorus levels are increased in acute or chronic renal failure with decreased GFR .
 Sodium is an electrolyte, and it helps regulate the amount of water  in and around the cells & the balance of chemicals in the body called acids
 and bases.
@@ -428,10 +413,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 5 of 14
-
---- PAGE BREAK ---
 Lipid Profile Basic
 Total Cholesterol
 Method: ABELL KENDALL
@@ -498,10 +481,10 @@ mg/dl
 Dyslipidemia is a disorder of fat or lipoprotein metabolism in the body and includes lipoprotein overproduction or deficiency. 
 Dyslipidemias means increase in the level of one or more of the following: Total Cholesterol, low density lipoprotein (LDL) and/or triglyceride
 concentrations.
-Dyslipidemia also includes a decrease in the “good" cholesterol or high-density lipoprotein (HDL) concentration in the blood.
+DyslipidemiaÂ alsoÂ includesÂ aÂ decreaseÂ inÂ theÂ â€œgood"Â cholesterolÂ orÂ high-densityÂ lipoproteinÂ (HDL)Â concentrationÂ inÂ theÂ blood.
 Cholesterol is a steroid carried in the bloodstream as lipoprotein, necessary for cell membrane functioning and as a precursor to bile acids,
 progesterone ,vitamin D ,estrogens ,glucocorticoids and mineralocorticoids.
-HDL is termed “good cholesterol” because its levels are inversely related to the risk of  Coronary heart disease.
+HDLÂ isÂ termedÂ â€œgoodÂ cholesterolâ€Â becauseÂ itsÂ levelsÂ areÂ inverselyÂ relatedÂ toÂ theÂ riskÂ ofÂ Â CoronaryÂ heartÂ disease.
 Patient Name
 : Anushtha Kushwaha
 Age/Gender
@@ -531,11 +514,9 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 6 of 14
-
---- PAGE BREAK ---
-LDL cholesterol is termed the “bad cholesterol” and their increased levels are associated with increased risk of atherosclerosis and coronary
+LDLÂ cholesterolÂ isÂ termedÂ theÂ â€œbadÂ cholesterolâ€Â andÂ theirÂ increasedÂ levelsÂ areÂ associatedÂ withÂ increasedÂ riskÂ ofÂ atherosclerosisÂ andÂ coronary
 heart disease.
 Lipid level assessments must be made following 9 to 12 hours of fasting, otherwise assay results might lead to erroneous interpretation.
 Healthians labs report biological reference intervals (normal ranges) in accordance with  the recommendations of The National Cholesterol
@@ -571,10 +552,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 7 of 14
-
---- PAGE BREAK ---
 Urine Routine & Microscopy Extended
 PHYSICAL EXAMINATION
 Colour
@@ -664,10 +643,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 8 of 14
-
---- PAGE BREAK ---
 Leucocyte Esterase
 Method: Pyrrole diazoniun reaction
 Machine: DIRUI FUS 2000
@@ -718,7 +695,7 @@ cases of obstructive jaundice. Normally about 0.5-4 mg of urobilinogen is excret
 detectable in urine. Increased urobilinogen in urine can be seen due to hemolysis , megaloblastic anemia and haemorrhage in tissues. Decreased urobilinogen can be
 seen in obstructive jaundice, reduction of intestinal bacterial flora, neonates and following antibiotic treatment. The presence of abnormal number of intact red blood
 cells in urine is called as hematuria. It implies presence of a bleeding lesion in the urinary tract. Hematuria can be seen in glomerular diseases like Glomerulonephritis,
-Berger’s disease, lupus nephritis, Henoch-Schonlein purpura, non glomerular diseases like Calculus, tumor, infection, tuberculosis, pyelonephritis, hydronephrosis,
+Bergerâ€™sÂ disease,Â lupusÂ nephritis,Â Henoch-SchonleinÂ purpura,Â nonÂ glomerularÂ diseasesÂ likeÂ Calculus,Â tumor,Â infection,Â tuberculosis,Â pyelonephritis,Â hydronephrosis,
 polycystic kidney disease, trauma, after strenuous physical exercise, diseases of prostate (benign hyperplasia of prostate, carcinoma of prostate).
 Nitrites are not present in normal urine. Ingested nitrites are converted to nitrate and excreted
 in urine. If gram-negative bacteria (e.g. E.coli, Salmonella, Proteus, Klebsiella, etc.) are present in urine, they will reduce the nitrates to nitrites through the action of
@@ -755,10 +732,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 9 of 14
-
---- PAGE BREAK ---
 ERYTHROCYTE SEDIMENTATION RATE (ESR)
 ESR
 Method: Kinetic Red Cells Aggregation
@@ -795,10 +770,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 10 of 14
-
---- PAGE BREAK ---
 Complete Blood Count
 Haemoglobin (HB)
 Method: Photometry
@@ -822,7 +795,7 @@ Red Blood Cell Count (RBC)
 Method: Impedance
 Machine: BECKMAN COULTER DxH900
 4.50
-10^6/µl
+10^6/Âµl
 3.80-4.80
 Mean Corp Volume (MCV)
 Method: Derived from RBC Histogram
@@ -902,10 +875,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 11 of 14
-
---- PAGE BREAK ---
 Lymphocytes
 Method: VCS Technology
 Machine: BECKMAN COULTER DxH900
@@ -965,7 +936,7 @@ Platelet Count(PLT)
 Method: Impedance
 Machine: BECKMAN COULTER DxH900
 302
-10^3/µl
+10^3/Âµl
 150-410
 MPV
 Method: Derived from PLT Histogram
@@ -1007,10 +978,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 12 of 14
-
---- PAGE BREAK ---
 The Mentzer index is used to differentiate iron deficiency anaemia beta thalassemia trait. If a CBC indicates microcytic anaemia, these are two of the most likely
 causes, making It necessary to distinguish between them.
 If the quotient of the mean corpuscular volume divided by the red blood cell count is then 13, thalassemia is more likely. If the result is greater than 13, then iron-
@@ -1044,18 +1013,16 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 13 of 14
-
---- PAGE BREAK ---
 Pregnancy interval
 Bio Ref Range for TSH in uIU/ml (As per American Thyroid Association)
 First trimester
 0.1 - 2.5
 Second trimester
-0.2 – 3.0
+0.2Â â€“Â 3.0
 Third trimester
-0.3 – 3.0
+0.3Â â€“Â 3.0
 Thyroid Profile (Total T3,T4, TSH)
 Tri-Iodothyronine (T3, Total)
 Method: CLIA
@@ -1070,7 +1037,7 @@ ug/dl
 Thyroid Stimulating Hormone (TSH)-Ultrasensitive
 Method: CLIA
 1.844
-µIU/ml
+ÂµIU/ml
 0.55-4.78
 Healthians recommends that the following potential sources of variation should be considered while interpreting thyroid hormone results:
 1. Thyroid hormones undergo rhythmic variation within the body this is called circadian variation in TSH secretion: Peak levels are seen between
@@ -1122,12 +1089,8 @@ Test Name
 Value
 Unit
 Bio. Ref Interval
-SIN No:E1787687
+SINÂ No:E1787687
                  Page 14 of 14
-
---- PAGE BREAK ---
-
---- PAGE BREAK ---
 Smart Report 3.0
 ADVISORY
 Health Advisory
@@ -1141,11 +1104,11 @@ Weight
 No Data
  
 Physical Activity
-·
+Â·
  
 No Data
 Medication
-·
+Â·
  No Data Found
  
 Smoke
@@ -1214,6 +1177,386 @@ SUGGESTED FUTURE TESTS
    HsCRP High Sensitivity CRP - Every 4 Month
  
 
---- PAGE BREAK ---
 
---- RAW TEXT OUTPUT END ---
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "Absolute Basophil Count",
+    "value": "0.03",
+    "unit": "10^3/uL",
+    "ref_interval": "0.02 - 0.10",
+    "source": "regex"
+  },
+  {
+    "test_name": "Absolute Eosinophil Count (AEC)",
+    "value": "0.29",
+    "unit": "10^3/uL",
+    "ref_interval": "0.02-0.5",
+    "source": "regex"
+  },
+  {
+    "test_name": "Absolute Leucocyte Count Absolute Neutrophil Count (ANC)",
+    "value": "5.02",
+    "unit": "10^3/uL",
+    "ref_interval": "2.0-7.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Absolute Lymphocyte Count (ALC)",
+    "value": "2.18",
+    "unit": "10^3/uL",
+    "ref_interval": "1.0-3.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Absolute Monocyte Count",
+    "value": "0.48",
+    "unit": "10^3/uL",
+    "ref_interval": "0.2-1.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Alanine Aminotransferase (ALT/SGPT)",
+    "value": "31.1",
+    "unit": "U/L",
+    "ref_interval": "3 - 35",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Albumin/Globulin Ratio",
+    "value": "1.39",
+    "unit": "Ratio",
+    "ref_interval": "1.2 - 2.5",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Alkaline Phosphatase (ALP)",
+    "value": "94.00",
+    "unit": "U/L",
+    "ref_interval": "33-98",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Aspartate Aminotransferase (AST/SGOT)",
+    "value": "27.80",
+    "unit": "U/L",
+    "ref_interval": "3 - 35",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Basophils",
+    "value": "0.4",
+    "unit": "%",
+    "ref_interval": "00 - 02",
+    "source": "regex"
+  },
+  {
+    "test_name": "Blood Urea",
+    "value": "14",
+    "unit": "mg/dl",
+    "ref_interval": "17 - 43",
+    "source": "regex"
+  },
+  {
+    "test_name": "Blood Urea Nitrogen (BUN)",
+    "value": "6.6",
+    "unit": "mg/dl",
+    "ref_interval": "8-20",
+    "source": "regex"
+  },
+  {
+    "test_name": "Complete Blood Count Haemoglobin (HB)",
+    "value": "13.2",
+    "unit": "g/dL",
+    "ref_interval": "12.0-15.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Eosinophils",
+    "value": "3.6",
+    "unit": "%",
+    "ref_interval": "01 - 06",
+    "source": "regex"
+  },
+  {
+    "test_name": "Gamma Glutamyl Transferase (GGT)",
+    "value": "22.0",
+    "unit": "U/L",
+    "ref_interval": "5- 38",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Glucose-Random",
+    "value": "90",
+    "unit": "mg/dl",
+    "ref_interval": "70 - 140",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Glucose-Random GLUCOSE, RANDOM",
+    "value": "90",
+    "unit": "mg/dl",
+    "ref_interval": "70 - 140",
+    "source": "regex"
+  },
+  {
+    "test_name": "Hematocrit (PCV)",
+    "value": "40.3",
+    "unit": "%",
+    "ref_interval": "36.0-46.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Liver Function Test (LFT) Serum Bilirubin, (Total)",
+    "value": "0.43",
+    "unit": "mg/dl",
+    "ref_interval": "0.3 - 1.2",
+    "source": "regex"
+  },
+  {
+    "test_name": "Lymphocytes",
+    "value": "27.3",
+    "unit": "%",
+    "ref_interval": "20-40",
+    "source": "regex"
+  },
+  {
+    "test_name": "MPV",
+    "value": "9.8",
+    "unit": "fL",
+    "ref_interval": "7 - 9",
+    "source": "regex"
+  },
+  {
+    "test_name": "Mean Corp Hb (MCH)",
+    "value": "29.7",
+    "unit": "pg",
+    "ref_interval": "27.0-32.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Mean Corp Hb Conc (MCHC)",
+    "value": "32.8",
+    "unit": "g/dL",
+    "ref_interval": "31.5-34.5",
+    "source": "regex"
+  },
+  {
+    "test_name": "Mean Corp Volume (MCV)",
+    "value": "90.5",
+    "unit": "fL",
+    "ref_interval": "83.0-101.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Monocytes",
+    "value": "6.0",
+    "unit": "%",
+    "ref_interval": "02 - 10",
+    "source": "regex"
+  },
+  {
+    "test_name": "Non-HDL Cholesterol",
+    "value": "213.1",
+    "unit": "mg/dl",
+    "ref_interval": "0.0 - 160.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Platelet Count(PLT)",
+    "value": "302",
+    "unit": "10^3/\u00b5l",
+    "ref_interval": "150-410",
+    "source": "regex"
+  },
+  {
+    "test_name": "RDW - CV",
+    "value": "14.0",
+    "unit": "%",
+    "ref_interval": "11.6-14.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "RDW - SD",
+    "value": "44.60",
+    "unit": "fL",
+    "ref_interval": "39.0-46.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Ratio Differential Leucocyte Count Neutrophils",
+    "value": "62.7",
+    "unit": "%",
+    "ref_interval": "40 - 80",
+    "source": "regex"
+  },
+  {
+    "test_name": "Red Blood Cell Count (RBC)",
+    "value": "4.50",
+    "unit": "10^6/\u00b5l",
+    "ref_interval": "3.80-4.80",
+    "source": "regex"
+  },
+  {
+    "test_name": "SGOT/SGPT Ratio",
+    "value": "0.89",
+    "unit": "Ratio",
+    "ref_interval": "0.7 - 1.4",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Albumin",
+    "value": "4.43",
+    "unit": "g/dl",
+    "ref_interval": "3.5 - 5.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Direct)",
+    "value": "0.06",
+    "unit": "mg/dl",
+    "ref_interval": "0 - 0.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Indirect)",
+    "value": "0.37",
+    "unit": "mg/dl",
+    "ref_interval": "0.0 - 0.8",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Total)",
+    "value": "0.43",
+    "unit": "mg/dl",
+    "ref_interval": "0.3 - 1.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Calcium",
+    "value": "8.8",
+    "unit": "mg/dl",
+    "ref_interval": "8.8 - 10.6",
+    "source": "regex"
+  },
+  {
+    "test_name": "Serum Chloride",
+    "value": "103",
+    "unit": "mmol/L",
+    "ref_interval": "101 - 109",
+    "source": "regex"
+  },
+  {
+    "test_name": "Serum Creatinine",
+    "value": "0.62",
+    "unit": "mg/dl",
+    "ref_interval": "0.3 - 1.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Globulin",
+    "value": "3.18",
+    "unit": "gm/dl",
+    "ref_interval": "3.0 - 4.2",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum HDL Cholesterol",
+    "value": "58.2",
+    "unit": "mg/dl",
+    "ref_interval": "40 - 60",
+    "source": "regex"
+  },
+  {
+    "test_name": "Serum Phosphorus",
+    "value": "2.6",
+    "unit": "mg/dl",
+    "ref_interval": "2.5 - 4.5",
+    "source": "regex"
+  },
+  {
+    "test_name": "Serum Sodium",
+    "value": "137",
+    "unit": "mmol/L",
+    "ref_interval": "136 - 146",
+    "source": "regex"
+  },
+  {
+    "test_name": "Serum Total Protein",
+    "value": "7.61",
+    "unit": "gm/dl",
+    "ref_interval": "6.6 - 8.3",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Serum Uric Acid",
+    "value": "5.3",
+    "unit": "mg/dl",
+    "ref_interval": "2.6-6.0",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Thyroid Stimulating Hormone (TSH)-Ultrasensitive",
+    "value": "1.844",
+    "unit": "\u00b5IU/ml",
+    "ref_interval": "0.55-4.78",
+    "source": "regex"
+  },
+  {
+    "test_name": "Total Leucocyte Count (TLC)",
+    "value": "8.0",
+    "unit": "10^3/uL",
+    "ref_interval": "4.0-10.0",
+    "source": "regex"
+  },
+  {
+    "test_name": "Urea, Serum",
+    "value": "14",
+    "unit": "mg/dl",
+    "ref_interval": "17-43",
+    "source": "gemini"
+  },
+  {
+    "test_name": "VLDL Cholesterol Calculated",
+    "value": "30.52",
+    "unit": "mg/dl",
+    "ref_interval": "<30",
+    "source": "regex"
+  },
+  {
+    "test_name": "Calcium Total",
+    "value": "8.8",
+    "unit": "mg/dl",
+    "ref_interval": "",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Cholesterol Total",
+    "value": "271.3",
+    "unit": "mg/dl",
+    "ref_interval": "",
+    "source": "gemini"
+  },
+  {
+    "test_name": "GFR, ESTIMATED",
+    "value": "122.78",
+    "unit": "mL/min/1.73m2",
+    "ref_interval": "",
+    "source": "gemini"
+  },
+  {
+    "test_name": "Haemoglobin (HB)",
+    "value": "13.2",
+    "unit": "g/dL",
+    "ref_interval": "",
+    "source": "gemini"
+  }
+]
+
+==== EXTRA ====
+
+{
+  "regex_count": 42,
+  "gemini_count": 23
+}

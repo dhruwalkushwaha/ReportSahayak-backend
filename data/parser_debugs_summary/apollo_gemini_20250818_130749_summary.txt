@@ -1,0 +1,72 @@
+==== RAW (first 30 lines) ====
+
+Test Name
+Result
+Unit
+Bio. Ref. Interval
+Method
+CALCIUM , SERUM
+9.20
+mg/dL
+8.4 - 10.2
+Arsenazo-III
+Comments:- 
+Serum calcium measurements are done to monitor and diagnose disorders of skeletal system, parathyroid gland, kidney, muscular
+disorders, and abnormal vitamin D and protein levels.
+Patient Name
+: Ms.MEENAKSHI KUSHWAHA
+Age/Gender
+: 56 Y 3 M 9 D /F
+UHID/MR No
+: APJ1.0032153919
+Visit ID
+: DSDGOPV8072
+Ref Doctor
+: Dr.SELF
+IP/OP NO
+:
+Collected
+: 12/Jun/2025 10:36AM
+Received
+: 12/Jun/2025 01:21PM
+
+==== PARSED RESULTS ====
+
+[
+  {
+    "test_name": "CALCIUM , SERUM",
+    "value": "9.20",
+    "unit": "mg/dL",
+    "ref_interval": "8.4 - 10.2"
+  },
+  {
+    "test_name": "TRI-IODOTHYRONINE (T3, TOTAL)",
+    "value": "0.7",
+    "unit": "ng/mL",
+    "ref_interval": "0.67-1.81"
+  },
+  {
+    "test_name": "THYROXINE (T4, TOTAL)",
+    "value": "6.49",
+    "unit": "\u00b5g/dL",
+    "ref_interval": "4.66-9.32"
+  },
+  {
+    "test_name": "TSH (Ultrasensitive/4thGen)",
+    "value": "3.540",
+    "unit": "\u00b5IU/mL",
+    "ref_interval": "0.25-5.0"
+  },
+  {
+    "test_name": "VITAMIN D (25 - OH VITAMIN D) , SERUM",
+    "value": "22.5",
+    "unit": "ng/mL",
+    "ref_interval": "<10 DEFICIENCY\n10 \u2013 30 INSUFFICIENCY\n30 \u2013 100 SUFFICIENCY\n>100 TOXICITY"
+  },
+  {
+    "test_name": "VITAMIN B12 , SERUM",
+    "value": "440",
+    "unit": "pg/mL",
+    "ref_interval": "120-914"
+  }
+]

@@ -1,0 +1,142 @@
+```json
+[
+  {
+    "test_name": "Alanine Aminotransferase (ALT/SGPT)",
+    "value": "31.1",
+    "unit": "U/L",
+    "ref_interval": "3 - 35"
+  },
+  {
+    "test_name": "Calcium Total",
+    "value": "8.8",
+    "unit": "mg/dl",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Haemoglobin (HB)",
+    "value": "13.2",
+    "unit": "g/dL",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Thyroid Stimulating Hormone (TSH)-Ultrasensitive",
+    "value": "1.84",
+    "unit": "µIU/ml",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Cholesterol Total",
+    "value": "271.3",
+    "unit": "mg/dl",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Serum Creatinine",
+    "value": "0.62",
+    "unit": "mg/dl",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Urea, Serum",
+    "value": "14",
+    "unit": "mg/dl",
+    "ref_interval": "17-43"
+  },
+  {
+    "test_name": "Glucose-Random",
+    "value": "90",
+    "unit": "mg/dl",
+    "ref_interval": "70 - 140"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Total)",
+    "value": "0.43",
+    "unit": "mg/dl",
+    "ref_interval": "0.3 - 1.2"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Direct)",
+    "value": "0.06",
+    "unit": "mg/dl",
+    "ref_interval": "0 - 0.2"
+  },
+  {
+    "test_name": "Serum Bilirubin, (Indirect)",
+    "value": "0.37",
+    "unit": "mg/dl",
+    "ref_interval": "0.0 - 0.8"
+  },
+  {
+    "test_name": "Aspartate Aminotransferase (AST/SGOT)",
+    "value": "27.80",
+    "unit": "U/L",
+    "ref_interval": "3 - 35"
+  },
+  {
+    "test_name": "Alkaline Phosphatase (ALP)",
+    "value": "94.00",
+    "unit": "U/L",
+    "ref_interval": "33-98"
+  },
+  {
+    "test_name": "Gamma Glutamyl Transferase (GGT)",
+    "value": "22.0",
+    "unit": "U/L",
+    "ref_interval": "5- 38"
+  },
+  {
+    "test_name": "Serum Total Protein",
+    "value": "7.61",
+    "unit": "gm/dl",
+    "ref_interval": "6.6 - 8.3"
+  },
+  {
+    "test_name": "Serum Albumin",
+    "value": "4.43",
+    "unit": "g/dl",
+    "ref_interval": "3.5 - 5.2"
+  },
+  {
+    "test_name": "Serum Globulin",
+    "value": "3.18",
+    "unit": "gm/dl",
+    "ref_interval": "3.0 - 4.2"
+  },
+  {
+    "test_name": "Albumin/Globulin Ratio",
+    "value": "1.39",
+    "unit": "Ratio",
+    "ref_interval": "1.2 - 2.5"
+  },
+  {
+    "test_name": "SGOT/SGPT Ratio",
+    "value": "0.89",
+    "unit": "Ratio",
+    "ref_interval": "0.7 - 1.4"
+  },
+  {
+    "test_name": "Serum Creatinine",
+    "value": "0.62",
+    "unit": "mg/dl",
+    "ref_interval": "0.3 - 1.2"
+  },
+  {
+    "test_name": "GFR, ESTIMATED",
+    "value": "122.78",
+    "unit": "mL/min/1.73m2",
+    "ref_interval": ""
+  },
+  {
+    "test_name": "Serum Uric Acid",
+    "value": "5.3",
+    "unit": "mg/dl",
+    "ref_interval": "2.6-6.0"
+  },
+  {
+    "test_name": "Serum Calcium",
+    "value": null,
+    "unit": null,
+    "ref_interval": null
+  }
+]
+```

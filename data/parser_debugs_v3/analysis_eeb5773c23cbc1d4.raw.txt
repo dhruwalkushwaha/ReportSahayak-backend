@@ -1,0 +1,17 @@
+```json
+{
+  "summary": "Your Vitamin D level is significantly low (<15.00 nmol/L) compared to the normal range (75.00 - 250.00 nmol/L).  This deficiency can increase your risk of bone problems and other health issues.  It's important to discuss this result with your doctor to determine the cause and appropriate treatment.",
+  "details": {
+    "Vitamins": [
+      {
+        "test_name": "VITAMIN D, 25 - HYDROXY, SERUM (ECLIA)",
+        "value": "<15.00",
+        "status": "Low",
+        "analogy": "Your body has a low supply of vitamin D, like a car running low on fuel.",
+        "explanation": "Vitamin D is crucial for calcium absorption and bone health.  A low level increases the risk of osteoporosis, muscle weakness, and other health problems."
+      }
+    ]
+  },
+  "disclaimer": "This is an AI-generated analysis and is for informational purposes only. It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
+}
+```

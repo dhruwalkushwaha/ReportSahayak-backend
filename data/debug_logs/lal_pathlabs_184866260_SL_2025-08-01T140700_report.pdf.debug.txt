@@ -1,0 +1,199 @@
+==== RAW EXTRACTED TEXT ====
+
+Report Status    
+Female
+31 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+1/8/2025  10:21:00AM
+Self
+184866260
+Ms. ANUSHTHA  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+Final
+1/8/2025  1:59:12PM
+Dr. Lal Path Labs Ltd
+Lanka ,Varanasi 221005
+:
+:
+Collected at     
+Processed at      
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+VITAMIN D, 25 - HYDROXY, SERUM
+(ECLIA)
+nmol/L
+75.00 - 250.00
+<15.00
+Interpretation 
+ -------------------------------------------------------------
+| LEVEL         | REFERENCE RANGE | COMMENTS                  |
+|               | IN nmol/L       |                           |
+|---------------|-----------------|---------------------------|
+| Deficient     | < 50            | High risk for developing  |
+|               |                 | bone disease              |
+|---------------|-----------------|---------------------------|
+| Insufficient  | 50-74           | Vitamin D concentration   |
+|               |                 | which normalizes          |
+|               |                 | Parathyroid hormone       |
+|               |                 | concentration             |
+|---------------|-----------------|---------------------------|
+| Sufficient    | 75-250          | Optimal concentration     | 
+|               |                 | for maximal health benefit|
+|---------------|-----------------|---------------------------|
+| Potential     | >250            | High risk for toxic       |
+| intoxication  |                 | effects                   |
+ -------------------------------------------------------------
+Note  
+·
+The assay measures both D2 (Ergocalciferol) and D3 (Cholecalciferol) metabolites of vitamin D.
+·
+25 (OH)D is influenced by sunlight, latitude, skin pigmentation, sunscreen use and hepatic function.
+·
+Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L.
+·
+It shows seasonal variation, with values being 40-50% lower in winter than in summer. 
+·
+Levels vary with age and are increased in pregnancy. 
+·
+A new test Vitamin D, Ultrasensitive by LC-MS/MS is also available
+Comments
+Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency 
+in children causes Rickets and in adults leads to Osteomalacia.  It can also lead to Hypocalcemia and 
+Tetany.  Vitamin D status is best determined  by measurement of 25 hydroxy vitamin D, as it is the major 
+circulating form and has longer half life (2-3 weeks) than 1,25 Dihydroxy vitamin D (5-8 hrs).
+Decreased Levels
+·
+Inadequate exposure to sunlight
+·
+Dietary deficiency
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+*184866260*
+Page 1 of 2
+Report Status    
+Female
+31 Years
+:
+:
+:
+:
+Age
+Gender
+Reported        
+P
+1/8/2025  10:21:00AM
+Self
+184866260
+Ms. ANUSHTHA  KUSHWAHA
+:
+:
+:
+:
+:
+Name        
+Lab No.    
+Ref By 
+Collected       
+A/c Status 
+Final
+1/8/2025  1:59:12PM
+Dr. Lal Path Labs Ltd
+Lanka ,Varanasi 221005
+:
+:
+Collected at     
+Processed at      
+PSC-VARANASI HOME VISIT
+SHOP NO. 38 GROUND FLOOR, SHASTRI NAGAR,  
+OPP. SAJAN CINEMA HALL, VARANASI-221001
+Varanasi 221001
+Test Report      
+Test Name
+Results
+Units
+Bio. Ref. Interval
+·
+Vitamin D malabsorption
+·
+Severe  Hepatocellular disease
+·
+Drugs like Anticonvulsants
+·
+Nephrotic syndrome
+Increased levels
+Vitamin D intoxication 
+Dr. Gourik Gangopadhyay
+MBBS, MD (PATH)
+Consultant Pathologist                          
+Dr Lal PathLabs Ltd
+Dr.Jyoti Sharma
+MBBS,MD Pathology
+Consultant Pathologist                          
+Dr Lal PathLabs Ltd
+Dr Nishant Bhagoliwal
+DCP, Pathology
+Consultant Pathologist                          
+Dr Lal PathLabs Ltd
+-------------------------------End of report --------------------------------
+AHEEEHAPMAAPGNDCMDJOIGLMAJKMFGDONKKOECLFBCCJOPAHEEEHA
+BNFFFNBPACJCBHBDMHMCBLEHAHFHAHFLBGJLMHJLICAPNPBNFFFNB
+FNCHFDFNJGCJAHLJCMGEGFKFCEHCHIAGMFHCBLHJOAKEHKFCFDHOL
+PIPMIFFHCOLGLFGPPKEOOIIOMGFKOLKDIFNKHLNGKNCHHKNMHBHDD
+FPMCICFHPKPDOCEEBFOKBOIJCKPHKDKEMDEPFDHKMFCHHDNKBCDCG
+NJCPADFEOMEHCJKIJONFMIHGGOJNDEDPOEMFACOJOAAAEKNKBKPMC
+PEMFAHFHAOBDHPLKPOECNFJDAHFHAKALLCNFAINFMKKDAHFHACHEL
+GAOBDDFCHJHNOPPDIOKHGHLCFFHFFGDDKKNFCMNDKAKBGFGHCHDLL
+NFCOIIFOEEKAJJGEADPMMLOKHPKBHCLBPEFEBANEOFCIBACDIHHCL
+CFGENDFDKIONEJBDFCPABNLKKKLGNCKGIOFKBFELINKONJKJDGDDC
+FEOJJBFPENLEDAIGJFCALENKHKLMNLAOOMNCBNFENBAKLBOAAOHMD
+MNNFNNEPCNAMEFMIMGALPKMBAHFHAAAGLCNFEKNOLECIAHFHAKHKP
+APBBBPAPBNDHJHCCEPEJCIFIACHGEECDLGMAFFNJMGKECBDDEFHMJ
+HHHHHHHPHHPPPPPPHPPPPPHHHHPHPHPHPHPHHPHHPPPPPHPPHHHPP
+IMPORTANT INSTRUCTIONS
+ŸTest results released pertain to the specimen submitted.ŸAll test results are dependent on the quality of the sample received by the Laboratory . 
+ŸLaboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician .ŸReport 
+delivery may be delayed due to unforeseen circumstances. Inconvenience is regretted .ŸCertain tests may require further testing at additional cost for 
+derivation of exact value. Kindly submit request within 72 hours post reporting.ŸTest results may show interlaboratory variations.ŸThe Courts/Forum 
+at Delhi shall have exclusive jurisdiction in all disputes /claims concerning the test(s) & or results of test(s).ŸTest results are not valid for medico legal 
+purposes.ŸThis is computer generated medical diagnostic report that has been validated by Authorized Medical Practitioner /Doctor.ŸThe report does 
+not need physical signature. 
+(#) Sample drawn from outside source.
+If Test results are alarming or unexpected, client is advised to contact the Customer Care immediately for possible remedial action. 
+Tel: +91-11-49885050,Fax: - +91-11-2788-2134, E-mail: lalpathlabs@lalpathlabs.com 
+PatientReportSCSuperPanel.SP_GENERAL_TEMPLATE01_SC (Version: 7)
+*184866260*
+Page 2 of 2
+
+
+==== PARSED RESULTS ====
+
+[
+  {
+    "error": "Gemini fallback failed: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+  }
+]
+
+==== SOURCE ====
+error
