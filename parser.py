@@ -1,10 +1,12 @@
 # parser.py
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+import os
+# Only use the Windows path if running on Windows
+if os.name == 'nt':
+    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 import fitz
 import re
 import json
-import os
 from typing import List, Dict, Any, Optional
 from PIL import Image, ImageOps, ImageFilter
 
@@ -493,7 +495,6 @@ def parse_awadh(text: str) -> List[Dict[str, str]]:
     if len(results) < 3:
         print("[INFO] Awadh parser: very few results from chaos_parser")
     return results
-
 
 # -------------------- CLI / quick test runner --------------------
 def main():

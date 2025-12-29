@@ -42,6 +42,7 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 PyMuPDF==1.26.3
 pyparsing==3.2.3
+pytesseract
 python-dotenv==1.1.1
 python-multipart==0.0.20
 PyYAML==6.0.2
