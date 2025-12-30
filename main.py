@@ -121,7 +121,7 @@ async def gemini_parse(text: str) -> List[Dict[str, Any]]:
     if cached:
         return cached
 
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-pro")
     prompt = f"""
 You are a medical lab report parser. Extract ALL test results from the text.
 
@@ -218,7 +218,7 @@ def merge_results(gemini_results: List[Dict[str, Any]],
 
 # ---------------------------- AI Analysis -----------------------------------
 async def get_ai_analysis(parsed: ParsedReport) -> Dict[str, Any]:
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-pro")
 
     lines = []
     for it in parsed.data:
@@ -293,7 +293,7 @@ async def translate_json_to_hindi(payload: Dict[str, Any]) -> Dict[str, Any]:
     Translate ONLY values (not keys) to Hindi, preserving structure and numbers.
     Uses Gemini; falls back to a tiny phrasebook if model fails.
     """
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-pro")
     instruction = """
 Translate the *values* of this JSON to Hindi.
 - Keep the JSON structure and all KEYS exactly the same.
