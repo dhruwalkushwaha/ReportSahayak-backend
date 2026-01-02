@@ -32,6 +32,7 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 orjson==3.11.1
 proto-plus==1.26.1
+pdf2image
 protobuf==5.29.5
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
