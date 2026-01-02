@@ -41,12 +41,24 @@ if not GOOGLE_API_KEY:
     raise ValueError("❌ GOOGLE_API_KEY is missing! Please put it in .env")
 genai.configure(api_key=GOOGLE_API_KEY)
 
+# === PASTE THE DEBUG CODE HERE ===
+# --- DEBUGGING START (Print what models are actually available) ---
+try:
+    print(f"--- CHECKING API KEY ACCESS ({GOOGLE_API_KEY[:5]}...) ---")
+    available_models = []
+    for m in genai.list_models():
+        if 'generateContent' in m.supported_generation_methods:
+            available_models.append(m.name)
+    print(f"AVAILABLE MODELS: {available_models}")
+except Exception as e:
+    print(f"CRITICAL ERROR LISTING MODELS: {e}")
+# --- DEBUGGING END ---
+# =================================
+
 DEBUG_DIR = "data/parser_debugs_v3"
 os.makedirs(DEBUG_DIR, exist_ok=True)
 CACHE_DIR = "data/gemini_cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
-
-DEFAULT_THRESHOLD = 3
 
 # ------------------------------- models -------------------------------------
 class ReportDataItem(BaseModel):
@@ -121,7 +133,7 @@ async def gemini_parse(text: str) -> List[Dict[str, Any]]:
     if cached:
         return cached
 
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-1.5-flash-001")
     prompt = f"""
 You are a medical lab report parser. Extract ALL test results from the text.
 
@@ -218,7 +230,7 @@ def merge_results(gemini_results: List[Dict[str, Any]],
 
 # ---------------------------- AI Analysis -----------------------------------
 async def get_ai_analysis(parsed: ParsedReport) -> Dict[str, Any]:
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-1.5-flash-001")
 
     lines = []
     for it in parsed.data:
@@ -293,7 +305,7 @@ async def translate_json_to_hindi(payload: Dict[str, Any]) -> Dict[str, Any]:
     Translate ONLY values (not keys) to Hindi, preserving structure and numbers.
     Uses Gemini; falls back to a tiny phrasebook if model fails.
     """
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-1.5-flash-001")
     instruction = """
 Translate the *values* of this JSON to Hindi.
 - Keep the JSON structure and all KEYS exactly the same.
