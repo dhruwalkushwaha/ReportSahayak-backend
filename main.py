@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-main.py — vfurtherProgress baseline (upload + analyze) with Hindi support.
-- Keeps your proven flow:
-    PDF -> identify_lab -> regex parser(s) -> Gemini extraction -> smart merge
+main.py — vfurtherProgress baseline (upload + analyze) with Multilingual support (11 Languages).
+- Keeps your proven flow: PDF -> identify_lab -> regex parser(s) -> Gemini extraction -> smart merge
 - Adds OCR fallback: attempts to OCR scanned PDFs when structured parsing fails.
-- Adds language parameter to /analyze-report/ and does JSON-preserving translation to Hindi.
+- Adds Universal Translation: Supports Hindi, Tamil, Telugu, Kannada, Malayalam, etc.
 - Preserves Swagger schemas for both endpoints.
 """
 
@@ -41,20 +40,6 @@ if not GOOGLE_API_KEY:
     raise ValueError("❌ GOOGLE_API_KEY is missing! Please put it in .env")
 genai.configure(api_key=GOOGLE_API_KEY)
 
-# === PASTE THE DEBUG CODE HERE ===
-# --- DEBUGGING START (Print what models are actually available) ---
-try:
-    print(f"--- CHECKING API KEY ACCESS ({GOOGLE_API_KEY[:5]}...) ---")
-    available_models = []
-    for m in genai.list_models():
-        if 'generateContent' in m.supported_generation_methods:
-            available_models.append(m.name)
-    print(f"AVAILABLE MODELS: {available_models}")
-except Exception as e:
-    print(f"CRITICAL ERROR LISTING MODELS: {e}")
-# --- DEBUGGING END ---
-# =================================
-
 DEBUG_DIR = "data/parser_debugs_v3"
 os.makedirs(DEBUG_DIR, exist_ok=True)
 CACHE_DIR = "data/gemini_cache"
@@ -78,11 +63,15 @@ class AnalyzeRequest(BaseModel):
     Front-end posts:
     {
       "parsed_report": { "lab_name": "...", "data": [...] },
-      "language": "en" | "hi"
+      "language": "en" | "hi" | "ta" | "te" ...
     }
     """
     parsed_report: Dict[str, Any]
     language: Optional[str] = "en"
+
+class TranslationRequest(BaseModel):
+    text: Dict[str, Any]
+    target_language: str = "Hindi"
 
 # ------------------------------ helpers -------------------------------------
 def _sha(text: str) -> str:
@@ -105,9 +94,6 @@ def _completeness(e: Dict[str, Any]) -> int:
 
 def _n(n: str) -> str:
     return (n or "").strip().lower()
-
-def _safe_language(lang: Optional[str]) -> str:
-    return "hi" if (lang or "").lower().startswith("hi") else "en"
 
 def _normalize_parsed(payload: Dict[str, Any]) -> ParsedReport:
     """Coerce dict from FE into ParsedReport Pydantic."""
@@ -273,81 +259,74 @@ DATA:
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"AI analysis failed: {e}")
 
-# ------------------------ Hindi translation layer ---------------------------
-HI_DISCLAIMER = (
-    "यह एक AI-जनरेटेड विश्लेषण है और केवल जानकारी हेतु है। "
-    "यह पेशेवर चिकित्सीय सलाह का विकल्प नहीं है। किसी भी स्वास्थ्य चिंता के लिए कृपया चिकित्सक से परामर्श करें।"
-)
+# ------------------------ Universal Translation ---------------------------
+
 EN_DISCLAIMER = (
     "This is an AI-generated analysis and is for informational purposes only. "
     "It is not a substitute for professional medical advice. Please consult with a qualified doctor for any health concerns."
 )
 
-def _quick_hi_phrasebook(s: str) -> str:
-    # very small fallback phrasebook to avoid empty output if LLM translation fails
-    mapping = {
-        "summary": "सारांश",
-        "detailed analysis": "विस्तृत विश्लेषण",
-        "red blood cells": "लाल रक्त कण",
-        "white blood cells": "श्वेत रक्त कण",
-        "liver function": "यकृत कार्य",
-        "kidney": "गुर्दा",
-        "thyroid": "थायरॉइड",
-        "vitamins": "विटामिन",
-        "lipids": "लिपिड"
-    }
-    out = s
-    for en, hi in mapping.items():
-        out = re.sub(rf"\b{re.escape(en)}\b", hi, out, flags=re.IGNORECASE)
-    return out
+async def translate_json_payload(payload: Dict[str, Any], target_lang: str) -> Dict[str, Any]:
+    """
+    Translates the values of the JSON payload to the target language.
+    Keeps keys in English.
+    """
+    if target_lang.lower() in ["en", "english"]:
+        return payload
 
-async def translate_json_to_hindi(payload: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Translate ONLY values (not keys) to Hindi, preserving structure and numbers.
-    Uses Gemini; falls back to a tiny phrasebook if model fails.
-    """
     model = genai.GenerativeModel("gemini-flash-latest")
-    instruction = """
-Translate the *values* of this JSON to Hindi.
-- Keep the JSON structure and all KEYS exactly the same.
-- Do not translate numbers, units or symbols.
-- Return ONLY the translated JSON, no commentary, no code fences.
-"""
+    
+    prompt = f"""
+    You are a medical translator expert in Indian languages. 
+    Translate the values in the following JSON object to {target_lang}.
+    
+    Rules:
+    1. KEEP keys in English (e.g., "Hemoglobin", "RBC Count", "summary", "details").
+    2. TRANSLATE only the *values*, *descriptions*, *summaries*, and *notes* into {target_lang}.
+    3. Keep medical numbers and units (e.g., "12.7 g/dL") exactly as they are.
+    4. The output must be valid JSON.
+
+    Input JSON:
+    {json.dumps(payload, ensure_ascii=False)}
+    """
+    
     try:
-        prompt = instruction + "\nJSON:\n" + json.dumps(payload, ensure_ascii=False)
         resp = await model.generate_content_async(prompt)
         raw = (resp.text or "").strip()
-        s = raw.replace("```json", "").replace("```", "").strip()
-        # sometimes models echo text before/after; try to extract the object
-        m = re.search(r'\{.*\}\s*$', s, re.DOTALL)
-        s = m.group(0) if m else s
-        out = json.loads(s)
-        return out
+        cleaned_text = raw.replace("```json", "").replace("```", "").strip()
+        
+        # Robust parsing
+        try:
+            translated_data = json.loads(cleaned_text)
+        except json.JSONDecodeError:
+            # Fallback regex if extra text exists
+            m = re.search(r'\{.*\}', cleaned_text, re.DOTALL)
+            if m:
+                translated_data = json.loads(m.group(0))
+            else:
+                raise ValueError("Could not extract JSON from translation response")
+                
+        return translated_data
+
     except Exception as e:
-        # fallback: shallow value translation (very conservative)
-        print(f"[WARN] translate_json_to_hindi fallback: {e}")
-        def walk(v):
-            if isinstance(v, dict):
-                return {k: walk(v[k]) for k in v}
-            if isinstance(v, list):
-                return [walk(x) for x in v]
-            if isinstance(v, str):
-                return _quick_hi_phrasebook(v)
-            return v
-        return walk(payload)
+        print(f"[WARN] Translation failed: {e}")
+        # Return original on failure rather than crashing
+        return payload
 
 def add_disclaimer(result: Dict[str, Any], lang: str) -> Dict[str, Any]:
     r = dict(result)
-    r["disclaimer"] = HI_DISCLAIMER if lang == "hi" else EN_DISCLAIMER
+    # If the translation happened, the disclaimer inside might already be translated.
+    # If not, or if we want to ensure it, we can set a fallback.
+    # For now, we rely on the LLM to translate the disclaimer field if present.
+    if "disclaimer" not in r:
+        r["disclaimer"] = EN_DISCLAIMER
     return r
 
 # ------------------------------- OCR integration ----------------------------
-# Try to import a local OCR helper module (your ocr_implementation_patch.py)
 OCR_AVAILABLE = False
 ocr_processor = None
 try:
-    # If you provided a class named OCRProcessor in ocr_implementation_patch.py, use it.
-    from ocr_implementation_patch import OCRProcessor  # <- your uploaded module (optional)
+    from ocr_implementation_patch import OCRProcessor 
     try:
         ocr_processor = OCRProcessor()
         OCR_AVAILABLE = True
@@ -356,19 +335,12 @@ try:
         print("[WARN] OCRProcessor import succeeded but initialization failed:", e)
         OCR_AVAILABLE = False
 except Exception as e:
-    # not fatal — we'll fall back to pytesseract if available at runtime
     print("[INFO] ocr_implementation_patch not found or failed to import:", e)
     OCR_AVAILABLE = False
 
 async def _run_ocr_fallback(pdf_bytes: bytes, language: str = "en") -> Dict[str, Any]:
     """
-    Run OCR on the PDF and attempt parsing the OCR text with the same pipeline:
-      - identify_lab on OCR text
-      - regex parser for detected lab
-      - gemini_parse on OCR text
-      - merge results
-    Returns: dict { lab, data(list), ocr_text }
-    Raises an Exception on failure.
+    Run OCR on the PDF and attempt parsing the OCR text.
     """
     lang_code = "hin" if language == "hi" else "eng"
     ocr_text = ""
@@ -377,51 +349,43 @@ async def _run_ocr_fallback(pdf_bytes: bytes, language: str = "en") -> Dict[str,
     if OCR_AVAILABLE and ocr_processor is not None:
         try:
             res = ocr_processor.process_pdf_bytes(pdf_bytes, lang=lang_code)
-            # support async or sync processors
             if hasattr(res, "__await__"):
                 res = await res
             if isinstance(res, dict):
-                # common keys: 'text', 'ocr_text', 'pages'
                 ocr_text = res.get("text") or res.get("ocr_text") or "\n".join(res.get("pages", []))
             elif isinstance(res, str):
                 ocr_text = res
             else:
                 ocr_text = str(res or "")
-            print("[INFO] OCRProcessor returned text length:", len(ocr_text or ""))
         except Exception as e:
             print("[WARN] OCRProcessor failed at runtime:", e)
             ocr_text = ""
 
-    # 2) Fallback: direct pytesseract via PyMuPDF -> PIL images
+    # 2) Fallback: direct pytesseract
     if not ocr_text:
         try:
             import pytesseract
             from PIL import Image
         except Exception as e:
-            raise Exception(f"No OCR provider available (pytesseract not installed and OCRProcessor unavailable): {e}")
+            raise Exception(f"No OCR provider available: {e}")
 
         try:
             pages_text = []
             doc = fitz.open(stream=pdf_bytes, filetype="pdf")
             for pno, p in enumerate(doc):
-                # render at reasonably high DPI for OCR
                 pix = p.get_pixmap(dpi=220)
                 png_bytes = pix.tobytes("png")
                 img = Image.open(io.BytesIO(png_bytes))
-                # preprocess: convert to L (grayscale). We keep preprocessing minimal here.
                 img = img.convert("L")
-                # You can add thresholding/deskew here if desired.
                 txt = pytesseract.image_to_string(img, lang=lang_code)
                 pages_text.append(txt)
             ocr_text = "\n\n".join(pages_text)
-            print("[INFO] pytesseract OCR produced length:", len(ocr_text or ""))
         except Exception as e:
             raise Exception(f"OCR (pytesseract path) failed: {e}")
 
     if not ocr_text or len(ocr_text.strip()) < 20:
         raise Exception("OCR produced no useful text")
 
-    # 3) Identify lab on OCR text & run regex parsers (try to re-detect)
     lab2 = identify_lab(ocr_text)
     if lab2 == "lal_pathlabs":
         regex_results2 = enhanced_parse_lal_pathlabs(ocr_text)
@@ -434,31 +398,17 @@ async def _run_ocr_fallback(pdf_bytes: bytes, language: str = "en") -> Dict[str,
     else:
         regex_results2 = []
 
-    # 4) Gemini parse on OCR text
     ai_results2 = await gemini_parse(ocr_text)
-
     merged2 = merge_results(ai_results2, regex_results2, threshold=DEFAULT_THRESHOLD)
-
-    # debug save
-    try:
-        save_debug_report(
-            lab2,
-            "uploaded_via_ocr.pdf",
-            ocr_text,
-            merged2,
-            extra={"ocr": True, "ocr_text_len": len(ocr_text or ""), "regex_count": len(regex_results2), "gemini_count": len(ai_results2)}
-        )
-    except Exception as e:
-        print("[WARN] save_debug_report failed for OCR fallback:", e)
 
     return {"lab": lab2, "data": merged2, "ocr_text": ocr_text}
 
 # ------------------------------- FastAPI ------------------------------------
-app = FastAPI(title="ReportSahayak API", version="0.1.0")
+app = FastAPI(title="ReportSahayak API", version="0.2.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # <--- CHANGED: Allows ALL domains (Vercel, Localhost, etc.)
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -466,7 +416,7 @@ app.add_middleware(
 
 @app.get("/")
 def root():
-    return {"message": "ReportSahayak API — vfurtherProgress + Hindi"}
+    return {"message": "ReportSahayak API — Multilingual & OCR Enabled"}
 
 # ---- 1) Upload PDF -> parse (regex + gemini merge) with OCR fallback ----------
 @app.post("/upload-report/")
@@ -482,7 +432,7 @@ async def upload_report(file: UploadFile = File(...)):
 
     lab = identify_lab(text)
 
-    # Deterministic regex first (your stable parsers)
+    # Deterministic regex first
     if lab == "lal_pathlabs":
         regex_results = enhanced_parse_lal_pathlabs(text)
     elif lab == "apollo":
@@ -494,24 +444,10 @@ async def upload_report(file: UploadFile = File(...)):
     else:
         regex_results = []
 
-    # Gemini extraction
     ai_results = await gemini_parse(text)
-
-    # Merge
     merged = merge_results(ai_results, regex_results, threshold=DEFAULT_THRESHOLD)
 
-    # Debug log for primary parse
-    try:
-        save_debug_report(
-            lab, getattr(file, "filename", "uploaded.pdf"), text, merged,
-            extra={"regex_count": len(regex_results), "gemini_count": len(ai_results)}
-        )
-    except Exception as e:
-        print("[WARN] save_debug_report failed for primary parse:", e)
-
     source_label = "hybrid"
-
-    # If primary merge produced nothing or very few items, try OCR fallback
     try_ocr = False
     if not merged or len(merged) < 3:
         try_ocr = True
@@ -524,49 +460,51 @@ async def upload_report(file: UploadFile = File(...)):
                 lab = ocr_result.get("lab", lab)
                 source_label = "ocr_fallback"
             else:
-                # if OCR returned no data, keep prior behavior: error
                 raise Exception("OCR fallback parsed no fields")
         except Exception as e:
-            # final failure: still return a 400 telling user OCR attempt failed
-            raise HTTPException(status_code=400, detail=f"Could not parse any results from the report. OCR attempt failed: {e}")
+            # If no data found at all, raise error
+            raise HTTPException(status_code=400, detail=f"Could not parse any results. OCR attempt failed: {e}")
 
     if not merged:
         raise HTTPException(status_code=400, detail="Could not parse any results from the report.")
 
     return {"lab_name": lab, "data": merged, "source": source_label}
 
-# ---- 2) Analyze parsed JSON -> AI analysis (+ optional Hindi) --------------
+# ---- 2) Analyze parsed JSON -> AI analysis (+ optional Multilingual) --------------
 @app.post("/analyze-report/")
 async def analyze_report(body: Dict[str, Any]):
     """
-    Accepts either:
-    {
-      "parsed_report": { "lab_name": "...", "data": [...] },
-      "language": "en"
-    }
-    OR the raw parsed report directly:
-    {
-      "lab_name": "...",
-      "data": [...]
-    }
+    Accepts:
+    { "parsed_report": {...}, "language": "en" | "hi" | "ta" | "te" ... }
     """
-    lang = _safe_language(body.get("language", "en"))
+    # Default to English if missing
+    lang = body.get("language", "en")
 
-    # Unify payload
     if "parsed_report" in body:
         payload = body["parsed_report"]
     else:
-        payload = body  # assume raw
+        payload = body 
 
-    parsed = _normalize_parsed(payload)  # strict model
+    parsed = _normalize_parsed(payload)
     analysis = await get_ai_analysis(parsed)
 
-    # Always attach disclaimer in the target language
+    # Translate if language is NOT English
+    if lang.lower() not in ["en", "english"]:
+        analysis = await translate_json_payload(analysis, lang)
+    
+    # Ensure disclaimer exists (translated or English fallback)
     analysis = add_disclaimer(analysis, lang)
-
-    # Translate only if Hindi requested
-    if lang == "hi":
-        analysis = await translate_json_to_hindi(analysis)
-        analysis["disclaimer"] = HI_DISCLAIMER
+    
     return analysis
 
+# ---- 3) Dedicated Translation Endpoint (New) ----------------------------
+@app.post("/translate-report/")
+async def translate_report_endpoint(request: TranslationRequest):
+    """
+    Directly translates a JSON analysis report to the target language.
+    """
+    try:
+        translated = await translate_json_payload(request.text, request.target_language)
+        return translated
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Translation failed: {str(e)}")
