@@ -22,5 +22,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 6. Make port 10000 available
 EXPOSE 10000
 
-# 7. Run the application
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "10000"]
+# 7. Run the application.
+# Respect the platform-provided $PORT (Render/Heroku set this) and fall back
+# to 10000 for local Docker runs.
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-10000}"]

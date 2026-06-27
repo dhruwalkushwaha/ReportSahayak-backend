@@ -1,14 +1,24 @@
 # parser.py
-import pytesseract
 import os
-# Only use the Windows path if running on Windows
-if os.name == 'nt':
-    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-import fitz
+import io
 import re
 import json
 from typing import List, Dict, Any, Optional
-from PIL import Image, ImageOps, ImageFilter
+
+import fitz
+
+# OCR stack is optional: the app parses text-based PDFs without it. It is only
+# needed for scanned/image reports. Importing lazily keeps local runs working
+# even when tesseract/Pillow are not installed.
+try:
+    import pytesseract
+    from PIL import Image, ImageOps, ImageFilter
+    if os.name == 'nt':  # only use the Windows path when running on Windows
+        pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    OCR_LIBS_AVAILABLE = True
+except Exception as _e:  # pragma: no cover
+    OCR_LIBS_AVAILABLE = False
+    print(f"[INFO] OCR libraries not available in parser ({_e}); text-PDF parsing still works.")
 
 DEBUG_DIR = "data/parser_debugs_v3"
 os.makedirs(DEBUG_DIR, exist_ok=True)
@@ -190,6 +200,112 @@ def chaos_parser(text: str) -> List[Dict[str, str]]:
             unique.append(r)
 
     return unique
+
+
+# --------------------- Generic multi-line extractor ---------------------
+# Many labs (Apollo, Dr Lal, etc.) lay each result out vertically:
+#     TEST NAME
+#     <value>
+#     <reference range>
+# This forgiving extractor reconstructs those name -> value -> range triples and
+# works across labs without any per-lab template. It is deliberately precise
+# about what counts as a "value"/"range" so headers, addresses, dates and page
+# numbers don't get mistaken for results.
+
+_NOISE_RE = re.compile(
+    r"(page\s*\d+\s*of|years?\b|\d+\s*y\s*\d+\s*m|/[fm]\b|tel:|fax|e-?mail|@|www\.|"
+    r"version:|sin\s*no|specimen|sample\s*id|barcode|reported|collected|received|"
+    r"machine:|method:|\d{6,}|\d{1,2}[:/]\d{2})",
+    re.IGNORECASE,
+)
+_VALUE_RE = re.compile(r"^[<>]?\s*\d{1,4}(?:[.,]\d+)?$")
+_RANGE_RE = re.compile(
+    r"^(?:[<>]\s*\d+(?:\.\d+)?|\d+(?:\.\d+)?\s*[-–—]\s*\d+(?:\.\d+)?)$"
+)
+# A standalone unit line (e.g. "nmol/L", "g/dL", "%", "thou/mm3") that labs
+# often print between the test name and its value.
+_UNIT_RE = re.compile(
+    r"^(%|[A-Za-zµμ][A-Za-zµμ0-9]*\s*/\s*[A-Za-zµμ0-9.\^]+|pg|fL|fl|dL|"
+    r"10\^\d+\s*/\s*[A-Za-zµμ]+L?)$"
+)
+
+
+def _is_value(line: str) -> bool:
+    return bool(_VALUE_RE.match(line.replace(" ", "")))
+
+
+def _is_range(line: str) -> bool:
+    return bool(_RANGE_RE.match(line.strip()))
+
+
+def _is_unit(line: str) -> bool:
+    s = line.strip()
+    return len(s) <= 12 and bool(_UNIT_RE.match(s))
+
+
+def _is_name(line: str) -> bool:
+    if not line or len(line) > 48:
+        return False
+    letters = sum(c.isalpha() for c in line)
+    if letters < 3 or len(line.split()) > 7:
+        return False
+    if _is_value(line) or _is_range(line):
+        return False
+    if _NOISE_RE.search(line):
+        return False
+    # A line that is purely a parenthetical method/qualifier — e.g. "(ECLIA)",
+    # "(IFCC, without P5P)" — is a continuation of the real test name above it,
+    # not a test in its own right. Don't treat it as a name.
+    if line.startswith("("):
+        return False
+    # A bare specimen word ("SERUM", "PLASMA", ...) is a qualifier, not a test.
+    if line.strip().lower() in {"serum", "plasma", "blood", "urine", "whole blood", "serum/plasma"}:
+        return False
+    return bool(re.match(r"^[A-Za-z]", line))
+
+
+def smart_extract(text: str) -> List[Dict[str, str]]:
+    """Reconstruct name/value/range triples from vertically laid-out reports."""
+    results: List[Dict[str, str]] = []
+    if not text:
+        return results
+    lines = [ln.strip() for ln in text.splitlines()]
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if ln and _is_name(ln):
+            val: Optional[str] = None
+            ref: Optional[str] = None
+            unit: str = ""
+            j, steps = i + 1, 0
+            while j < len(lines) and steps < 5:
+                w = lines[j]
+                if not w:
+                    j += 1
+                    continue
+                if _is_range(w) and ref is None:
+                    ref = w
+                elif _is_value(w) and val is None:
+                    val = w.replace(" ", "")
+                elif _is_unit(w) and not unit:
+                    unit = w.strip()  # absorb stray unit lines, keep scanning
+                elif _is_name(w):
+                    break  # a genuine next test name ends this window
+                steps += 1
+                j += 1
+                if val and ref:
+                    break
+            if val:
+                results.append({
+                    "test_name": re.sub(r"\s+", " ", ln).strip(),
+                    "value": val.replace(",", "."),
+                    "unit": unit,
+                    "ref_interval": (ref or "").strip(),
+                })
+                i = j
+                continue
+        i += 1
+    return results
 
 
 # ------------------ Your existing parsers (kept intact) ------------------
